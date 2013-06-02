@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """Extract the data in the budget appendix tables into a CSV file.
 
      extractdata <filename>
@@ -13,49 +14,56 @@ Produces several CSV files, of which only master.csv is currently useful.
 import sys
 import csv
 from xml.etree.ElementTree import ElementTree
+import argparse
 
-def recurse(node, indent=''):
-    for child in node:
-        print(indent, child.tag, child.attrib)
-        print(indent, '>', child.text)
-        recurse(child, indent + '  ')
+parser = argparse.ArgumentParser(description='Extract table data from US budget appendix')
+parser.add_argument('--db', action='store_true', default=False,
+                    help='Generate normalized CSV files suitable for SQL load')
+parser.add_argument('sourcexml', help='XML source of budget appendix')
+args = parser.parse_args()
 
 def setup_var(varname, header):
-    this = globals()[varname+'_file'] = csv.writer(open(varname+'.csv', 'w'))
-    this.writerow(header)
+    globals()[varname+'_seq'] = 0
+    if args.db:
+        this = globals()[varname+'_file'] = csv.writer(open(varname+'.csv', 'w'))
+        this.writerow(header)
 
 def handle_tree(tree):
     for agency in tree.iterfind('.//agency'):
         handle_agency(agency)
 
-setup_var('agency', ['agency-code', 'agency-name'])
+setup_var('agency', ['agency-seq', 'agency-code', 'agency-name'])
 def handle_agency(agency):
-    global agency_code, agency_name
+    global agency_code, agency_name, agency_seq
+    agency_seq += 1
     agency_code = agency.attrib['agency-code']
     agency_name = agency.find('header').text.strip()
-    agency_file.writerow([agency_code, agency_name])
+    if args.db:
+        agency_file.writerow([agency_seq, agency_code, agency_name])
     for bureau in agency.iterfind('.//bureau'):
         handle_bureau(bureau)
 
-setup_var('bureau', ['agency-code', 'bureau-code', 'bureau-name'])
+setup_var('bureau', ['agency-seq', 'bureau-code', 'bureau-name'])
 def handle_bureau(bureau):
     global bureau_code, bureau_name
     bureau_code = bureau.attrib['bureau-code']
     bureau_name = bureau.find('header').text.strip()
-    bureau_file.writerow([agency_code, bureau_code, bureau_name])
+    if args.db:
+        bureau_file.writerow([agency_seq, bureau_code, bureau_name])
     for account in bureau.iterfind('.//account'):
         if account.attrib['level-in-dtd'].strip() != 'ACCOUNT':
             continue
         handle_account(account)
 
-setup_var('account', ['account-code', 'treasury-code', 'account_name', 'account-deleted'])
+setup_var('account', ['account-seq', 'bureau-code', 'treasury-code', 'account_name', 'account-deleted'])
 def handle_account(account):
     global treasury_code, account_code, account_name, account_deleted
     account_code = account.attrib['account-code']
     treasury_code = account.attrib['treasury-code']
     account_name = account.find('header').text.strip()
     account_deleted = account.attrib['account-deleted']
-    account_file.writerow([account_code, treasury_code, account_name, account_deleted])
+    if args.db:
+        account_file.writerow([account_seq, bureau_code, treasury_code, account_name, account_deleted])
     for schedule in account.iterfind('.//schedule'):
         handle_schedule(schedule)
 
@@ -84,9 +92,11 @@ master.writerow(['agency-code',
                  'col5'
                  ])
 
-setup_var('schedule', ['treasury-id', 'schedule-code', 'schedule-treasury-id', 'schedule-name'])
+setup_var('schedule', ['account_seq', 'bureau_code', 'treasury-id', 'schedule-code', 'schedule-treasury-id', 'schedule-name', 'col3_head', 'col4_head', 'col5_head'])
+setup_var('tables', ['row-num', 'stub-hierarchy', 'col1', 'col2', 'col3', 'col4', 'col5'])
 def handle_schedule(schedule):
-    global schedule_code, schedule_name, schedule_treasury_id, table_type, col3_head, col4_head, col5_head
+    global schedule_seq, schedule_code, schedule_name, schedule_treasury_id, table_type, col3_head, col4_head, col5_head
+    schedule_seq += 1
     schedule_code = schedule.attrib['schedule-code']
     tables = schedule.findall('table')
     assert len(tables) == 1
@@ -113,10 +123,10 @@ def handle_schedule(schedule):
         else:
             col5_head = rows[3].text.strip()
         assert len(rows) < 5
+    if args.db:
+        schedule_file.writerow([schedule_seq, account_seq, bureau_code, treasury_code, schedule_code, schedule_treasury_id, schedule_name, col3_head, col4_head, col5_head])
     table_body = schedule.find('.//tbody')
     if table_body is not None:
-        stub_hierarchy = False
-        got_total = False
         for row_num, row in enumerate(table_body.findall('row')):
             entries = row.findall('entry')
             if len(entries) > 1 and 'stub-hierarchy' in entries[1].attrib:
@@ -128,6 +138,9 @@ def handle_schedule(schedule):
                 entries.extend([None, None])
             if col5_head == 'NA':
                 entries.append(None)
+
+            if args.db:
+                tables_file.writerow([schedule_seq, row_num, stub_hierarchy] + entries)
 
             master.writerow([agency_code,
                              agency_name,
@@ -148,9 +161,6 @@ def handle_schedule(schedule):
                              row_num,
                              ] + entries)
 
-    schedule_file.writerow([treasury_code, account_code, schedule_code, schedule_treasury_id, schedule_name, col3_head, col4_head, col5_head])
 
 
-
-
-handle_tree(ElementTree(file=sys.argv[1]))
+handle_tree(ElementTree(file=args.sourcexml))
