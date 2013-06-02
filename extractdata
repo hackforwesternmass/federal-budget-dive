@@ -1,0 +1,156 @@
+#!/usr/bin/python3
+"""Extract the data in the budget appendix tables into a CSV file.
+
+     extractdata <filename>
+
+Produces several CSV files, of which only master.csv is currently useful.
+"""
+
+# The other csv files will eventually be suitable for loading into an SQL
+# database, but that part of the code isn't quite finished yet (there are some
+# missing cross links between the tables and no table table).
+
+import sys
+import csv
+from xml.etree.ElementTree import ElementTree
+
+def recurse(node, indent=''):
+    for child in node:
+        print(indent, child.tag, child.attrib)
+        print(indent, '>', child.text)
+        recurse(child, indent + '  ')
+
+def setup_var(varname, header):
+    this = globals()[varname+'_file'] = csv.writer(open(varname+'.csv', 'w'))
+    this.writerow(header)
+
+def handle_tree(tree):
+    for agency in tree.iterfind('.//agency'):
+        handle_agency(agency)
+
+setup_var('agency', ['agency-code', 'agency-name'])
+def handle_agency(agency):
+    global agency_code, agency_name
+    agency_code = agency.attrib['agency-code']
+    agency_name = agency.find('header').text.strip()
+    agency_file.writerow([agency_code, agency_name])
+    for bureau in agency.iterfind('.//bureau'):
+        handle_bureau(bureau)
+
+setup_var('bureau', ['agency-code', 'bureau-code', 'bureau-name'])
+def handle_bureau(bureau):
+    global bureau_code, bureau_name
+    bureau_code = bureau.attrib['bureau-code']
+    bureau_name = bureau.find('header').text.strip()
+    bureau_file.writerow([agency_code, bureau_code, bureau_name])
+    for account in bureau.iterfind('.//account'):
+        if account.attrib['level-in-dtd'].strip() != 'ACCOUNT':
+            continue
+        handle_account(account)
+
+setup_var('account', ['account-code', 'treasury-code', 'account_name', 'account-deleted'])
+def handle_account(account):
+    global treasury_code, account_code, account_name, account_deleted
+    account_code = account.attrib['account-code']
+    treasury_code = account.attrib['treasury-code']
+    account_name = account.find('header').text.strip()
+    account_deleted = account.attrib['account-deleted']
+    account_file.writerow([account_code, treasury_code, account_name, account_deleted])
+    for schedule in account.iterfind('.//schedule'):
+        handle_schedule(schedule)
+
+master = csv.writer(open('master.csv', 'w'))
+master.writerow(['agency-code',
+                 'agency-name',
+                 'bureau-code',
+                 'bureau-name',
+                 'treasury-code',
+                 'account-code',
+                 'account-name',
+                 'account-deleted',
+                 'treasury-code',
+                 'schedule-code',
+                 'schedule-treasury-id',
+                 'schedule-name',
+                 'col3-head',
+                 'col4-head',
+                 'col5-head',
+                 'stub-hierarchy',
+                 'row-num',
+                 'col1',
+                 'col2',
+                 'col3',
+                 'col4',
+                 'col5'
+                 ])
+
+setup_var('schedule', ['treasury-id', 'schedule-code', 'schedule-treasury-id', 'schedule-name'])
+def handle_schedule(schedule):
+    global schedule_code, schedule_name, schedule_treasury_id, table_type, col3_head, col4_head, col5_head
+    schedule_code = schedule.attrib['schedule-code']
+    tables = schedule.findall('table')
+    assert len(tables) == 1
+    table = tables[0]
+    table_title = table.find('ttitle')
+    if table_title is not None:
+        table_title = table_title.text
+    schedule_name = table_title if table_title is None else table_title.strip()
+    schedule_treasury_id = None
+    table_head = schedule.find('.//thead')
+    if table_head is not None:
+        rows = table_head.find('row').findall('entry')
+        schedule_treasury_id = rows[0].text
+        schedule_treasury_id = schedule.find('.//thead').find('row').find('entry').text
+        if schedule_treasury_id is not None:
+            schedule_treasury_id = schedule_treasury_id.strip()
+            expected_prefix = 'Identification code '
+            if schedule_treasury_id.startswith(expected_prefix):
+                schedule_treasury_id = schedule_treasury_id[len(expected_prefix):]
+        col3_head = rows[1].text.strip()
+        col4_head = rows[2].text.strip()
+        if len(rows) < 4:
+            col5_head = 'NA'
+        else:
+            col5_head = rows[3].text.strip()
+        assert len(rows) < 5
+    table_body = schedule.find('.//tbody')
+    if table_body is not None:
+        stub_hierarchy = False
+        got_total = False
+        for row_num, row in enumerate(table_body.findall('row')):
+            entries = row.findall('entry')
+            if len(entries) > 1 and 'stub-hierarchy' in entries[1].attrib:
+                stub_hierarchy = entries[1].attrib['stub-hierarchy']
+            else:
+                stub_hierarchy = None
+            entries = [entry.text.strip() if entry.text else None for entry in entries]
+            if len(entries) == 2:
+                entries.extend([None, None])
+            if col5_head == 'NA':
+                entries.append(None)
+
+            master.writerow([agency_code,
+                             agency_name,
+                             bureau_code,
+                             bureau_name,
+                             treasury_code,
+                             account_code,
+                             account_name,
+                             account_deleted,
+                             treasury_code,
+                             schedule_code,
+                             schedule_treasury_id,
+                             schedule_name,
+                             col3_head,
+                             col4_head,
+                             col5_head,
+                             stub_hierarchy,
+                             row_num,
+                             ] + entries)
+
+    schedule_file.writerow([treasury_code, account_code, schedule_code, schedule_treasury_id, schedule_name, col3_head, col4_head, col5_head])
+
+
+
+
+handle_tree(ElementTree(file=sys.argv[1]))
