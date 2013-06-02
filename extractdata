@@ -116,6 +116,7 @@ def handle_schedule(schedule):
             expected_prefix = 'Identification code '
             if schedule_treasury_id.startswith(expected_prefix):
                 schedule_treasury_id = schedule_treasury_id[len(expected_prefix):]
+            schedule_treasury_id = schedule_treasury_id.replace(chr(8211), '-')
         col3_head = rows[1].text.strip()
         col4_head = rows[2].text.strip()
         if len(rows) < 4:
