@@ -92,8 +92,8 @@ master.writerow(['agency-code',
                  'col5'
                  ])
 
-setup_var('schedule', ['account_seq', 'bureau_code', 'treasury-id', 'schedule-code', 'schedule-treasury-id', 'schedule-name', 'col3_head', 'col4_head', 'col5_head'])
-setup_var('tables', ['row-num', 'stub-hierarchy', 'col1', 'col2', 'col3', 'col4', 'col5'])
+setup_var('schedule', ['schedule_seq', 'account_seq', 'bureau_code', 'treasury-id', 'schedule-code', 'schedule-treasury-id', 'schedule-name', 'col3_head', 'col4_head', 'col5_head'])
+setup_var('tables', ['schedule_seq', 'row-num', 'stub-hierarchy', 'col1', 'col2', 'col3', 'col4', 'col5'])
 def handle_schedule(schedule):
     global schedule_seq, schedule_code, schedule_name, schedule_treasury_id, table_type, col3_head, col4_head, col5_head
     schedule_seq += 1
@@ -135,10 +135,7 @@ def handle_schedule(schedule):
             else:
                 stub_hierarchy = None
             entries = [entry.text.strip() if entry.text else None for entry in entries]
-            if len(entries) == 2:
-                entries.extend([None, None])
-            if col5_head == 'NA':
-                entries.append(None)
+            entries.extend([None] * (5 - len(entries)))
 
             if args.db:
                 tables_file.writerow([schedule_seq, row_num, stub_hierarchy] + entries)
