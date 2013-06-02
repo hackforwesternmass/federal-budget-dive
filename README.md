@@ -49,3 +49,8 @@ the accounts and schedules are given sequential id numbers to allow linking.
 The file `sqlite-load.sql` can be used to load the files into sqlite:
 
     sqlite3 test.db <sqlite-load.sql
+
+The budget_appendix_data directory contains the source xml for the complete
+budget appendix, plus a copy of the `master.csv` file produced by the script
+renamed to `us-budget-appendix-2013.csv`, plus copies of the files produced by
+the ``--db`` option.
