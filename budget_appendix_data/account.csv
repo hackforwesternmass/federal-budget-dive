@@ -1,0 +1,3034 @@
+account-seq,bureau-code,treasury-code,account_name,account-deleted
+0,00,,EXPLANATION OF ESTIMATES,N
+0,SP,,GENERAL PROVISIONS,N
+0,05,00-0100,"Compensation of Members, Senate",N
+0,05,,Expense Allowances,N
+0,05,,Representation Allowances for the Majority and Minority Leaders,N
+0,05,,"Salaries, Officers and Employees",N
+0,05,,Office of the Legislative Counsel of the Senate,N
+0,05,00-0110,"Salaries, Officers and Employees",N
+0,05,,Office of Senate Legal Counsel,N
+0,05,,Payments to widows and heirs of deceased members of Congress,N
+0,05,,"Expense Allowances of the Secretary of the Senate, Sergeant at Arms and Doorkeeper of the Senate, and Secretaries for the Majority and Minority of the Senate",N
+0,05,00-0185,Office of the Legislative Counsel of the Senate,N
+0,05,,Contingent Expenses of the Senate,N
+0,05,,Expenses of the United States Senate Caucus on International Narcotics Control,N
+0,05,,Secretary of the Senate,N
+0,05,,Sergeant at Arms and Doorkeeper of the Senate,N
+0,05,,Miscellaneous Items,N
+0,05,00-0128,Inquiries and Investigations,N
+0,05,,Senators' Official Personnel and Office Expense Account,N
+0,05,,Official Mail Costs,N
+0,05,00-0123,Miscellaneous Items,N
+0,05,00-0130,Senators' Official Personnel and Office Expense Account,N
+0,05,00-0126,Secretary of the Senate,N
+0,05,00-0127,Sergeant at Arms and Doorkeeper of the Senate,N
+0,05,00-0188,"Congressional Use of Foreign Currency, Senate",N
+0,05,00-9911,Senate Items,N
+0,05,00-9932,Senate Revolving Funds,N
+0,05,,ADMINISTRATIVE PROVISIONS,N
+0,10,00-0200,Compensation of Members and Related Administrative Expenses,N
+0,10,,Salaries and Expenses,N
+0,10,00-9931,House Revolving Funds,N
+0,10,00-0400,Salaries and Expenses,N
+0,10,00-0488,"Congressional Use of Foreign Currency, House of Representatives",N
+0,10,,ADMINISTRATIVE PROVISIONS,N
+0,11,00-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,11,00-0181,Joint Economic Committee,N
+0,11,00-0460,Joint Committee on Taxation,N
+0,11,00-0186,Joint Congressional Committee on Inaugural Ceremonies of 2013,N
+0,11,,Joint Committee on Taxation,N
+0,11,00-0425,Office of the Attending Physician,N
+0,11,,Office of the Attending Physician,N
+0,11,00-0190,Office of Congressional Accessibility Services,N
+0,11,,Office of Congressional Accessibility Services,N
+0,11,,ADMINISTRATIVE PROVISIONS,N
+0,13,02-0477,Salaries,N
+0,13,02-0476,General Expenses,N
+0,13,02-0461,Security Enhancements,N
+0,13,,ADMINISTRATIVE PROVISIONS,N
+0,12,09-1600,Salaries and Expenses,N
+0,12,09-1450,Awards and Settlements Funds,N
+0,14,08-0100,Salaries and Expenses,N
+0,14,,ADMINISTRATIVE PROVISIONS,N
+0,15,01-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,15,01-0100,General Administration,N
+0,15,01-0105,Capitol Building,N
+0,15,01-0108,Capitol Grounds,N
+0,15,01-0123,Senate Office Buildings,N
+0,15,01-0127,House Office Buildings,N
+0,15,01-1833,House Historic Buildings Revitalization Trust Fund,N
+0,15,01-0133,Capitol Power Plant,N
+0,15,01-0155,Library Buildings and Grounds,N
+0,15,01-0171,Capitol Police Buildings and Grounds,N
+0,15,01-0161,Capitol Visitor Center,N
+0,15,01-4296,Capitol Visitor Center Revolving Fund,N
+0,15,01-4518,Judiciary Office Building Development and Operations Fund,N
+0,15,01-818910,Gifts and Donations,N
+0,15,01-8189,Gifts and Donations,N
+0,18,09-0200,Botanic Garden,N
+0,18,09-8292,Gifts and Donations,N
+0,18,,ADMINISTRATIVE PROVISIONS,N
+0,25,03-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,25,03-388500,Undistributed Intragovernmental Payments,N
+0,25,03-517510,"Fees from Jukebox, Satellite and Cable Television for Operating Costs, Copyright Office",N
+0,25,03-517520,"Interest on Investments in Public Debt Securities, Copyright Office",N
+0,25,03-517530,"Fees for Digital Audio Recording Technology, Operating Costs",N
+0,25,03-0101,"Salaries and Expenses, Library of Congress",N
+0,25,03-0102,Copyright Office: Salaries and Expenses,N
+0,25,03-0127,Congressional Research Service: Salaries and Expenses,N
+0,25,03-0141,Books for the Blind and Physically Handicapped: Salaries and Expenses,N
+0,25,03-0146,Furniture and Furnishings,N
+0,25,03-5175,Payments to Copyright Owners,N
+0,25,03-4325,Cooperative Acquisitions Program Revolving Fund,N
+0,25,03-4339,Duplication Services,N
+0,25,03-4346,"Gift Shop, Decimal Classification, Photo Duplication, and Related Services",N
+0,25,03-4543,Fedlink Program and Federal Research Program,N
+0,25,03-803110,"Contributions, Library of Congress Gift Fund",N
+0,25,03-803210,"Contributions, Library of Congress Permanent Loan Account",N
+0,25,03-803220,"Interest, Library of Congress Permanent Loan Account",N
+0,25,03-803221,"Income from Donated Securities, Library of Congress",N
+0,25,03-820810,"Deposits, Service Fees, Library of Congress",N
+0,25,03-9971,Gift and Trust Fund Accounts,N
+0,25,,ADMINISTRATIVE PROVISIONS,N
+0,30,04-0203,Congressional Printing and Binding,N
+0,30,04-0201,Office of Superintendent of Documents: Salaries and Expenses,N
+0,30,04-4505,Government Printing Office Revolving Fund,N
+0,35,05-0107,Salaries and Expenses,N
+0,35,,ADMINISTRATIVE PROVISIONS,N
+0,40,23-0100,Salaries and Expenses,N
+0,40,23-811520,"Tax Court Judges Survivors Annuity, Interest and Profits on Investments",N
+0,40,23-8115,Tax Court Judges Survivors Annuity Fund,N
+0,45,00-550910,"Gifts, Senate Preservation Fund",N
+0,45,00-550920,"Earnings on Investments, Senate Preservation Fund",N
+0,45,48-554910,"Gifts and Contributions, Dwight D. Eisenhower Memorial Fund",N
+0,45,48-554920,"Earnings on Investments, Dwight D. Eisenhower Memorial Fund",N
+0,45,48-1550,Medicare Payment Advisory Commission,N
+0,45,09-1801,Medicaid and Chip Payment and Access Commission,N
+0,45,48-2973,United States-China Economic and Security Review Commission,N
+0,45,48-2975,Commission on International Religious Freedom,N
+0,45,09-1501,National Commission on Terrorist Attacks upon the United States,N
+0,45,09-9911,Other Legislative Branch Boards and Commissions,N
+0,45,48-2990,"Capital Construction, Dwight D. Eisenhower Memorial  Commission",N
+0,45,48-5549,Dwight D. Eisenhower Memorial Fund,N
+0,45,09-0145,Payment to Open World Leadership Center Trust Fund,N
+0,45,48-2999,Commission on Review of Overseas Military Facility Structure of the United States,N
+0,45,09-814810,"Gifts and Donations, Open World Leadership Center Trust Fund",N
+0,45,09-814820,"Earnings on Investments, Open World Leadership Center Trust Fund",N
+0,45,09-814830,"Payment from the General Fund, Open World Leadership Center Trust Fund",N
+0,45,09-827510,"Payments, John C. Stennis Center for Public Service Training and Development",N
+0,45,09-827520,"Interest Received by Trust Fund, J. C. Stennis Center",N
+0,45,09-830010,"Coin Sale Surcharges, U.S. Capitol Preservation Commission",N
+0,45,09-830020,"Interest on Investments, U.S. Capitol Preservation Commission",N
+0,45,09-8275,John C. Stennis Center for Public Service Training and Development Trust Fund,N
+0,45,09-8300,U.S. Capitol Preservation Commission,N
+0,45,09-8148,Open World Leadership Center Trust Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS,N
+0,00,10-510010,"Filing Fees, U.S. Courts, Judiciary",N
+0,00,10-510110,"Fees, Registry Administration, Judiciary",N
+0,00,10-511410,"Proceeds from Sale of Property, Judiciary Information Technology Fund",N
+0,00,10-511430,"Advances and Reimbursements, Judiciary Information Technology Fund",N
+0,00,10-811010,"Judicial Survivors Annuity, Deductions from Employees Salaries",N
+0,00,10-811020,"Judicial Survivors Annuity, Interest and Profits on Investments",N
+0,00,10-811040,Federal Payment to Judicial Survivors Annuities Fund,N
+0,00,10-812210,"Deductions from Employee Salaries and Voluntary Contributions, Judicial Officers' Annuity",N
+0,00,10-812220,"Interest and Profits on Investments, Judicial Officers' Annuity",N
+0,00,10-812240,Federal Payment to Judicial Officers Retirement Fund,N
+0,00,10-812410,Federal Payment to Claims Court Judges' Retirement Fund,N
+0,00,10-812420,"Interest, Claims Court Judges' Retirement Fund",N
+0,05,10-0100,Salaries and Expenses,N
+0,05,10-0103,Care of the Building and Grounds,N
+0,07,10-0510,Salaries and Expenses,N
+0,15,10-0400,Salaries and Expenses,N
+0,25,10-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,25,10-0920,Salaries and Expenses,N
+0,25,10-0923,Defender Services,N
+0,25,10-0925,Fees of Jurors and Commissioners,N
+0,25,10-0930,Court Security,N
+0,25,10-5100,Judiciary Filing Fees,N
+0,25,10-5101,Registry Administration,N
+0,25,10-5114,Judiciary Information Technology Fund,N
+0,26,10-0927,Salaries and Expenses,N
+0,30,10-0928,Salaries and Expenses,N
+0,35,10-0941,Payment to Judiciary Trust Funds,N
+0,35,10-8122,Judicial Officers' Retirement Fund,N
+0,35,10-8110,Judicial Survivors' Annuities Fund,N
+0,35,10-8124,United States Court of Federal Claims Judges' Retirement Fund,N
+0,39,10-0938,Salaries and Expenses,N
+0,39,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,12-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,12-181100,National Grasslands,N
+0,00,12-222100,National Forest Fund,N
+0,00,12-270110,"Agriculture Credit Insurance, Negative Subsidies",N
+0,00,12-270130,"Agriculture Credit Insurance, Downward Reestimates of Subsidies",N
+0,00,12-270210,"Rural Electrification and Telephone Loans, Negative Subsidies",N
+0,00,12-270230,"Rural Electrification and Telephone Loans, Downward Reestimates of Subsidies",N
+0,00,12-270310,"Rural Water and Waste Disposal, Negative Subsidies",N
+0,00,12-270330,"Rural Water and Waste Disposal, Downward Reestimates of Subsidies",N
+0,00,12-270510,"Rural Community Facility, Negative Subsidies",N
+0,00,12-270530,"Rural Community Facility, Downward Reestimates of Subsidies",N
+0,00,12-270610,"Rural Housing Insurance, Negative Subsidies",N
+0,00,12-270630,"Rural Housing Insurance, Downward Reestimates of Subsidies",N
+0,00,12-270710,"Rural Business and Industry, Negative Subsidies",N
+0,00,12-270730,"Rural Business and Industry, Downward Reestimates of Subsidies",N
+0,00,12-270830,"P.L. 480 Loan Program, Downward Reestimates of Subsidies",N
+0,00,12-271030,"Rural Development Loans, Downward Reestimates of Subsidies",N
+0,00,12-271130,"Rural Telephone Bank Loans, Downward Reestimates of Subsidies",N
+0,00,12-271330,"Economic Development Loans, Downward Reestimates of Subsidies",N
+0,00,12-271430,"Agricultural Resource Conservation, Downward Reestimates of Subsidies",N
+0,00,12-274630,"Downward Reestimates, Distance Learning, Telemedicine, and Broadband Program",N
+0,00,12-275430,"Apple Loan Program, Downward Reestimates of Subsidies",N
+0,00,12-275610,"Negative Subsidies, Farm Storage Facility Loans",N
+0,00,12-275630,"Farm Storage Facility Loans, Downward Reestimate of Subsidies",N
+0,00,12-275730,"Commodity Credit Corporation Export Guarantee Financing, Downward Reestimate of Subsidies",N
+0,00,12-277930,"Multifamily Housing Revitalization Fund, Downward Reestimates of Subsidies",N
+0,00,12-278630,"Rural Energy for America Program, Downward Reestimates of Subsidies",N
+0,00,12-279310,"Commodity Credit Corporation Export Guarantee Financing, Negative Subsidies",N
+0,00,12-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,12-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,12-500810,National Forests Fund,N
+0,00,12-507010,"License Fees and Defaults, Perishable Agricultural Commodities Act Fund",N
+0,00,12-507020,"Earnings on Investments, Perishable Agricultural Commodities Act Fund",N
+0,00,12-516110,"1990 Food, Agricultural Quarantine Inspection Fees",N
+0,00,12-520110,"National Forests Fund, Payments to States",N
+0,00,12-520210,"Timber Roads, Purchaser Elections",N
+0,00,12-520310,"National Forests Fund, Roads and Trails for States",N
+0,00,12-520410,Timber Salvage Sales,N
+0,00,12-520520,"Earnings on Investments, Native American Institutions Endowment Fund",N
+0,00,12-520610,"Deposits, Brush Disposal",N
+0,00,12-520700,"Receipts, Cooperative Range Improvements",N
+0,00,12-520810,"Deposits, Acquisitions of Lands for National Forests, Special Acts",N
+0,00,12-520910,"30 Percent of Customs Duties, Funds for Strengthening Markets, Income and Supply (section 32)",N
+0,00,12-520930,"General Fund Payment, Funds for Strengthening Markets, Income, and Supply (section 32)",N
+0,00,12-521300,"National Forests Fund, Payments to Minnesota (Cook, Lake, and St. Louis Counties)",N
+0,00,12-521610,"Land Acquisition Proceeds for Exchanges, Acquisition of Lands to Complete Land Exchanges",N
+0,00,12-521640,"Facility Realignment and Enhancement Receipts, Acquisition of Lands to Complete Land Exchanges",N
+0,00,12-521910,"Rents and Charges for Quarters, Forest Service",N
+0,00,12-522100,"Proceeds of Land Sales, ARS",N
+0,00,12-526410,Timber Sales Pipeline Restoration Fund,N
+0,00,12-526810,"Recreational Fee Demonstration Program, Forest Service",N
+0,00,12-527710,Midewin National Tallgrass Prairie Rental Fees,N
+0,00,12-535200,"Proceeds of Land Sales, Forest Service",N
+0,00,12-536010,"Charges, User Fees, and Natural Resource Utilization, Land between the Lakes, Forest Service",N
+0,00,12-536110,Administration of Rights-of-way and Other Land Uses,N
+0,00,12-536310,"Miscellaneous Collections, Valles Caldera Fund",N
+0,00,12-551610,"Fees, Food Safety Inspection User Fee Account",N
+0,00,12-551710,"Fees, Grain Inspection, Packers and Stockyards User Fee Account",N
+0,00,12-551810,"Fees, Animal and Plant Health Inspection User Fee Account",N
+0,00,12-553110,"3.08 Percent of Customs Duties, Agricultural Disaster Relief Fund",N
+0,00,12-553120,"Earnings on Investments, Agricultural Disaster Relief Fund",N
+0,00,12-554010,"Funds Retained, Stewardship Contracting Product Sales",N
+0,00,12-556310,Contributions to Conservation Programs,N
+0,00,12-565810,NRCS Fees for Conservation Planning,N
+0,00,12-589610,National Grasslands,N
+0,00,12-972210,"Miscellaneous Special Funds, Forest Service",N
+0,00,12-801510,"Deposits of Fees, Inspection and Grading of Farm Products, AMS",N
+0,00,12-801520,"Interest on Investments in Public Debt Securities, AMS",N
+0,00,12-802810,Forest Service Cooperative Fund,N
+0,00,12-802830,"General Fund Payment from Wildland Fire Management, Forest Service Cooperative Fund",N
+0,00,12-803920,"Earnings on Investments, Land between the Lakes Trust Fund",N
+0,00,12-804610,"Transfers from General Fund of Amounts Equal to Certain Customs Duties, Reforestation Trust Fund",N
+0,00,12-810010,"Payments from General Fund, Wool Research, Development, and Promotion Trust Fund",N
+0,00,12-813710,"Deposits of Fees, Inspection and Grading of Farm Products, Food Safety and Quality Service",N
+0,00,12-816110,"Excise Taxes for Tobacco Assessments, Tobacco Trust Fund",N
+0,00,12-820310,"Gifts and Bequests, Departmental Administration",N
+0,00,12-821410,"Deposits of Miscellaneous Contributed Funds, Science and Education Administration",N
+0,00,12-822610,"Deposits of Miscellaneous Contributed Funds, APHIS",N
+0,00,12-823210,"Deposits of Miscellaneous Contributed Funds, Foreign Agricultural Service.",N
+0,00,12-977210,Miscellaneous Contributed Funds,N
+0,03,12-9913,Office of the Secretary,N
+0,03,12-8203,Gifts and Bequests,N
+0,04,12-9914,Executive Operations,N
+0,04,12-0113,Common Computing Environment,N
+0,04,12-4609,Working Capital Fund,N
+0,09,12-0123,Office of the Chief Economist,N
+0,11,12-0706,National Appeals Division,N
+0,07,12-3800,Office of Civil Rights,N
+0,05,12-9915,Departmental Administration,N
+0,05,12-0500,Hazardous Materials Management,N
+0,05,12-0117,Agriculture Buildings and Facilities and Rental Payments,N
+0,06,12-0150,Office of Communications,N
+0,08,12-0900,Office of Inspector General,N
+0,10,12-2300,Office of the General Counsel,N
+0,13,12-1701,Economic Research Service,N
+0,15,12-1801,National Agricultural Statistics Service,N
+0,18,12-1400,Salaries and Expenses,N
+0,18,12-1401,Buildings and Facilities,N
+0,18,12-8214,Miscellaneous Contributed Funds,N
+0,20,12-1502,Integrated Activities,N
+0,20,12-1003,Biomass Research and Development,N
+0,20,12-1500,Research and Education Activities,N
+0,20,12-1501,Buildings and Facilities,N
+0,20,12-0502,Extension Activities,N
+0,32,12-1600,Salaries and Expenses,N
+0,32,12-1601,Buildings and Facilities,N
+0,32,12-9971,Miscellaneous Trust Funds,N
+0,35,12-3700,Salaries and Expenses,N
+0,35,12-8137,"Expenses and Refunds, Inspection and Grading of Farm Products",N
+0,37,12-2400,Salaries and Expenses,N
+0,37,12-4050,Limitation on Inspection and Weighing Services Expenses,N
+0,45,12-2500,Marketing Services,N
+0,45,12-2501,Payments to States and Possessions,N
+0,45,12-5070,Perishable Agricultural Commodities Act Fund,N
+0,45,12-5209,"Funds for Strengthening Markets, Income, and Supply (section 32)",N
+0,45,12-8015,"Expenses and Refunds, Inspection and Grading of Farm Products",N
+0,45,12-8412,Milk Market Orders Assessment Fund,N
+0,47,12-2707,Administrative and Operating Expenses,N
+0,47,,Corporations,N
+0,47,12-5529,Federal Crop Insurance User Fee Account,N
+0,47,12-4085,Federal Crop Insurance Corporation Fund,N
+0,49,12-0600,Salaries and Expenses,N
+0,49,12-0170,State Mediation Grants,N
+0,49,12-1144,Discrimination Claims Settlement,N
+0,49,12-2701,USDA Supplemental Assistance,N
+0,49,12-3317,"Aquaculture Assistance, Recovery Act",N
+0,49,12-3305,Reforestation Pilot Program,N
+0,49,12-3316,Emergency Conservation Program,N
+0,49,12-0171,Emergency Forest Restoration Program,N
+0,49,12-3304,Grassroots Source Water Protection Program,N
+0,49,12-1140,Agricultural Credit Insurance Fund Program Account,N
+0,49,12-4212,Agricultural Credit Insurance Fund Direct Loan Financing Account,N
+0,49,12-4213,Agricultural Credit Insurance Fund Guaranteed Loan Financing Account,N
+0,49,12-4140,Agricultural Credit Insurance Fund Liquidating Account,N
+0,49,12-4336,Commodity Credit Corporation Fund,N
+0,49,12-1336,Commodity Credit Corporation Export Loans Program Account,N
+0,49,12-4337,Commodity Credit Corporation Export Guarantee Financing Account,N
+0,49,12-4338,Commodity Credit Corporation Guaranteed Loans Liquidating Account,N
+0,49,12-3301,Farm Storage Facility Loans Program Account,N
+0,49,12-4158,Farm Storage Facility Direct Loan Financing Account,N
+0,49,12-3303,Emergency Boll Weevil Loan Program Account,N
+0,49,,Apple Loans Program Account,N
+0,49,12-4221,Emergency Boll Weevil Direct Loan Financing Account,N
+0,49,12-5531,Agricultural Disaster Relief Fund,N
+0,49,12-1143,Repayable Advances to Agricultural Disaster Relief Fund,N
+0,49,12-8161,Tobacco Trust Fund,N
+0,53,12-1000,Conservation Operations,N
+0,53,12-1004,Farm Security and Rural Investment Programs,N
+0,53,12-1072,Watershed and Flood Prevention Operations,N
+0,53,12-1002,Watershed Rehabilitation Program,N
+0,53,12-1010,Resource Conservation and Development,N
+0,53,12-1090,Healthy Forests Reserve Program,N
+0,53,12-2268,Great Plains Conservation Program,N
+0,53,12-3336,Forestry Incentives Program,N
+0,53,12-3320,Water Bank Program,N
+0,53,12-3318,Colorado River Basin Salinity Control Program,N
+0,53,12-1080,Wetlands Reserve Program,N
+0,53,12-3322,Wildlife Habitat Incentives Program,N
+0,53,12-8210,Miscellaneous Contributed Funds,N
+0,55,12-0403,Salaries and Expenses,N
+0,55,12-0400,Rural Community Advancement Program,N
+0,63,12-1953,Rural Housing Assistance Grants,N
+0,63,12-1954,Farm Labor Program Account,N
+0,63,12-0137,Rental Assistance Program,N
+0,63,12-2002,Multifamily Housing Revitalization Program Account,N
+0,63,12-4269,Multifamily Housing Revitalization Direct Loan Financing Account,N
+0,63,12-2006,Mutual and Self-help Housing Grants,N
+0,63,12-1951,Rural Community Facilities Program Account,N
+0,63,12-4225,Rural Community Facility Direct Loans Financing Account,N
+0,63,12-4228,Rural Community Facility Guaranteed Loans Financing Account,N
+0,63,12-2081,Rural Housing Insurance Fund Program Account,N
+0,63,12-4215,Rural Housing Insurance Fund Direct Loan Financing Account,N
+0,63,12-4216,Rural Housing Insurance Fund Guaranteed Loan Financing Account,N
+0,63,12-4141,Rural Housing Insurance Fund Liquidating Account,N
+0,65,12-2073,Energy Assistance Payments,N
+0,65,12-0402,Rural Empowerment Zones and Enterprise Communities Grants,N
+0,65,12-1900,Rural Cooperative Development Grants,N
+0,65,12-3105,Rural Economic Development Grants,N
+0,65,12-1955,Rural Microenterprise Investment Program Account,N
+0,65,12-4354,Rural Microenterprise Investment Direct Loan Financing Account,N
+0,65,12-1902,Rural Business Program Account,N
+0,65,12-4223,Rural Business and Industry Direct Loans Financing Account,N
+0,65,12-4227,Rural Business and Industry Guaranteed Loans Financing Account,N
+0,65,12-2069,Rural Development Loan Fund Program Account,N
+0,65,12-4219,Rural Development Loan Fund Direct Loan Financing Account,N
+0,65,12-4233,Rural Development Loan Fund Liquidating Account,N
+0,65,12-3108,Rural Economic Development Loans Program Account,N
+0,65,12-4176,Rural Economic Development Direct Loan Financing Account,N
+0,65,12-1907,Rural Business Investment Program Account,N
+0,65,12-4033,Rural Business Investment Program Guarantee Financing Account,N
+0,65,12-1908,Rural Energy for America Program,N
+0,65,12-4267,Rural Energy for America Guaranteed Loan Financing Account,N
+0,65,12-3106,Biorefinery Assistance Program Account,N
+0,65,12-4355,Biorefinery Assistance Guaranteed Loan Financing Account,N
+0,65,12-4144,Alternative Agricultural Research and Commercialization Corporation Revolving Fund,N
+0,65,12-4202,National sheep industry improvement center revolving fund,N
+0,60,12-2042,High Energy Cost Grants,N
+0,60,12-1980,Rural Water and Waste Disposal Program Account,N
+0,60,12-4226,Rural Water and Waste Disposal Direct Loans Financing Account,N
+0,60,12-4218,Rural Water and Waste Water Disposal Guaranteed Loans Financing Account,N
+0,60,12-1230,Rural Electrification and Telecommunications Loans Program Account,N
+0,60,12-4208,Rural Electrification and Telecommunications Direct Loan Financing Account,N
+0,60,12-4209,Rural Electrification and Telecommunications Guaranteed Loans Financing Account,N
+0,60,12-4230,Rural Electrification and Telecommunications Liquidating Account,N
+0,60,12-1231,Rural Telephone Bank Program Account,N
+0,60,12-4210,Rural Telephone Bank Direct Loan Financing Account,N
+0,60,12-1232,"Distance Learning, Telemedicine, and Broadband Program",N
+0,60,12-4146,"Distance Learning, Telemedicine, and Broadband Direct Loan Financing Account",N
+0,60,12-4155,Rural Development Insurance Fund Liquidating Account,N
+0,60,12-4142,Rural Communication Development Fund Liquidating Account,N
+0,68,12-2900,Salaries and Expenses,N
+0,68,12-1406,Trade Adjustment Assistance for Farmers,N
+0,68,,FOREIGN ASSISTANCE PROGRAMS,N
+0,68,12-2903,McGovern-Dole International Food for Education and Child Nutrition Program,N
+0,68,12-2271,Public Law 480 Title I Ocean Freight Differential Grants,N
+0,68,12-2278,Food for Peace Title II Grants,N
+0,68,12-2277,Public Law 480 Title I Direct Credit and Food for Progress Program Account,N
+0,68,12-4049,P.L. 480 Direct Credit Financing Account,N
+0,68,12-4143,Debt Reduction—Financing Account,N
+0,68,12-2274,"Expenses, Public Law 480, Foreign Assistance Programs, Agriculture Liquidating Account",N
+0,84,12-3508,Nutrition Programs Administration,N
+0,84,12-3505,Supplemental Nutrition Assistance Program,N
+0,84,12-3537,Oil Spill Disaster SNAP,N
+0,84,12-3539,Child Nutrition Programs,N
+0,84,12-3510,"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",N
+0,84,12-3507,Commodity Assistance Program,N
+0,96,12-1106,National Forest System,N
+0,96,12-1103,Capital Improvement and Maintenance,N
+0,96,12-1104,Forest and Rangeland Research,N
+0,96,12-1105,State and Private Forestry,N
+0,96,12-1119,Management of National Forest Lands for Subsistence Uses,N
+0,96,12-1115,Wildland Fire Management,N
+0,96,12-1130,Forest Service Payments to Communities,N
+0,96,12-1120,FLAME Wildfire Suppression Reserve Fund,N
+0,96,12-5207,Range Betterment Fund,N
+0,96,12-5540,Stewardship Contracting Product Sales,N
+0,96,12-9923,Land Acquisition,N
+0,96,12-9921,Forest Service Permanent Appropriations,N
+0,96,12-4605,Working Capital Fund,N
+0,96,12-9974,Forest Service Trust Funds,N
+0,96,,ADMINISTRATIVE PROVISIONS—FOREST SERVICE,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,TITLE VII—GENERAL PROVISIONS,N
+0,00,13-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,13-225200,"Fees for Maps and Charts, Public, NOAA",N
+0,00,13-271710,"Fisheries Finance, Negative Subsidies",N
+0,00,13-271730,"Fisheries Finance, Downward Reestimates of Subsidies",N
+0,00,13-275910,"Emergency Steel Guaranteed Loans, Negative Subsidies",N
+0,00,13-275930,Emergency Steel Guaranteed Loans Downward Reestimates of Subsidies,N
+0,00,13-276930,"Emergency Oil and Gas Guaranteed Loans, Downward Reestimates of Subsidies",N
+0,00,13-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,13-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,13-512010,"Fees, Fishermen's Contingency Fund",N
+0,00,13-528310,"Gifts, Marine Mammal Unusual Mortality Event Fund",N
+0,00,13-528410,"Permit Title Registration Fees, Limited Access System Administration Fund",N
+0,00,13-536220,"Interest Earned, Environmental Improvement and Restoration Fund",N
+0,00,13-539610,Digital Television Transition and Public Safety Fund,N
+0,00,13-543910,"Access Fees, Western Pacific Sustainable Fisheries Fund",N
+0,00,13-555010,Fisheries Conservation and Management Fund,N
+0,00,13-558310,"Fisheries Enforcement Asset Forfeiture Fund, Deposits (PDF Account)",N
+0,00,13-558410,"Sanctuaries Enforcement Asset Forfeiture Fund, Deposits (PDF Account)",N
+0,00,13-823310,"Spectrum Auction Receipts, Public Safety Trust Fund",N
+0,00,13-850110,Gifts and Bequests,N
+0,05,13-0120,Salaries and Expenses,N
+0,05,13-0126,Office of the Inspector General,N
+0,05,13-0127,National Intellectual Property Law Enforcement Coordination Council,N
+0,05,13-0123,HCHB Renovation and Modernization,N
+0,05,13-4511,Working Capital Fund,N
+0,05,13-4564,Franchise Fund,N
+0,05,13-0122,"Emergency Steel, Oil, and Gas Guaranteed Loan Program Account",N
+0,05,13-8501,Gifts and Bequests,N
+0,06,13-0125,Salaries and Expenses,N
+0,06,13-2050,Economic Development Assistance Programs,N
+0,06,13-4356,Economic Development Assistance Programs Financing Account,N
+0,06,13-4406,Economic Development Revolving Fund Liquidating Account,N
+0,07,13-0401,Salaries and Expenses,N
+0,07,13-0450,Periodic Censuses and Programs,N
+0,07,13-4512,Census Working Capital Fund,N
+0,08,13-1500,Salaries and Expenses,N
+0,08,13-4323,Economics and Statistics Administration Revolving Fund,N
+0,25,13-1250,Operations and Administration,N
+0,25,13-5521,Grants to Manufacturers of Worsted Wool Fabrics,N
+0,25,13-8344,Foreign Service National Separation Liability Trust Fund,N
+0,30,13-0300,Operations and Administration,N
+0,40,13-0201,Minority Business Development,N
+0,48,13-1450,"Operations, Research, and Facilities",N
+0,48,13-1460,"Procurement, Acquisition and Construction",N
+0,48,13-5284,Limited Access System Administration Fund,N
+0,48,13-1451,Pacific Coastal Salmon Recovery,N
+0,48,13-5550,Fisheries Conservation and Management Fund,N
+0,48,13-5584,Sanctuaries Enforcement Asset Forfeiture Fund,N
+0,48,13-1462,Coastal Impact Assistance,N
+0,48,13-1465,"Medicare-eligible Retiree Health Fund Contribution, NOAA",N
+0,48,13-5583,Fisheries Enforcement Asset Forfeiture Fund,N
+0,48,13-5139,Promote and Develop Fishery Products and Research Pertaining to American Fisheries,N
+0,48,13-5120,Fishermen's Contingency Fund,N
+0,48,13-5362,Environmental Improvement and Restoration Fund,N
+0,48,13-4313,Coastal Zone Management Fund,N
+0,48,13-4316,Damage Assessment and Restoration Revolving Fund,N
+0,48,13-1456,Fisheries Finance Program Account,N
+0,48,13-4324,Fisheries Finance Direct Loan Financing Account,N
+0,48,13-4314,Fisheries Finance Guaranteed Loan Financing Account,N
+0,48,13-4417,Federal Ship Financing Fund Fishing Vessels Liquidating Account,N
+0,48,13-8220,North Pacific Marine Research Institute Fund,N
+0,51,13-1006,Salaries and Expenses,N
+0,54,13-4295,NTIS Revolving Fund,N
+0,55,13-0500,Scientific and Technical Research and Services,N
+0,55,13-0525,Industrial Technology Services,N
+0,55,13-0515,Construction of Research Facilities,N
+0,55,13-4650,Working Capital Fund,N
+0,55,13-0513,Wireless Innovation (WIN) Fund,N
+0,55,13-0530,National Network for Manufacturing Innovation,N
+0,60,13-0550,Salaries and Expenses,N
+0,60,13-0551,"Public Telecommunications Facilities, Planning and Construction",N
+0,60,13-0552,Information Infrastructure Grants,N
+0,60,13-0554,"Broadband Technology Opportunities Program, Recovery Act",N
+0,60,13-5396,Digital Television Transition and Public Safety Fund,N
+0,60,13-0516,State and Local Implementation Fund,N
+0,60,13-0558,Incentive Auction Relocation Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS—DEPARTMENT OF COMMERCE,N
+0,SP,,GENERAL PROVISIONS,N
+0,00,17-143517,"General Fund Proprietary Interest Receipts, not Otherwise Classified, Navy",N
+0,00,17-304117,"Recoveries under the Foreign Military Sales Program, Navy",N
+0,00,17-321017,"General Fund Proprietary Receipts, not Otherwise Classified, Navy",N
+0,00,17-388517,"Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts, Navy",N
+0,00,17-518510,"Payment from the General Fund, Kaho'olawe Island Fund",N
+0,00,21-278230,"Arms Initiative, Downward Reestimates of Subsidies",N
+0,00,21-301900,Recoveries for Government Property Lost or Damaged,N
+0,00,21-304121,"Recoveries under the Foreign Military Sales Program, Army",N
+0,00,21-321021,"General Fund Proprietary Receipts, not Otherwise Classified, Army",N
+0,00,21-388521,"Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts, Army",N
+0,00,21-509810,"Restoration of the Rocky Mountain Arsenal, Army",N
+0,00,21-575210,"Donations and Collections, Department of Defense Korean War Commemoration Fund",N
+0,00,57-143557,"General Fund Proprietary Interest Receipts, not Otherwise Classified, Air Force",N
+0,00,57-304157,"Recoveries under the Foreign Military Sales Program, Air Force",N
+0,00,57-321057,"General Fund Proprietary Receipts, not Otherwise Classified, Air Force",N
+0,00,57-388557,"Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts, Air Force",N
+0,00,97-184000,Rent of Equipment and Other Personal Property,N
+0,00,97-223600,Sale of Certain Materials in National Defense Stockpile,N
+0,00,97-246200,Deposits for Survivor Annuity Benefits,N
+0,00,97-264400,Defense Vessel Transfer Receipt Account,N
+0,00,97-265197,Sale of Scrap and Salvage Materials,N
+0,00,97-276110,"Family Housing Improvement Fund, Negative Subsidies",N
+0,00,97-276130,"Family Housing Improvement Fund, Downward Reestimates of Subsidies",N
+0,00,97-277230,"Defense Export Loan Guarantee, Downward Reestimates of Subsidies",N
+0,00,97-304197,"Recoveries under the Foreign Military Sales Program, Defense Agencies",N
+0,00,97-321097,"General Fund Proprietary Receipts, not Otherwise Classified, Defense Agencies",N
+0,00,97-388597,"Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts, Defense Agencies",N
+0,00,97-518710,"Defense Cooperation, Department of Defense-Military",N
+0,00,97-518720,"Earnings on Investments, Defense Cooperation",N
+0,00,97-519300,"Overseas Military Facility, Investment and Recovery",N
+0,00,97-519530,Proceeds from the Transfer or Disposition of Commissary Facilities,N
+0,00,97-539410,Cash Equalization Proceeds from Acquisition of Facilities,N
+0,00,97-544110,Contributions for Burdensharing and Other Cooperative Activities (Kuwait),N
+0,00,97-544130,Contributions for Burdensharing and Other Cooperative Activities (Japan),N
+0,00,97-544140,Contributions for Burdensharing and Other Cooperative Activities (So. Korea),N
+0,00,97-544160,"Burdensharing Contribution, Defense, United Kingdom",N
+0,00,97-575310,"Contributions from Applicants, Renewable Energy Impact Assessments and Mitigation, Defense",N
+0,00,97-992230,"Other Proprietary Receipts, Miscellaneous Special Funds",N
+0,00,97-992310,Disposal of Department of Defense Real Property,N
+0,00,97-992410,Lease of Department of Defense Real Property,N
+0,00,17-997120,"Interest, Other DOD Trust Funds",N
+0,00,17-997130,"Profits from Sale of Ships' Shores, Other DOD Trust Funds",N
+0,00,21-997110,"Deposits, Other DOD Trust Funds",N
+0,00,97-809610,Dependent's Education Gift Fund,N
+0,00,97-816310,"Contributions, Department of Defense General Gift Fund Deposits, Department",N
+0,00,97-816320,"Interest on Investments, Department of Defense General Gift Fund Deposits",N
+0,00,97-816510,Foreign National Employees Separation Pay Trust Fund,N
+0,00,97-816820,"Earnings on Investments, National Security Education Trust Fund",N
+0,00,97-833510,Payment to Voluntary Separation Incentive Fund,N
+0,00,97-833520,Earnings on Investments,N
+0,00,97-833700,"Contributions, Host National Support for U.S. Relocation Activities",N
+0,00,97-833720,"Earnings on Investments, Host National Support for U.S. Relocation Activities",N
+0,00,97-835810,"Contributions from Japan, Support for U.S. Relocation to Guam Activities",N
+0,00,97-835820,"Earnings on Investments, Support for U.S. Relocation to Guam Activities",N
+0,00,97-872010,"Gifts and Donations, National Defense University Gift Fund",N
+0,05,21-2010,"Military Personnel, Army",N
+0,05,21-1004,"Medicare-Eligible Retiree Health Fund Contribution, Army",N
+0,05,17-1453,"Military Personnel, Navy",N
+0,05,17-1000,"Medicare-Eligible Retiree Health Fund Contribution, Navy",N
+0,05,17-1105,"Military Personnel, Marine Corps",N
+0,05,17-1001,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N
+0,05,57-3500,"Military Personnel, Air Force",N
+0,05,57-1007,"Medicare-Eligible Retiree Health Fund Contribution, Air Force",N
+0,05,21-2070,"Reserve Personnel, Army",N
+0,05,21-1005,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Army",N
+0,05,17-1405,"Reserve Personnel, Navy",N
+0,05,17-1002,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Navy",N
+0,05,17-1108,"Reserve Personnel, Marine Corps",N
+0,05,17-1003,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Marine Corps",N
+0,05,57-3700,"Reserve Personnel, Air Force",N
+0,05,57-1008,"Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Air Force",N
+0,05,21-2060,"National Guard Personnel, Army",N
+0,05,21-1006,"Medicare-Eligible Retiree Health Fund Contribution, National Guard Personnel, Army",N
+0,05,57-3850,"National Guard Personnel, Air Force",N
+0,05,57-1009,"Medicare-Eligible Retiree Health Fund Contribution, National Guard Personnel, Air Force",N
+0,05,97-9010,Effect of extra military personnel payday,N
+0,05,97-0041,Concurrent Receipt Accrual Payments to the Military Retirement Fund,N
+0,10,21-2020,"Operation and Maintenance, Army",N
+0,10,17-1804,"Operation and Maintenance, Navy",N
+0,10,17-1106,"Operation and Maintenance, Marine Corps",N
+0,10,57-3400,"Operation and Maintenance, Air Force",N
+0,10,97-0100,"Operation and Maintenance, Defense-wide",N
+0,10,97-0107,Office of the Inspector General,N
+0,10,21-2080,"Operation and Maintenance, Army Reserve",N
+0,10,17-1806,"Operation and Maintenance, Navy Reserve",N
+0,10,17-1107,"Operation and Maintenance, Marine Corps Reserve",N
+0,10,57-3740,"Operation and Maintenance, Air Force Reserve",N
+0,10,21-2065,"Operation and Maintenance, Army National Guard",N
+0,10,57-3840,"Operation and Maintenance, Air National Guard",N
+0,10,97-0839,Quality of Life Enhancements,N
+0,10,97-0118,Overseas Contingency Operations Transfer Fund,N
+0,10,97-0840,OPLAN 34A-35 P.O.W. Payments,N
+0,10,97-0104,United States Court of Appeals for the Armed Forces,N
+0,10,97-0105,Drug Interdiction and Counter-Drug Activities,N
+0,10,97-0838,Support for International Sporting Competitions,N
+0,10,97-0801,Foreign Currency Fluctuations,N
+0,10,97-0130,Defense Health Program,N
+0,10,97-0810,The Department of Defense Environmental Restoration Accounts,N
+0,10,97-0811,"Environmental Restoration, Formerly Used Defense Sites",N
+0,10,97-0819,"Overseas Humanitarian, Disaster, and Civic Aid",N
+0,10,97-0828,Defense Reinvestment for Economic Growth,N
+0,10,97-0134,Cooperative Threat Reduction Account,N
+0,10,97-0462,Military Intelligence Program Transfer Fund,N
+0,10,17-1236,"Payment to Kaho'olawe Island Conveyance, Remediation, and Environmental Restoration Fund",N
+0,10,97-0141,Iraq Freedom Fund,N
+0,10,21-2091,Afghanistan Security Forces Fund,N
+0,10,21-2092,Iraq Security Forces Fund,N
+0,10,97-0111,Department of Defense Acquisition Workforce Development Fund,N
+0,10,97-0142,Natural Resources Risk Remediation Fund,N
+0,10,97-0833,Emergency Response Fund,N
+0,10,97-0143,Strategic Reserve Readiness Fund,N
+0,10,97-4965,Emergency Response,N
+0,10,97-9927,Allied Contributions and Cooperation Account,N
+0,10,97-9922,Miscellaneous Special Funds,N
+0,10,17-5185,"Kaho' Olawe Island Conveyance, Remediation, and Environmental Restoration Fund",N
+0,10,97-5188,Disposal of Department of Defense Real Property,N
+0,10,97-5189,Lease of Department of Defense Real Property,N
+0,10,97-5193,Overseas Military Facility Investment Recovery,N
+0,10,97-5750,Department of Defense Vietnam War Commemoration Fund,N
+0,10,21-5752,Department of Defense Korean War Commemoration Fund,N
+0,12,21-2090,Operating Expenses of the Coalition Provisional Authority,N
+0,12,21-2089,"Iraq Relief and Reconstruction Fund, Army",N
+0,15,21-2031,"Aircraft Procurement, Army",N
+0,15,21-2032,"Missile Procurement, Army",N
+0,15,21-2033,"Procurement of Weapons and Tracked Combat Vehicles, Army",N
+0,15,21-2034,"Procurement of Ammunition, Army",N
+0,15,21-2035,"Other Procurement, Army",N
+0,15,21-2093,Joint Improvised Explosive Device Defeat Fund,N
+0,15,17-1506,"Aircraft Procurement, Navy",N
+0,15,17-1507,"Weapons Procurement, Navy",N
+0,15,17-1508,"Procurement of Ammunition, Navy and Marine Corps",N
+0,15,17-1611,"Shipbuilding and Conversion, Navy",N
+0,15,17-1810,"Other Procurement, Navy",N
+0,15,17-0380,Coastal Defense Augmentation,N
+0,15,17-1109,"Procurement, Marine Corps",N
+0,15,57-3010,"Aircraft Procurement, Air Force",N
+0,15,57-3020,"Missile Procurement, Air Force",N
+0,15,57-3011,"Procurement of Ammunition, Air Force",N
+0,15,57-3080,"Other Procurement, Air Force",N
+0,15,97-0300,"Procurement, Defense-wide",N
+0,15,97-0350,National Guard and Reserve Equipment,N
+0,15,97-0360,Defense Production Act Purchases,N
+0,15,97-0390,"Chemical Agents and Munitions Destruction, Defense",N
+0,15,97-0303,Joint Urgent Operational Needs Fund,N
+0,15,97-0144,Mine Resistant Ambush Protected Vehicle Fund,N
+0,15,21-4275,Arms Initiative Guaranteed Loan Financing Account,N
+0,20,21-2040,"Research, Development, Test and Evaluation, Army",N
+0,20,17-1319,"Research, Development, Test and Evaluation, Navy",N
+0,20,57-3600,"Research, Development, Test and Evaluation, Air Force",N
+0,20,57-3024,"Tanker Replacement Transfer Fund, Air Force",N
+0,20,97-0400,"Research, Development, Test and Evaluation, Defense-wide",N
+0,20,97-0450,Developmental Test and Evaluation,N
+0,20,97-0460,"Operational Test and Evaluation, Defense",N
+0,20,97-5753,"Contributions for Renewable Energy Impact Assessments and Mitigation, Defense",N
+0,20,97-0113,NNSA Program Support,N
+0,25,21-2050,"Military Construction, Army",N
+0,25,17-1205,"Military Construction, Navy and Marine Corps",N
+0,25,57-3300,"Military Construction, Air Force",N
+0,25,97-0500,"Military Construction, Defense-wide",N
+0,25,97-0804,North Atlantic Treaty Organization Security Investment Program,N
+0,25,21-2085,"Military Construction, Army National Guard",N
+0,25,57-3830,"Military Construction, Air National Guard",N
+0,25,21-2086,"Military Construction, Army Reserve",N
+0,25,17-1235,"Military Construction, Navy Reserve",N
+0,25,57-3730,"Military Construction, Air Force Reserve",N
+0,25,97-0391,"Chemical Demilitarization Construction, Defense-wide",N
+0,25,97-0510,Department of Defense Base Closure Account 1990,N
+0,25,97-0512,Department of Defense Base Closure Account 2005,N
+0,25,97-0803,"Foreign Currency Fluctuations, Construction",N
+0,30,21-0720,"Family Housing Construction, Army",N
+0,30,21-0725,"Family Housing Operation and Maintenance, Army",N
+0,30,17-0730,"Family Housing Construction, Navy and Marine Corps",N
+0,30,17-0735,"Family Housing Operation and Maintenance, Navy and Marine Corps",N
+0,30,57-0740,"Family Housing Construction, Air Force",N
+0,30,57-0745,"Family Housing Operation and Maintenance, Air Force",N
+0,30,97-0760,"Family Housing Construction, Defense-Wide",N
+0,30,97-0765,"Family Housing Operation and Maintenance, Defense-Wide",N
+0,30,97-4090,Homeowners Assistance Fund,N
+0,30,97-0834,Department of Defense Family Housing Improvement Fund,N
+0,30,97-4166,Family Housing Improvement Direct Loan Financing Account,N
+0,30,97-4167,Family Housing Improvement Guaranteed Loan Financing Account,N
+0,40,97-4555,National Defense Stockpile Transaction Fund,N
+0,40,97-4282,Defense Coalition Support Fund,N
+0,40,97-4179,Reserve Mobilization Income Insurance Fund,N
+0,40,97-4950,Pentagon Reservation Maintenance Revolving Fund,N
+0,40,17-4557,National Defense Sealift Fund,N
+0,40,,Defense Working Capital Funds,N
+0,40,97-493001,"Working Capital Fund, Army",N
+0,40,97-493002,"Working Capital Fund, Navy",N
+0,40,97-493003,"Working Capital Fund, Air Force",N
+0,40,97-493005,"Working Capital Fund, Defense-Wide",N
+0,40,97-493004,"Working Capital Fund, Defense Commissary Agency",N
+0,40,97-4931,Buildings Maintenance Fund,N
+0,40,17-3980,Navy Management Fund,N
+0,40,21-4528,Army Conventional Ammunition Working Capital Fund,N
+0,45,97-9912,Other Legislation,N
+0,45,97-9918,General Transfer Authority Outlay Allowance,N
+0,45,97-3999,Department of Defense Closed Accounts,N
+0,45,99-9050,Discretionary Out-year Profile,N
+0,45,97-9935,DOD Adjustment for 2007 Administration Proposed Policy,N
+0,55,97-0766,"General Fund Payment, Surcharge Collections, Sales of Commissary Stores, Defense",N
+0,55,97-8335,Voluntary Separation Incentive Fund,N
+0,55,97-8337,Host Nation Support Fund for Relocation,N
+0,55,97-8720,National Defense University Gift Fund,N
+0,55,21-9971,Other DOD Trust Funds,N
+0,55,97-8168,National Security Education Trust Fund,N
+0,55,97-8165,Foreign National Employees Separation Pay,N
+0,55,97-8164,"Surcharge Collections, Sales of Commissary Stores, Defense",N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,TITLE VIII—GENERAL PROVISIONS,N
+0,05,21-2010,"Military Personnel, Army",N
+0,05,21-1004,"Medicare-Eligible Retiree Health Fund Contribution, Army",N
+0,05,17-1453,"Military Personnel, Navy",N
+0,05,17-1105,"Military Personnel, Marine Corps",N
+0,05,17-1001,"Medicare-Eligible Retiree Health Fund Contribution, Marine Corps",N
+0,05,57-3500,"Military Personnel, Air Force",N
+0,05,21-2070,"Reserve Personnel, Army",N
+0,05,17-1405,"Reserve Personnel, Navy",N
+0,05,17-1108,"Reserve Personnel, Marine Corps",N
+0,05,57-3700,"Reserve Personnel, Air Force",N
+0,05,21-2060,"National Guard Personnel, Army",N
+0,05,57-3850,"National Guard Personnel, Air Force",N
+0,10,21-2020,"Operation and Maintenance, Army",N
+0,10,17-1804,"Operation and Maintenance, Navy",N
+0,10,17-1106,"Operation and Maintenance, Marine Corps",N
+0,10,57-3400,"Operation and Maintenance, Air Force",N
+0,10,97-0100,"Operation and Maintenance, Defense-wide",N
+0,10,97-0107,Office of the Inspector General,N
+0,10,21-2080,"Operation and Maintenance, Army Reserve",N
+0,10,17-1806,"Operation and Maintenance, Navy Reserve",N
+0,10,17-1107,"Operation and Maintenance, Marine Corps Reserve",N
+0,10,57-3740,"Operation and Maintenance, Air Force Reserve",N
+0,10,21-2065,"Operation and Maintenance, Army National Guard",N
+0,10,57-3840,"Operation and Maintenance, Air National Guard",N
+0,10,97-0105,Drug Interdiction and Counter-Drug Activities,N
+0,10,97-0130,Defense Health Program,N
+0,10,21-2091,Afghanistan Security Forces Fund,N
+0,10,21-2092,Iraq Security Forces Fund,N
+0,15,21-2031,"Aircraft Procurement, Army",N
+0,15,21-2032,"Missile Procurement, Army",N
+0,15,21-2033,"Procurement of Weapons and Tracked Combat Vehicles, Army",N
+0,15,21-2034,"Procurement of Ammunition, Army",N
+0,15,21-2035,"Other Procurement, Army",N
+0,15,21-2093,Joint Improvised Explosive Device Defeat Fund,N
+0,15,17-1506,"Aircraft Procurement, Navy",N
+0,15,17-1507,"Weapons Procurement, Navy",N
+0,15,17-1508,"Procurement of Ammunition, Navy and Marine Corps",N
+0,15,17-1810,"Other Procurement, Navy",N
+0,15,17-1109,"Procurement, Marine Corps",N
+0,15,57-3010,"Aircraft Procurement, Air Force",N
+0,15,57-3020,"Missile Procurement, Air Force",N
+0,15,57-3011,"Procurement of Ammunition, Air Force",N
+0,15,57-3080,"Other Procurement, Air Force",N
+0,15,97-0300,"Procurement, Defense-wide",N
+0,15,97-0350,National Guard and Reserve Equipment,N
+0,15,97-0303,Joint Urgent Operational Needs Fund,N
+0,15,97-0144,Mine Resistant Ambush Protected Vehicle Fund,N
+0,20,21-2040,"Research, Development, Test and Evaluation, Army",N
+0,20,17-1319,"Research, Development, Test and Evaluation, Navy",N
+0,20,57-3600,"Research, Development, Test and Evaluation, Air Force",N
+0,20,97-0400,"Research, Development, Test and Evaluation, Defense-wide",N
+0,25,21-2050,"Military Construction, Army",N
+0,25,17-1205,"Military Construction, Navy and Marine Corps",N
+0,40,,Defense Working Capital Funds,N
+0,40,97-493001,"Working Capital Fund, Army",N
+0,40,97-493003,"Working Capital Fund, Air Force",N
+0,40,97-493005,"Working Capital Fund, Defense-Wide",N
+0,45,97-9912,Other Legislation,N
+0,SP,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL PROVISIONS—THIS TITLE,N
+0,05,19-0113,Diplomatic and Consular Programs,N
+0,05,19-0121,Conflict Stabilization Operations,N
+0,05,19-0529,Office of the Inspector General,N
+0,05,19-0209,Educational and Cultural Exchange Programs,N
+0,05,19-0535,"Embassy Security, Construction, and Maintenance",N
+0,10,19-1126,Contributions to International Organizations,N
+0,25,19-1143,Migration and Refugee Assistance,N
+0,25,72-1015,Complex Crises Fund,N
+0,25,19-1022,International Narcotics Control and Law Enforcement,N
+0,05,72-1037,Economic Support Fund,N
+0,05,11-1082,Foreign Military Financing Program,N
+0,05,11-1083,Pakistan Counterinsurgency Capability Fund,N
+0,05,72-1032,Peacekeeping Operations,N
+0,05,11-1075,"Nonproliferation, Antiterrorism, Demining, and Related Programs",N
+0,10,11-1045,International Affairs Technical Assistance Program,N
+0,15,72-1035,International Disaster Assistance,N
+0,15,72-1000,Operating Expenses of the Agency for International Development,N
+0,15,72-1027,Transition Initiatives,N
+0,15,72-1007,"Operating Expenses, Office of Inspector General",N
+0,SP,,GENERAL PROVISIONS,N
+0,00,95-0206,International Broadcasting Operations,N
+0,00,95-1300,Operating Expenses,N
+0,00,91-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,91-271810,"Federal Family Education Loan Program, Negative Subsidies",N
+0,00,91-271830,"Federal Family Education Loan Program, Downward Reestimates of Subsidies",N
+0,00,91-274130,"College Housing and Academic Facilities Loan, Downward Reestimates of Subsidies",N
+0,00,91-278110,"Federal Direct Student Loan Program, Negative Subsidies",N
+0,00,91-278130,"Federal Direct Student Loan Program, Downward Reestimates of Subsidies",N
+0,00,91-278310,"Federal Perkins Loan, Negative Subsidies",N
+0,00,91-279410,"TEACH Grant Program, Negative Subsidies",N
+0,00,91-279430,"TEACH Grant Program, Downward Reestimates of Subsidies",N
+0,00,91-279830,"Health Education Assistance Loans, Downward Reestimates of Subsidies",N
+0,00,91-291500,"Repayment of Loans, Capital Contributions, Higher Education Activities",N
+0,00,91-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,91-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,91-555710,Student Financial Assistance Debt Collection,N
+0,00,91-825810,Contributions,N
+0,10,91-0900,Accelerating Achievement and Ensuring Equity,N
+0,10,91-0102,Impact Aid,N
+0,10,91-1000,Education Improvement Programs,N
+0,10,91-0203,Supporting Student Success,N
+0,10,91-0101,Indian Student Education,N
+0,10,91-0012,Education Jobs Fund,N
+0,10,91-1909,"State Fiscal Stabilization Fund, Recovery Act",N
+0,12,91-0204,Innovation and Instructional Teams,N
+0,15,91-1300,English Learner Education,N
+0,20,91-0300,Special Education,N
+0,20,91-0301,Rehabilitation Services and Disability Research,N
+0,20,91-0600,American Printing House for the Blind,N
+0,20,91-0601,National Technical Institute for the Deaf,N
+0,20,91-0602,Gallaudet University,N
+0,30,91-0400,"Career, Technical and Adult Education",N
+0,40,91-0201,Higher Education,N
+0,40,91-0603,Howard University,N
+0,40,91-0241,College Housing and Academic Facilities Loans Program Account,N
+0,40,91-4252,College Housing and Academic Facilities Loans Financing Account,N
+0,40,91-0242,College Housing and Academic Facilities Loans Liquidating Account,N
+0,40,91-4255,Historically Black College and University Capital Financing Direct Loan Financing Account,N
+0,45,91-0200,Student Financial Assistance,N
+0,45,91-0202,Student Aid Administration,N
+0,45,91-0205,Academic Competitiveness/SMART Grant Program,N
+0,45,91-0206,Teacher Education Assistance,N
+0,45,91-4290,TEACH Grant Financing Account,N
+0,45,91-5557,Student Financial Assistance Debt Collection,N
+0,45,91-4257,Federal Student Loan Reserve Fund,N
+0,45,91-0243,Federal Direct Student Loan Program Account,N
+0,45,91-4253,Federal Direct Student Loan Program Financing Account,N
+0,45,91-0231,Federal Family Education Loan Program Account,N
+0,45,91-4251,Federal Family Education Loan Program Financing Account,N
+0,45,91-4453,Temporary Student Loan Purchase Authority Financing Account,N
+0,45,91-4449,Student Loan Acquisition Account,N
+0,45,91-4459,Temporary Student Loan Purchase Authority Conduit Financing Account,N
+0,45,91-0230,Federal Family Education Loan Liquidating Account,N
+0,45,91-0217,Federal Perkins Loan Program Account,N
+0,45,91-4574,Federal Perkins Loan Financing Account,N
+0,45,91-4300,Health Education Assistance Loans Financing Account,N
+0,50,91-1100,Institute of Education Sciences,N
+0,80,91-0800,Program Administration,N
+0,80,91-0700,Office for Civil Rights,N
+0,80,91-1400,Office of the Inspector General,N
+0,85,91-0013,Hurricane Education Recovery,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS,N
+0,00,89-089400,"Fees and Recoveries, Federal Energy Regulatory Commission",N
+0,00,89-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,89-223000,Oil and Gas Sale Proceeds at NPRs.,N
+0,00,89-223100,Privatization of Elk Hills,N
+0,00,89-223400,Sale of Strategic Petroleum Reserve Oil,N
+0,00,89-224500,"Sale and Transmission of Electric Energy, Falcon Dam",N
+0,00,89-224700,"Sale and Transmission of Electric Energy, Southwestern Power Administration",N
+0,00,89-224800,"Sale and Transmission of Electric Energy, Southeastern Power Administration",N
+0,00,89-224900,"Sale of Power and Other Utilities, not Otherwise Classified",N
+0,00,89-279530,DOE ATVM Direct Loans Downward Reestimate Account,N
+0,00,89-279610,"Title 17 Innovative Technology Loan Guarantee Financing, Section 1705, Negative Subsidies",N
+0,00,89-279730,DOE Loan Guarantees (Section 1703) Downward Reestimate Account,N
+0,00,89-288900,"Repayments on Miscellaneous Recoverable Costs, not Otherwise Classified",N
+0,00,89-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,89-330500,"Transfer of Excess Receipts to the General  Fund, Federal Energy Regulatory Commission",N
+0,00,89-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,89-500026,"Reclamation Fund, All Other, Sale of Electric Energy, Bonneville Power Administration",N
+0,00,89-500027,"Reclamation Fund, All Other, Sale of Power and Other Utilities (WAPA)",N
+0,00,89-501200,"Licenses under Federal Power Act, Improvements of Navigable Waters",N
+0,00,89-501300,Licensee Benefit Charge,N
+0,00,89-510500,"Licenses under Federal Power Act from Public Lands and National Forests, Payment to States (37 1/2%)",N
+0,00,89-517810,Falcon and Amistad Operating and Maintenance Fund Receipts,N
+0,00,89-522710,Nuclear Waste Disposal Fund,N
+0,00,89-522720,"Earnings on Investments, Nuclear Waste Disposal Fund",N
+0,00,89-522810,"Miscellaneous Revenues, Departmental Administration",N
+0,00,89-523110,"Assessments, Decontamination and Decommissioning Fund",N
+0,00,89-523120,"Earnings on Investments, Decontamination and Decommissioning Fund",N
+0,00,89-523130,"Domestic Utility Fees, Decontamination and Decommissioning Fund",N
+0,00,89-523140,"General Fund Payment - Defense, Decontamination and Decommissioning Fund",N
+0,00,89-536930,Sale of Northeast Home Heating Oil Reserve,N
+0,00,89-542810,Elk Hills School Lands Fund,N
+0,00,89-552310,"OCS Receipts, Ultra-deepwater and Unconventional Natural Gas and Other Petroleum Research Fund",N
+0,00,89-553010,Receipts from Uranium Sales and Remediation,N
+0,00,89-556510,"Transfer of Sales of Power and Energy Related Services, SWPA",N
+0,00,89-564900,"Deposits from Sale and Transmission of Electric Energy, Southwestern Power Administration",N
+0,00,89-565300,"Deposits from Sale and Transmission of Electric Energy, Southeastern Power Administration",N
+0,05,89-0313,Office of the Administrator,N
+0,05,89-0314,Naval Reactors,N
+0,05,89-0240,Weapons Activities,N
+0,05,89-0309,Defense Nuclear Nonproliferation,N
+0,05,89-0312,Cerro Grande Fire Activities,N
+0,10,89-0242,Defense Environmental Restoration and Waste Management,N
+0,10,89-0251,Defense Environmental Cleanup,N
+0,10,89-0249,Defense Environmental Services,N
+0,10,89-0245,Environmental Management Cleanup Reform,N
+0,10,89-0243,Other Defense Activities,N
+0,10,89-0244,Defense Nuclear Waste Disposal,N
+0,20,89-0222,Science,N
+0,20,89-0337,Advanced Research Projects Agency,N
+0,20,89-0336,"Energy Transformation Acceleration Fund, Recovery Act",N
+0,20,89-0224,Energy Supply and Conservation,N
+0,20,89-0319,Nuclear Energy,N
+0,20,89-0318,Electricity Delivery and Energy Reliability,N
+0,20,89-0320,Legacy Management,N
+0,20,89-0321,Energy Efficiency and Renewable Energy,N
+0,20,89-0341,Home Energy Retrofit Rebate Program,N
+0,20,89-0315,Non-defense Environmental Cleanup,N
+0,20,89-0213,Fossil Energy Research and Development,N
+0,20,89-0219,Naval Petroleum and Oil Shale Reserves,N
+0,20,89-0215,Energy Conservation,N
+0,20,89-0218,Strategic Petroleum Reserve,N
+0,20,89-0233,SPR Petroleum Account,N
+0,20,89-0216,Energy Information Administration,N
+0,20,89-0217,Economic Regulation,N
+0,20,89-0212,Federal Energy Regulatory Commission,N
+0,20,89-0206,Geothermal Resources Development Fund,N
+0,20,89-0235,Clean Coal Technology,N
+0,20,89-5180,Alternative Fuels Production,N
+0,20,89-5523,Ultra-deepwater and Unconventional Natural Gas and Other Petroleum Research Fund,N
+0,20,89-5428,Elk Hills School Lands Fund,N
+0,20,89-5370,"Arctic National Wildlife Refuge, Alternative Energy",N
+0,20,89-5105,Payments to States under Federal Power Act,N
+0,20,89-5369,Northeast Home Heating Oil Reserve,N
+0,20,89-5227,Nuclear Waste Disposal,N
+0,20,89-5231,Uranium Enrichment Decontamination and Decommissioning Fund,N
+0,20,89-5530,Uranium Sales and Remediation,N
+0,20,89-4180,Isotope Production and Distribution Program Fund,N
+0,20,89-0322,Advanced Technology Vehicles Manufacturing Loan Program Account,N
+0,20,89-4579,Advanced Technology Vehicles Manufacturing Direct Loan Financing Account,N
+0,20,89-0208,Title 17 Innovative Technology Loan Guarantee Program,N
+0,20,89-4455,Title 17 Innovative Technology Direct Loan Financing Account,N
+0,20,89-4577,Title 17 Innovative Technology Guaranteed Loan Financing Account,N
+0,20,89-0324,"Better Buildings Pilot Loan Guarantee Initiative for Universities, Schools, and Hospitals",N
+0,20,89-4359,"Better Buildings Pilot Loan Guarantee Initiative Financing for Universities, Schools, and Hospitals",N
+0,20,89-8575,Advances for Cooperative Work,N
+0,50,89-0304,"Operation and Maintenance, Alaska Power Administration",N
+0,50,89-0302,"Operation and Maintenance, Southeastern Power Administration",N
+0,50,89-5653,"Continuing Fund, Southeastern Power Administration",N
+0,50,89-0303,"Operation and Maintenance, Southwestern Power Administration",N
+0,50,89-5565,White River Minimum Flow,N
+0,50,89-5649,"Continuing Fund, Southwestern Power Administration",N
+0,50,89-5068,"Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration",N
+0,50,89-4404,"Western Area Power Administration, Borrowing Authority, Recovery Act.",N
+0,50,89-5069,"Emergency Fund, Western Area Power Administration",N
+0,50,89-5178,Falcon and Amistad Operating and Maintenance Fund,N
+0,50,89-4452,"Colorado River Basins Power Marketing Fund, Western Area Power Administration",N
+0,50,89-4045,Bonneville Power Administration Fund,N
+0,60,89-0228,Departmental Administration,N
+0,60,89-0236,Office of the Inspector General,N
+0,60,89-4563,Working Capital Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS—DEPARTMENT OF ENERGY,N
+0,SP,,TITLE V—GENERAL PROVISIONS,N
+0,00,75-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,75-274530,"Health Education Assistance Loans, Downward Reestimates of Subsidies",N
+0,00,75-275830,"Downward Reestimates of Subsidies, Health Centers",N
+0,00,75-310700,Federal Share of Child Support Collections,N
+0,00,75-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,75-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,75-507110,"Rent and Charges for Quarters, Indian Health Service",N
+0,00,75-514510,"Cooperative Research and Development Agreements, NIH",N
+0,00,75-514610,"Cooperative Research and Development Agreements, Centers for Disease Control",N
+0,00,75-514810,"Cooperative Research and Development Agreements, FDA",N
+0,00,75-541610,"User Fees, FDA",N
+0,00,75-555120,"Interest, Child Enrollment Contingency Fund",N
+0,00,75-975110,Reinsurance and Risk Adjustment Program Collections,N
+0,00,75-800408,"Fee on Branded Prescription Pharmaceutical Manufacturers and Importers, SMI",N
+0,00,75-800410,"Federal Contributions, FSMI Fund",N
+0,00,75-800420,"Interest Received by Trust Fund, FSMI Fund",N
+0,00,75-800429,"Other Proprietary Interest from the Public, FSMI Fund",N
+0,00,75-800434,"Federal Contribution, State Low-income Determinations, Prescription Drug Account, FSMI",N
+0,00,75-800435,"Premiums Collected for Medicare Prescription Drug Account, FSMI",N
+0,00,75-800436,"Payments from States, Medicare Prescription Drug Account, FSMI",N
+0,00,75-800437,"Interest, Medicare Prescription Drug Account, FSMI",N
+0,00,75-800440,"Basic Premium, Medicare Advantage, FSMI Trust Fund",N
+0,00,75-800445,"Medicare Refunds, SMI",N
+0,00,75-800446,"Federal Contribution for Admin. Contribution for Admin. Costs, Prescription Drug Account, FSMI",N
+0,00,75-800447,"Federal Contributions for Benefits, Prescription Drug Account, SMI",N
+0,00,75-800450,"Premiums Collected for the Aged, FSMI Fund",N
+0,00,75-800460,"Miscellaneous Federal Payments, Federal Supplementary Medical Insurance Trust Fund",N
+0,00,75-800470,"Premiums Collected for the Disabled, FSMI Fund",N
+0,00,75-800501,"FHI Trust Fund, Transfers from General Fund (FICA Taxes)",N
+0,00,75-800510,"FHI Trust Fund, Receipts from Railroad Retirement Board",N
+0,00,75-800511,"FHI Trust Fund, Transfers from General Fund (SECA Taxes)",N
+0,00,75-800512,"FHI Trust Fund, Federal Employer Contributions (FICA)",N
+0,00,75-800513,"FHI Trust Fund, Postal Service Employer Contributions (FICA)",N
+0,00,75-800520,"FHI Trust Fund, Interest Received by Trust Funds",N
+0,00,75-800529,"FHI Trust Fund, Other Proprietary Interest from the Public",N
+0,00,75-800535,"FHI Trust Fund, Taxation on OASDI Benefits",N
+0,00,75-800540,"FHI Trust Fund, Basic Premium, Medicare Advantage",N
+0,00,75-800544,"FHI Trust Fund, Payment from the General Fund for Health Care Fraud and Abuse Control Account",N
+0,00,75-800546,"FHI Trust Fund, Transfers from General Fund (criminal Fines)",N
+0,00,75-800547,"FHI Trust Fund, Transfers from General Fund (civil Monetary Penalties)",N
+0,00,75-800548,"FHI Trust Fund, Transfers from General Fund (asset Forfeitures)",N
+0,00,75-800549,"FHI Trust Fund, Civil Penalties and Damages",N
+0,00,75-800550,"FHI Trust Fund, Interest Payments by Railroad Retirement Board",N
+0,00,75-800553,"FHI Trust Fund, Medicare Refunds",N
+0,00,75-800560,"FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",N
+0,00,75-800590,"FHI Trust Fund, Premiums Collected for Uninsured Individuals not Otherwise Eligible",N
+0,00,75-807310,"Contributions, Indian Health Facilities",N
+0,00,75-817510,"Deposits, Vaccine Injury Compensation Trust Fund",N
+0,00,75-817520,"Interest and Profits on Investments, Vaccine Injury Compensation Trust Fund",N
+0,00,75-824810,"Contributions, N.I.H., Unconditional Gift Fund",N
+0,00,75-825010,"Centers for Disease Control, Gifts and Donations",N
+0,00,75-825310,"Contributions, N.I.H., Conditional Gift Fund",N
+0,00,75-825410,"Contributions, PHS Conditional Gift Fund",N
+0,00,75-851110,Contributions to the Indian Health Service Gift Fund,N
+0,00,75-888810,"Deposits, Patients Benefit Fund, N.I.H.",N
+0,00,75-977110,"Gifts and Contributions, Miscellaneous Trust Funds",N
+0,00,75-977120,"Interest, Miscellaneous Trust Funds",N
+0,00,75-800456,Manufacturer Rebates,N
+0,10,75-9911,Salaries and Expenses,N
+0,10,75-4309,Revolving Fund for Certification and Other Services,N
+0,15,75-0350,Health Resources and Services,N
+0,15,75-0320,Vaccine Injury Compensation,N
+0,15,75-0321,"Maternal, Infant, and Early Childhood Home Visiting Programs",N
+0,15,75-4442,Health Center Guaranteed Loan Financing Account,N
+0,15,75-0340,Health Education Assistance Loans Program Account,N
+0,15,75-4304,Health Education Assistance Loans Financing Account,N
+0,15,75-4305,Health Education Assistance Loans Liquidating Account,N
+0,15,75-9931,Medical Facilities Guarantee and Loan Fund,N
+0,15,75-8175,Vaccine Injury Compensation Program Trust Fund,N
+0,17,75-0390,Indian Health Services,N
+0,17,75-0391,Indian Health Facilities,N
+0,17,,ADMINISTRATIVE PROVISIONS,N
+0,20,75-0943,CDC-Wide Activities and Program Support,N
+0,20,75-4553,CDC Working Capital Fund,N
+0,20,75-0944,"Toxic Substances and Environmental Public Health, Agency for Toxic Substances and Disease Registry",N
+0,20,75-0946,World Trade Center Health Program Fund,N
+0,25,75-9915,National Institutes of Health,N
+0,30,75-1362,Susbstance Abuse and Mental Health Services Administration,N
+0,33,75-1700,Healthcare Research and Quality,N
+0,38,75-0512,Grants to States for Medicaid,N
+0,38,75-0516,State Grants and Demonstrations,N
+0,38,75-0580,Payments to Health Care Trust Funds,N
+0,38,75-0519,Quality Improvements Organizations,N
+0,38,75-0511,Program Management,N
+0,38,75-0515,Children's Health Insurance Fund,N
+0,38,75-0522,Center for Medicare and Medicaid Innovation,N
+0,38,75-5551,Child Enrollment Contingency Fund,N
+0,38,75-0508,"Medicare Health Information Technology Incentive Payments, Recovery Act",N
+0,38,75-0112,Rate Review Grants,N
+0,38,75-0113,Pre-Existing Condition Insurance Plan Program,N
+0,38,75-0114,Early Retiree Reinsurance Program,N
+0,38,75-0115,Affordable Insurance Exchange Grants,N
+0,38,75-0126,Reduced Cost Sharing for Individuals Enrolling in Qualified Health Plans,N
+0,38,75-9055,Reinsurance and Risk Adjustment Program Payments,N
+0,38,75-0118,Consumer Operated and Oriented Plan Program Account,N
+0,38,75-4418,Consumer Operated and Oriented Plan Financing Account,N
+0,38,75-8005,Federal Hospital Insurance Trust Fund,N
+0,38,75-8393,Health Care Fraud and Abuse Control Account,N
+0,38,75-8004,Federal Supplementary Medical Insurance Trust Fund,N
+0,38,75-8307,"Transitional Drug Assistance, Federal Supplementary Medical Insurance Trust Fund",N
+0,38,75-8308,"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",N
+0,38,,Allocations Received from Other Accounts,N
+0,70,75-1552,Temporary Assistance for Needy Families,N
+0,70,75-1522,Contingency Fund,N
+0,70,75-1501,Payments to States for Child Support Enforcement and Family Support Programs,N
+0,70,75-1502,Low Income Home Energy Assistance,N
+0,70,75-1503,Refugee and Entrant Assistance,N
+0,70,75-1512,Supporting Healthy Families and Adolescent Development,N
+0,70,75-1550,Child Care Entitlement to States,N
+0,70,75-1515,Payments to States for the Child Care and Development Block Grant,N
+0,70,75-1534,Social Services Block Grant,N
+0,70,75-1536,Children and Families Services Programs,N
+0,70,75-1553,Children's Research and Technical Assistance,N
+0,70,75-1545,Payments for Foster Care and Permanency,N
+0,75,75-0142,Aging Services Programs,N
+0,75,75-8160,Class Independence Fund,N
+0,90,75-9912,General Departmental Management,N
+0,90,75-0135,Office for Civil Rights,N
+0,90,75-0130,Office of the National Coordinator for Health Information Technology,N
+0,90,75-0139,Office of Medicare Hearings and Appeals,N
+0,90,75-0140,Public Health and Social Services Emergency Fund,N
+0,90,75-0145,Transfers from the Patient-Centered Outcomes Research Trust Fund,N
+0,90,75-0144,"Prevention and Wellness Fund, Recovery Act",N
+0,90,75-0125,Nonrecurring Expenses Fund,N
+0,90,75-0119,Health Insurance Reform Implementation Fund,N
+0,90,75-0116,Prevention and Public Health Fund,N
+0,90,75-0117,Pregnancy Assistance Fund,N
+0,91,75-0379,Retirement Pay and Medical Benefits for Commissioned Officers,N
+0,91,75-0170,HHS Accrual Contribution to the Uniformed Services Retiree Health Care Fund,N
+0,91,75-9913,Health Activities Funds,N
+0,91,75-9941,HHS Service and Supply Fund,N
+0,91,75-9971,Miscellaneous Trust Funds,N
+0,92,75-0128,Office of the Inspector General,N
+0,95,75-9914,Pandemic Flu Preparedness,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,Allocations Received from Other Accounts,N
+0,SP,,GENERAL PROVISIONS,N
+0,00,70-031100,Tonnage Duty Increases,N
+0,00,70-083400,Breached Bond Penalties,N
+0,00,70-0835,"Immigration Fees, Border Security Act",N
+0,00,70-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,70-242100,Marine Safety Fees,N
+0,00,70-274030,"Disaster Assistance, Downward Reestimates",N
+0,00,70-276410,"Disaster Assistance, Negative Subsidy",N
+0,00,70-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,70-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,70-508730,Immigration User Fee,N
+0,00,70-508810,Immigration Examination Fee,N
+0,00,70-508910,Land Border Inspection Fee,N
+0,00,70-510610,H-1B Nonimmigrant Petitioner Account,N
+0,00,70-512610,Breached Bond/detention Fund,N
+0,00,70-537810,Student and Exchange Visitor Fee,N
+0,00,70-538510,"Fees, Aviation Security Capital Fund",N
+0,00,70-538530,"Fees, Aviation Security, Deficit Reduction",N
+0,00,70-538910,H-1B and L Fraud Prevention and Detection Account,N
+0,00,70-539010,Unclaimed Checkpoint Money,N
+0,00,70-545110,Immigrant Enforcement Account,N
+0,00,70-553310,Wool Manufacturers Trust Fund,N
+0,00,70-554310,International Registered Traveler Program Fund,N
+0,00,70-559510,Electronic System for Travel Authorization (ESTA) Fees,N
+0,00,70-568710,"Deposits, Duties, and Taxes, Puerto Rico",N
+0,00,70-569400,User Fees for Customs Services at Small Airports,N
+0,00,70-569520,"US Customs User Fees Account, Conveyance/Passenger/Other",N
+0,00,70-569530,"US Customs User Fees Account, Merchandise Processing",N
+0,00,70-571010,"Sale of Real Property, U.S. Coast Guard Housing Special Fund",N
+0,00,20-818510,"Excise Taxes, Oil Spill Liability Trust Fund",N
+0,00,70-814720,"Excise Taxes, Sport Fish Restoration, Aquatic Resources Trust Fund",N
+0,00,70-814730,"Earnings on Investments, Aquatic Resources Trust Fund",N
+0,00,70-814750,"Customs Duties, Aquatic Resources Trust Fund",N
+0,00,70-818520,Earnings on Investments,N
+0,00,70-818530,"Fines and Penalties, OSLTF",N
+0,00,70-818540,"Recoveries, Oil Spill Liability Trust Fund",N
+0,00,70-824410,Gifts and Donations,N
+0,00,70-824420,"Earnings on Investments, Gifts and Bequests for Disaster Relie",N
+0,00,70-853310,General Gift Fund,N
+0,00,70-878910,"Proceeds of the Sales of Unclaimed Abandoned, Seized Goods",N
+0,10,70-0100,Departmental Operations,N
+0,10,70-0101,Counterterrorism Fund,N
+0,10,70-0102,Office of the Chief Information Officer,N
+0,10,70-4640,Working Capital Fund,N
+0,10,70-0115,Analysis and Operations,N
+0,10,70-8244,Gifts and Donations,N
+0,20,70-0200,Operating Expenses,N
+0,30,70-0300,Citizenship and Immigration Services,N
+0,40,70-0400,Operating Expenses,N
+0,40,70-0405,"Contribution for Annuity Benefits, United States Secret Service",N
+0,40,70-0401,"Acquisition, Construction, and Improvements",N
+0,45,70-0550,Aviation Security,N
+0,45,70-0541,Federal Air Marshals,N
+0,45,70-0551,Surface Transportation Security,N
+0,45,70-0554,Transportation Security Support,N
+0,45,70-0557,Transportation Threat Assessment and Credentialing,N
+0,49,70-0509,Salaries and expenses,N
+0,49,70-0510,"Acquisitions, Construction, Improvements and Related Expenses",N
+0,55,70-0540,Immigration and Customs Enforcement,N
+0,55,70-0543,"Automation Modernization, Immigration and Customs Enforcement",N
+0,55,70-0545,Construction,N
+0,58,70-0530,Customs and Border Protection,N
+0,58,70-0533,"Border Security Fencing, Infrastructure, and Technology",N
+0,58,70-0531,"Automation Modernization, Customs and Border Protection",N
+0,58,70-0532,"Construction, Customs and Border Protection",N
+0,58,70-0544,"Air and Marine Interdiction, Operations, Maintenance, and Procurement",N
+0,58,70-5687,"Refunds, Transfers, and Expenses of Operation, Puerto Rico",N
+0,58,70-5533,Payments to Wool Manufacturers,N
+0,58,70-5543,International Registered Traveler,N
+0,58,70-5595,Electronic System for Travel Authorization,N
+0,58,70-8789,"US Customs Refunds, Transfers and Expenses, Unclaimed and Abandoned Goods",N
+0,60,70-0610,Operating Expenses,N
+0,60,70-0611,Environmental Compliance and Restoration,N
+0,60,70-0612,Reserve Training,N
+0,60,70-0613,"Acquisition, Construction, and Improvements",N
+0,60,70-0614,Alteration of Bridges,N
+0,60,70-0615,"Research, Development, Test, and Evaluation",N
+0,60,70-0616,"Medicare-eligible Retiree Health Fund Contribution, Homeland Security",N
+0,60,70-0602,Retired Pay,N
+0,60,70-0603,Coast Guard Housing Fund,N
+0,60,70-5710,U.S. Coast Guard Housing Special Fund,N
+0,60,70-4535,Supply Fund,N
+0,60,70-4743,Yard Fund,N
+0,60,70-8147,Aquatic Resources Trust Fund,N
+0,60,70-8149,Boat Safety,N
+0,60,70-8314,Trust Fund Share of Expenses,N
+0,60,70-8533,General Gift Fund,N
+0,60,70-8185,Oil Spill Liability Trust Fund,N
+0,60,70-8349,Maritime Oil Spill Programs,N
+0,60,70-9981,Miscellaneous Trust Revolving Funds,N
+0,65,70-0566,National Protection and Programs Directorate,N
+0,65,70-0521,United States Visitor and Immigrant Status Indicator Technology,N
+0,65,70-0565,Infrastructure Protection and Information Security,N
+0,65,70-0542,Federal Protective Service,N
+0,65,70-0714,Biodefense Countermeasures,N
+0,65,70-0117,Office of Health Affairs,N
+0,70,70-0500,Flood Hazard Mapping and Risk Analysis Program,N
+0,70,70-0560,State and Local Programs,N
+0,70,70-0721,First Responder Stabilization Fund,N
+0,70,70-0564,United States Fire Administration and Training,N
+0,70,70-0715,Radiological Emergency Preparedness Program,N
+0,70,70-0711,"Readiness, Mitigation, Response, and Recovery",N
+0,70,70-0712,Administrative and Regional Operations,N
+0,70,70-0700,Salaries and Expenses,N
+0,70,70-0701,National Predisaster Mitigation Grants,N
+0,70,70-0717,National Flood Mitigation Fund,N
+0,70,70-0716,National Pre-disaster Mitigation Fund,N
+0,70,70-0707,Emergency Food and Shelter,N
+0,70,70-0702,Disaster Relief,N
+0,70,70-4236,National Flood Insurance Fund,N
+0,70,70-0703,Disaster Assistance Direct Loan Program Account,N
+0,70,70-4234,Disaster Assistance Direct Loan Financing Account,N
+0,80,70-0800,"Research, Development, Acquisitions and Operations",N
+0,85,70-0861,Management and Administration,N
+0,85,70-0860,"Research, Development, and Operations",N
+0,85,70-0862,Systems Acquisition,N
+0,90,70-0911,Assessments and Evaluation,N
+0,90,70-0900,Operating Expenses,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS,N
+0,00,86-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,86-246900,Government-sponsored Enterprises Oversight Fee,N
+0,00,86-271910,"FHA-general and Special Risk, Negative Subsidies",N
+0,00,86-271930,"FHA-general and Special Risk, Downward Reestimates of Subsidies",N
+0,00,86-274330,"Indian Housing Loan Guarantees, Downward Reestimates of Subsidies",N
+0,00,86-276230,Title VI Indian Loan Guarantee Downward Reestimate,N
+0,00,86-277330,"Community Development Loan Guarantees, Downward Reestimates",N
+0,00,86-279930,"Native Hawaiian Housing Loan Guarantees, Downward Reestimates of Subsidies",N
+0,00,86-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,86-388510,Undistributed Intragovernmental Payments,N
+0,00,86-527010,Interstate Land Sales Fund,N
+0,00,86-530110,"GNMA-guarantees of Mortgage Backed Securities Guarantee Loans, Negative Subsidies",N
+0,00,86-809310,Gifts and Bequests,N
+0,00,86-811910,"Mobile Home Inspection and Monitoring Fees, Manufactured Housing Fee Trust Fund",N
+0,00,86-811930,"General Fund Payment, Manufactured Housing Fee Trust Fund",N
+0,03,86-0406,Rental Assistance Demonstration,N
+0,03,86-0311,Prevention of Resident Displacement,N
+0,03,86-0302,Tenant Based Rental Assistance,N
+0,03,86-0319,Housing Certificate Fund,N
+0,03,86-0303,Project-based Rental Assistance,N
+0,03,86-0304,Public Housing Capital Fund,N
+0,03,86-0163,Public Housing Operating Fund,N
+0,03,86-0197,Drug Elimination Grants for Low-income Housing,N
+0,03,86-0349,Choice Neighborhoods,N
+0,03,86-0218,Revitalization of Severely Distressed Public Housing (HOPE VI),N
+0,03,86-0313,Native American Housing Block Grant,N
+0,03,86-0235,Native Hawaiian Housing Block Grant,N
+0,03,86-4098,Low-rent Public Housing—loans and Other Expenses,N
+0,03,86-0223,Indian Housing Loan Guarantee Fund Program Account,N
+0,03,86-4104,Indian Housing Loan Guarantee Fund Financing Account,N
+0,03,86-0233,Native Hawaiian Housing Loan Guarantee Fund Program Account,N
+0,03,86-4351,Native Hawaiian Housing Loan Guarantee Fund Financing Account,N
+0,03,86-4244,Title VI Indian Federal Guarantees Financing Account,N
+0,06,86-0308,Housing Opportunities for Persons with AIDS,N
+0,06,86-0162,Community Development Fund,N
+0,06,86-0315,Empowerment Zones/enterprise Communities/renewal Communities,N
+0,06,86-0314,Brownfields Redevelopment,N
+0,06,86-0205,Home Investment Partnership Program,N
+0,06,86-5553,Housing Trust Fund,N
+0,06,86-0176,Self-help Homeownership Opportunity Program,N
+0,06,86-0344,Neighborhood Stabilization Program,N
+0,06,86-0192,Homeless Assistance Grants,N
+0,06,86-0342,Permanent Supportive Housing,N
+0,06,86-0324,Rural Housing and Economic Development,N
+0,06,86-0170,Urban Development Action Grants,N
+0,06,86-4015,Revolving Fund (liquidating Programs),N
+0,06,86-0198,Community Development Loan Guarantees Program Account,N
+0,06,86-4096,Community Development Loan Guarantees Financing Account,N
+0,06,86-4097,Community Development Loan Guarantees Liquidating Account,N
+0,09,86-0320,Housing for the Elderly,N
+0,09,86-0237,Housing for Persons with Disabilities,N
+0,09,86-0156,Housing Counseling Assistance,N
+0,09,86-0401,Energy Innovation Fund,N
+0,09,86-0407,Emergency Homeowners' Relief Fund,N
+0,09,86-4357,Emergency Homeowners' Relief Financing Account,N
+0,09,86-0206,Other Assisted Housing Programs,N
+0,09,86-0196,Homeownership and Opportunity for People Everywhere Grants (HOPE Grants),N
+0,09,86-0234,Payment to Manufactured Housing Fees Trust Fund,N
+0,09,86-0306,"Green Retrofit Program for Multifamily Housing, Recovery Act",N
+0,09,86-4589,Green Retrofit Program for Multifamily Housing Financing Account,N
+0,09,86-5270,Interstate Land Sales,N
+0,09,86-4041,Rental Housing Assistance Fund,N
+0,09,86-4044,Flexible Subsidy Fund,N
+0,09,86-4353,Home Ownership Preservation Entity Fund Financing Account,N
+0,09,86-4071,Nehemiah Housing Opportunity Fund,N
+0,09,86-0183,FHA-mutual Mortgage Insurance Program Account,N
+0,09,86-4242,FHA-mutual Mortgage Insurance Direct Loan Financing Account,N
+0,09,86-4587,FHA-mutual Mortgage Insurance Guaranteed Loan Financing Account,N
+0,09,86-0236,FHA-mutual Mortgage Insurance Capital Reserve Account,N
+0,09,86-4070,FHA-mutual Mortgage and Cooperative Housing Insurance Funds Liquidating Account,N
+0,09,86-0200,FHA-general and Special Risk Program Account,N
+0,09,86-4077,FHA-general and Special Risk Guaranteed Loan Financing Account,N
+0,09,86-4105,FHA-general and Special Risk Direct Loan Financing Account,N
+0,09,86-4106,FHA-loan Guarantee Recovery Fund Financing Account,N
+0,09,86-4072,FHA-general and Special Risk Insurance Funds Liquidating Account,N
+0,09,86-4115,Housing for the Elderly or Handicapped Fund Liquidating Account,N
+0,09,86-8119,Manufactured Housing Fees Trust Fund,N
+0,12,86-0186,Guarantees of Mortgage-backed Securities Loan Guarantee Program Account,N
+0,12,86-4240,Guarantees of Mortgage-backed Securities Financing Account,N
+0,12,86-4238,Guarantees of Mortgage-backed Securities Liquidating Account,N
+0,28,86-0108,Research and Technology,N
+0,29,86-0144,Fair Housing Activities,N
+0,32,86-0174,Lead Hazard Reduction,N
+0,33,86-0408,Sustainable Housing and Communities Initiative,N
+0,35,86-0335,"Administration, Operations and Management",N
+0,35,86-0337,Public and Indian Housing Personnel Compensation and Benefits,N
+0,35,86-0338,Community Planning and Development Personnel Compensation and Benefits,N
+0,35,86-0334,Housing Personnel Compensation and Benefits,N
+0,35,86-0336,Office of the Government National Mortgage Association Personnel Compensation and Benefits,N
+0,35,86-0339,Policy Development and Research Personnel Compensation and Benefits,N
+0,35,86-0340,Fair Housing and Equal Opportunity Personnel Compensation and Benefits,N
+0,35,86-0341,Office of Healthy Homes and Lead Hazard Control Personnel Compensation and Benefits,N
+0,35,86-0409,Office of Sustainable Housing and Communities Personnel Compensation and Benefits,N
+0,35,86-0333,Executive Direction,N
+0,35,86-0143,Salaries and Expenses,N
+0,35,86-0189,Office of Inspector General,N
+0,35,86-4586,Working Capital Fund,N
+0,35,86-0402,Transformation Initiative,N
+0,35,86-8093,Gifts and Bequests,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS—DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT,N
+0,00,14-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,14-181100,Rent and Bonuses from Land Leases for Resource Exploration and Extraction,N
+0,00,14-182000,Rent and Bonuses on Outer Continental Shelf Lands,N
+0,00,14-202000,Royalties on Outer Continental Shelf Lands,N
+0,00,14-202500,Fee on Nonproducing Oil and Gas Leases,N
+0,00,14-203200,Hardrock Mining Holding Fee,N
+0,00,14-203900,"Royalties on Natural Resources, not Otherwise Classified",N
+0,00,14-222900,"Sale of Timber, Wildlife and Other Natural Land Products, not Otherwise Classified",N
+0,00,14-229500,Hardrock Revenues from Federal Lands,N
+0,00,14-248400,"Receipts from Grazing Fees, Federal Share",N
+0,00,14-272930,"Indian Loan Guarantee, Downward Reestimates of Subsidies",N
+0,00,14-274230,"Bureau of Reclamation Loans, Downward Reestimates of Subsidies",N
+0,00,14-274730,"Indian Direct Loan, Downward Reestimates of Subsidies",N
+0,00,14-277430,"Assistance to American Samoa Direct Loans, Downward Reestimates of Subsidies",N
+0,00,14-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,14-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,14-500021,"Reclamation Fund, Miscellaneous Interest",N
+0,00,14-500024,"Reclamation Fund, Royalties on Natural Resources",N
+0,00,14-500025,"Reclamation Fund, Sale of Timber and Other Products",N
+0,00,14-500028,"Reclamation Fund, Other Proprietary Receipts from the Public",N
+0,00,14-500029,"Reclamation Fund, Sale of Public Domain",N
+0,00,14-500300,"Receipts from Mineral Leasing, Public Lands",N
+0,00,14-500510,"Outer Continental Shelf Royalties, LWCF Share from Certain Gulf of Mexico Leases",N
+0,00,14-500570,"Land and Water Conservation Fund, Rent Receipts, Outer Continental Shelf Lands",N
+0,00,14-500580,"Land and Water Conservation Fund, Royalty Receipts, Outer Continental Shelf",N
+0,00,14-500590,"Outer Continental Shelf Rents and Bonuses, LWCF Share from Certain Gulf of Mexico Leases",N
+0,00,14-501560,"Abandoned Mine Reclamation Fund, Reclamation Fees",N
+0,00,14-501570,Interest on Late Payment of Coal Mining Reclamation Fees,N
+0,00,14-501590,"Earnings on Investments, Abandoned Mine Reclamation Fund",N
+0,00,14-501600,"Receipts from Grazing, Etc., Public Lands outside Grazing Districts",N
+0,00,14-501710,"Service Charges, Deposits, and Forfeitures, BLM",N
+0,00,14-501810,Deposits for Road Maintenance and Reconstruction,N
+0,00,14-502920,"Earnings on Investments, Federal Aid to Wildlife Restoration Fund",N
+0,00,14-502930,"Excise Taxes, Federal Aid to Wildlife Restoration Fund",N
+0,00,14-503200,"Receipts from Grazing, Etc., Public Lands within Grazing Districts",N
+0,00,14-504510,"Receipts from Oil and Gas Leases, National Petroleum Reserve in Alaska, MMS",N
+0,00,14-504810,"Rents and Charges for Quarters, Bureau of Land Management, Interior",N
+0,00,14-504910,"Rents and Charges for Quarters, National Park Service",N
+0,00,14-505010,"Rents and Charges for Quarters, Fish and Wildlife Service",N
+0,00,14-505110,"Rents and Charges for Quarters, Bureau of Indian Affairs",N
+0,00,14-505510,"Rents and Charges for Quarters, Geological Survey",N
+0,00,14-506310,"Civil Penalties, Office of Surface Mining Reclamation and Enforcement",N
+0,00,14-509110,National Wildlife Refuge Fund,N
+0,00,14-510910,Recreation Enhancement Fee Program,N
+0,00,14-511010,"Recreation Enhancement Fee, National Park System",N
+0,00,14-511110,Hardrock Reclamation Fees,N
+0,00,14-512910,Payments to States and Counties from Land Sales,N
+0,00,14-513200,"Grazing Fees for Range Improvements, Taylor Grazing Act, As Amended",N
+0,00,14-513710,Migratory Bird Hunting Stamps,N
+0,00,14-513720,Custom Duties on Arms and Ammunition,N
+0,00,14-514010,"Historic Preservation Fund, Rent Receipts, Outer Continental Shelf Lands",N
+0,00,14-514110,"National Indian Gaming Commission, Gaming Activity Fees",N
+0,00,14-514300,"Payment from the General Fund, Cooperative Endangered Species Conservation Fund",N
+0,00,14-515730,Transfer from Lahonton Valley and Pyramid Lake Fish and Wildlife Fund,N
+0,00,14-516310,"Rental Payments, Park Buildings Lease and Maintenance Fund",N
+0,00,14-516410,"Transportation Fees, Transportation System Fund",N
+0,00,14-516510,"Forest Ecosystem Health and Recovery, Disposal of Salvage Timber",N
+0,00,14-516910,Concession Improvement Accounts Deposit,N
+0,00,14-517330,"Central Valley Project Restoration Fund, Revenue",N
+0,00,14-517420,"Interest on Principal, Utah Mitigation and Conservation Fund",N
+0,00,14-517440,"Contributions from Project Beneficiaries (District), Utah Mitigation and Reclamation Fund",N
+0,00,14-517450,"Contributions from Project Beneficiaries (WAPA), Utah Mitigation and Conservation Fund",N
+0,00,14-518610,"Hetch Hetchy Dam Rental Payments, Yosemite Management Fund",N
+0,00,14-519720,"Earnings on Investment, Tribal Economic Recovery Funds",N
+0,00,14-519810,Natural Resources Damages from Legal Actions,N
+0,00,14-519820,"Natural Resources Damages from Legal Actions, EOI",N
+0,00,14-523210,"Land Sales, Southern Nevada Public Land Management",N
+0,00,14-523220,"Earnings on Investments, Southern Nevada Public Land Management",N
+0,00,14-524010,"Deposits, Operation and Maintenance, Indian Irrigation Systems",N
+0,00,14-524020,"Earnings on Investments, Operation and Maintenance, Indian Irrigation Systems",N
+0,00,14-524100,"Fines, Penalties, and Forfeitures from Migratory Bird Treaty Act, North American Wetlands Conservation Fund",N
+0,00,14-524210,Alaska Resupply Program,N
+0,00,14-524310,"National Forests Fund, Payments to States",N
+0,00,14-524710,User Fees for Filming and Photography on Public Lands,N
+0,00,14-524810,"Leases of Lands Acquired for Flood Control, Navigation, and Allied Purposes",N
+0,00,14-524910,Timber Sale Pipeline Restoration Fund,N
+0,00,14-525210,"Recreation Enhancement Fee, Fish and Wildlife Service",N
+0,00,14-526010,"Surplus Land Sales, Federal Land Disposal Account",N
+0,00,14-526210,"Annual Passes, National Park Passport Program",N
+0,00,14-526510,"Federal Fund Payments, Tribal Special Fund",N
+0,00,14-526520,"Earnings on Investment, Tribal Special Fund",N
+0,00,14-526530,"Interest on Investments in GSEs, Tribal Special Fund",N
+0,00,14-526540,"Return of Principal from Private Sector Investments, Tribal Special Fund",N
+0,00,14-526550,"Miscellaneous Sales of Assets, Tribal Special Fund",N
+0,00,14-526560,"Trust Fund Payments, Tribal Special Fund",N
+0,00,14-541210,"Miscellaneous Fees, Glacier Bay National Park Resource Protection",N
+0,00,14-541310,"Recreation Enhancement Fee, BLM",N
+0,00,14-542520,"Interest Earned, Environmental Improvement and Restoration Fund",N
+0,00,14-543110,Park Concessions Franchise Fees,N
+0,00,14-546910,Lincoln County Land Act Land Sales,N
+0,00,14-548310,"Federal Payments, San Gabriel Basin Restoration Fund",N
+0,00,14-548330,"Non-Federal Contributions, San Gabriel Basin Restoration Fund",N
+0,00,14-550110,"Gifts, Community Partnership Enhancement",N
+0,00,14-553510,"Outer Continental Shelf Rentals and Bonuses, State Share from Certain Gulf of Mexico Leases",N
+0,00,14-553520,Outer Continental Shelf Royalties,N
+0,00,14-553710,San Joaquin River Restoration Fund Receipts,N
+0,00,14-553730,San Joaquin River Restoration Fund Receipts,N
+0,00,14-555410,"Washington County, Utah Land Acquisition Account",N
+0,00,14-555630,Payment from Federal Land Disposal Account to Owyhee Land Acquisition Account,N
+0,00,14-557210,"Outer Continental Shelf Revenues, Coastal Impact Assistance",N
+0,00,14-557310,"Rent from Mineral Leases, Permit Processing Improvement Fund",N
+0,00,14-557410,"Geothermal Lease Revenues, County Share",N
+0,00,14-557510,"Geothermal Lease Revenues, Department of Interior Share",N
+0,00,14-557610,Lease Revenues from Naval Petroleum Reserve Numbered 2 Lands,N
+0,00,14-559310,Reclamation Water Settlements Fund,N
+0,00,14-564810,"Power Revenues, Indian Irrigation Projects",N
+0,00,14-564820,"Earnings on Investments, Indian Irrigation Projects",N
+0,00,14-565610,"Revenues, Colorado River Dam Fund, Boulder Canyon Project",N
+0,00,14-566310,"Deposits for Educational Expenses, Children of Employees, Yellowstone (including Visitor Fees, Leased Federal Acquired Properties)",N
+0,00,14-567010,"Judgment Fund Payment, Trust Land Consolidation Fund",N
+0,00,14-588100,Sale of Public Lands and Materials,N
+0,00,14-588200,Oregon and California Land-grant Fund,N
+0,00,14-588410,"Deposits, Oregon and California Grant Lands",N
+0,00,14-589700,Coos Bay Wagon Road Grant Fund,N
+0,00,14-589810,"Funds Reserved, Coos Bay Wagon Road Grant Lands",N
+0,00,14-803010,"Federal Fund Payments, Tribal Trust Fund",N
+0,00,14-803020,"Earnings on Investments, Tribal Trust Fund",N
+0,00,14-803030,"Interest on Investments in GSEs, Tribal Trust Fund",N
+0,00,14-803040,"Return of Principal from Private Sector Investments, Tribal Trust Fund",N
+0,00,14-803050,"Miscellaneous Sales of Assets, Tribal Trust Fund",N
+0,00,14-803710,Donations to National Park Service,N
+0,00,14-806910,"Contributions and Deposits, BLM",N
+0,00,14-807010,"Deposits, Reclamation Trust Funds",N
+0,00,14-821610,"Deposits, Contributed Funds, Fish and Wildlife Service",N
+0,00,14-836110,"Gifts and Donations, Bureau of Indian Affairs",N
+0,00,14-856210,"Contributed Funds, Geological Survey",N
+0,04,14-1109,Management of Lands and Resources,N
+0,04,14-1110,Construction,N
+0,04,14-1116,Oregon and California Grant Lands,N
+0,04,14-5033,Land Acquisition,N
+0,04,14-5132,Range Improvements,N
+0,04,14-5017,"Service Charges, Deposits, and Forfeitures",N
+0,04,14-9926,Permanent Operating Funds,N
+0,04,14-9921,Miscellaneous Permanent Payment Accounts,N
+0,04,14-5111,Hardrock Reclamation Fund,N
+0,04,14-4053,Helium Fund,N
+0,04,14-4525,Working Capital Fund,N
+0,04,,Bureau of Land Management—Allocations Received from Other Acccounts,N
+0,04,14-9971,Miscellaneous Trust Funds,N
+0,04,,ADMINISTRATIVE PROVISIONS,N
+0,06,14-1917,Ocean Energy Management,N
+0,06,14-5572,Coastal Impact Assistance,N
+0,08,14-1801,Regulation and Technology,N
+0,08,14-5015,Abandoned Mine Reclamation Fund,N
+0,08,14-1803,Payments to States in Lieu of Coal Fee Receipts,N
+0,08,14-1804,Supplemental Payments to UMWA Health Plans,N
+0,08,,ADMINISTRATIVE PROVISIONS,N
+0,10,14-0680,Water and Related Resources,N
+0,10,14-0687,California Bay-Delta Restoration,N
+0,10,14-2636,Indian Water Rights Settlements,N
+0,10,14-2638,Taos Settlement Fund,N
+0,10,14-5593,Reclamation Water Settlements Fund,N
+0,10,14-5000,Reclamation Fund,N
+0,10,14-5065,Policy and Administration,N
+0,10,14-5173,Central Valley Project Restoration Fund,N
+0,10,14-5656,"Colorado River Dam Fund, Boulder Canyon Project",N
+0,10,14-5483,San Gabriel Basin Restoration Fund,N
+0,10,14-5537,San Joaquin Restoration Fund,N
+0,10,14-4079,Lower Colorado River Basin Development Fund,N
+0,10,14-4081,Upper Colorado River Basin Fund,N
+0,10,14-4524,Working Capital Fund,N
+0,10,14-0685,Bureau of Reclamation Loan Program Account,N
+0,10,14-4547,Bureau of Reclamation Direct Loan Financing Account,N
+0,10,14-0667,Bureau of Reclamation Loan Liquidating Account,N
+0,10,14-8070,Reclamation Trust Funds,N
+0,10,,ADMINISTRATIVE PROVISIONS,N
+0,11,14-0787,Central Utah Project Completion Account,N
+0,11,14-5174,Utah Reclamation Mitigation and Conservation Account,N
+0,12,14-0804,"Surveys, Investigations, and Research",N
+0,12,14-2630,National Land Imaging,N
+0,12,14-4556,Working Capital Fund,N
+0,12,,United States Geological Survey—Allocations Received from Other Accounts,N
+0,12,14-8562,Contributed Funds,N
+0,12,,ADMINISTRATIVE PROVISIONS,N
+0,22,14-1700,Offshore Safety and Environmental Enforcement,N
+0,22,14-8370,Oil Spill Research,N
+0,18,14-1611,Resource Management,N
+0,18,14-1612,Construction,N
+0,18,14-1652,Multinational Species Conservation Fund,N
+0,18,14-1696,Neotropical Migratory Bird Conservation,N
+0,18,14-1694,State and Tribal Wildlife Grants,N
+0,18,14-5020,Land Acquisition,N
+0,18,14-5496,Landowner Incentive Program,N
+0,18,14-5495,Private Stewardship Grants,N
+0,18,14-5137,Migratory Bird Conservation Account,N
+0,18,,Coastal Impact Assistance,N
+0,18,14-5241,North American Wetlands Conservation Fund,N
+0,18,14-5143,Cooperative Endangered Species Conservation Fund,N
+0,18,14-5091,National Wildlife Refuge Fund,N
+0,18,14-5252,"Recreation Enhancement Fee Program, FWS",N
+0,18,14-5029,Federal Aid in Wildlife Restoration,N
+0,18,14-5579,Coastal Impact Assistance,N
+0,18,14-9927,Miscellaneous Permanent Appropriations,N
+0,18,,United States Fish and Wildlife Service—Allocations Received from Other Accounts,N
+0,18,14-8151,Sport Fish Restoration,N
+0,18,14-8216,Contributed Funds,N
+0,18,,ADMINISTRATIVE PROVISIONS,N
+0,24,14-1036,Operation of the National Park System,N
+0,24,14-2645,Park Partnership Project Grants,N
+0,24,14-1049,United States Park Police,N
+0,24,14-1042,National Recreation and Preservation,N
+0,24,14-1031,Urban Park and Recreation Fund,N
+0,24,14-1039,Construction (and Major Maintenance),N
+0,24,14-5035,Land Acquisition and State Assistance,N
+0,24,14-5005,Land and Water Conservation Fund,N
+0,24,14-9928,Recreation Fee Permanent Appropriations,N
+0,24,14-5140,Historic Preservation Fund,N
+0,24,14-9924,Other Permanent Appropriations,N
+0,24,,National Park Service—Allocations Received from Other Accounts,N
+0,24,14-8215,Construction (trust Fund),N
+0,24,14-9972,Miscellaneous Trust Funds,N
+0,24,,ADMINISTRATIVE PROVISIONS,N
+0,76,14-2100,Operation of Indian Programs,N
+0,76,14-2301,Construction,N
+0,76,14-2204,White Earth Settlement Fund,N
+0,76,14-2303,Indian Land and Water Claim Settlements and Miscellaneous Payments to Indians,N
+0,76,14-2103,Indian Land Consolidation,N
+0,76,14-5505,Indian Water Rights and Habitat Acquisition Program,N
+0,76,14-5051,Operation and Maintenance of Quarters,N
+0,76,14-9925,Miscellaneous Permanent Appropriations,N
+0,76,14-4416,Indian Direct Loan Financing Account,N
+0,76,14-4409,Revolving Fund for Loans Liquidating Account,N
+0,76,14-2628,Indian Guaranteed Loan Program Account,N
+0,76,14-4415,Indian Guaranteed Loan Financing Account,N
+0,76,14-4410,Indian Loan Guaranty and Insurance Fund Liquidating Account,N
+0,76,,Bureau of Indian Affairs—Allocations Received from Other Accounts,N
+0,76,14-8361,"Gifts and Donations, Bureau of Indian Affairs",N
+0,76,,ADMINISTRATIVE PROVISIONS,N
+0,84,14-0102,Salaries and Expenses,N
+0,84,14-5003,Mineral Leasing and Associated Payments,N
+0,84,14-5045,"National Petroleum Reserve, Alaska",N
+0,84,14-5248,"Leases of Lands Acquired for Flood Control, Navigation, and Allied Purposes",N
+0,84,14-5243,"National Forests Fund, Payment to States",N
+0,84,14-5574,"Geothermal Lease Revenues, Payment to Counties",N
+0,84,14-5535,States Share from Certain Gulf of Mexico Leases,N
+0,84,14-5425,Environmental Improvement and Restoration Fund,N
+0,84,14-2010,Indian Education Scholarship Holding Fund,N
+0,84,14-5670,Trust Land Consolidation Fund,N
+0,84,,Departmental Management—Allocations Received from Other Accounts,N
+0,85,14-0414,Trust Territory of the Pacific Islands,N
+0,85,14-0415,Compact of Free Association,N
+0,85,14-0418,"Payments to the United States Territories, Fiscal Assistance",N
+0,85,14-0412,Assistance to Territories,N
+0,85,14-4163,Assistance to American Samoa Direct Loan Financing Account,N
+0,85,,ADMINISTRATIVE PROVISIONS,N
+0,86,14-0107,Salaries and Expenses,N
+0,88,14-0104,Salaries and Expenses,N
+0,90,14-0120,Federal Trust Programs,N
+0,90,14-5265,Tribal Special Fund,N
+0,90,14-8030,Tribal Trust Fund,N
+0,92,14-0118,Salaries and Expenses,N
+0,92,14-5141,"National Indian Gaming Commission, Gaming Activity Fees",N
+0,95,14-1114,Payments in Lieu of Taxes,N
+0,95,14-1121,Central Hazardous Materials Fund,N
+0,95,14-1618,Natural Resource Damage Assessment Fund,N
+0,95,,Exxon Valdez Restoration Program,N
+0,95,14-1125,Wildland Fire Management,N
+0,95,14-1127,FLAME Wildfire Suppression Reserve Fund,N
+0,95,14-4523,Working Capital Fund,N
+0,95,14-4529,Interior Franchise Fund,N
+0,95,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS,N
+0,SP,,GENERAL PROVISIONS—DEPARTMENT OF THE INTERIOR,N
+0,SP,,TITLE IV—GENERAL PROVISIONS,N
+0,00,15-085400,"Registration Fees, DEA",N
+0,00,15-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,15-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,15-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,15-504110,"Fines, Penalties, and Forfeitures, Crime Victims Fund",N
+0,00,15-504210,"Forfeited Cash and Proceeds from the Sale of Forfeited Property, Assets Forfeiture Fund",N
+0,00,15-504220,"Interest and Profit on Investment, Department of Justice Assets Forfeiture Fund",N
+0,00,15-507310,"Fees for Bankruptcy Oversight, U.S. Trustees System",N
+0,00,15-507320,"Earnings on Investments, U.S. Trustees System",N
+0,00,15-513110,"Diversion Control Fee Account, DEA",N
+0,00,15-811610,"Payment from the General Fund, Radiation Exposure Compensation Trust Fund",N
+0,00,15-830610,"Gifts, Crime Victims Fund",N
+0,03,15-0129,Salaries and Expenses,N
+0,03,15-0134,Justice Information Sharing Technology,N
+0,03,15-0137,Legal Activities Office Automation,N
+0,03,15-0132,Tactical Law Enforcement Wireless Communications,N
+0,03,15-0130,Counterterrorism Fund,N
+0,03,15-0202,Telecommunications Carrier Compliance Fund,N
+0,03,15-0339,Administrative Review and Appeals,N
+0,03,15-0136,Detention Trustee,N
+0,03,15-0328,Office of Inspector General,N
+0,03,15-4526,Working Capital Fund,N
+0,04,15-1061,Salaries and Expenses,N
+0,05,15-0128,"Salaries and Expenses, General Legal Activities",N
+0,05,15-0319,"Salaries and Expenses, Antitrust Division",N
+0,05,15-0322,"Salaries and Expenses, United States Attorneys",N
+0,05,15-0100,"Salaries and Expenses, Foreign Claims Settlement Commission",N
+0,05,15-0324,"Salaries and Expenses, United States Marshals Service",N
+0,05,15-0133,Construction,N
+0,05,15-1020,Federal Prisoner Detention,N
+0,05,15-0311,Fees and Expenses of Witnesses,N
+0,05,15-0500,"Salaries and Expenses, Community Relations Service",N
+0,05,15-0327,Independent Counsel,N
+0,05,15-0340,September 11th Victim Compensation (general Fund),N
+0,05,15-5073,United States Trustee System Fund,N
+0,05,15-5042,Assets Forfeiture Fund,N
+0,05,15-4575,"Justice Prisoner and Alien Transportation System Fund, U.S. Marshals",N
+0,08,15-1300,Salaries and Expenses,N
+0,06,15-0333,Payment to Radiation Exposure Compensation Trust Fund,N
+0,06,15-8116,Radiation Exposure Compensation Trust Fund,N
+0,07,15-0323,Interagency Crime and Drug Enforcement,N
+0,10,15-0200,Salaries and Expenses,N
+0,10,15-0204,Foreign Terrorist Tracking Task Force,N
+0,10,15-0203,Construction,N
+0,12,15-1100,Salaries and Expenses,N
+0,12,15-1101,Construction,N
+0,12,15-5131,Diversion Control Fee Account,N
+0,14,15-0700,Salaries and Expenses,N
+0,14,15-0720,Construction,N
+0,14,15-8528,Violent Crime Reduction Program,N
+0,20,15-1060,Salaries and Expenses,N
+0,20,15-1003,Buildings and Facilities,N
+0,20,15-4500,"Federal Prison Industries, Incorporated",N
+0,20,15-8408,"Commissary Funds, Federal Prisons (trust Revolving Fund)",N
+0,21,15-0401,"Research, Evaluation, and Statistics",N
+0,21,15-0420,"Salaries and Expenses, Office of Justice Programs",N
+0,21,15-0404,State and Local Law Enforcement Assistance,N
+0,21,15-0334,Weed and Seed Program Fund,N
+0,21,15-0406,Community Oriented Policing Services,N
+0,21,15-0409,Violence against Women Prevention and Prosecution Programs,N
+0,21,15-0405,Juvenile Justice Programs,N
+0,21,15-0403,Public Safety Officer Benefits,N
+0,21,15-5041,Crime Victims Fund,N
+0,30,15-8585,Violent Crime Reduction Trust Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS—DEPARTMENT OF JUSTICE,N
+0,00,16-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,16-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,16-515520,"Interest on Investments, Panama Canal Commission",N
+0,00,16-550710,Foreign Labor Certification Processing Fee,N
+0,00,20-012100,Federal Unemployment Tax Act Taxes,N
+0,00,16-804201,"General Taxes, FUTA, Unemployment Trust Fund",N
+0,00,16-804210,"Deposits by Federal Agencies to the Federal Employees Compensation Account, Unemployment Trust Fund",N
+0,00,16-804211,"Non-repayable Advances for Unemployment Compensation, Unemployment Trust Fund",N
+0,00,16-804212,Penalties on Benefit Overpayments Due to Fraud,N
+0,00,16-804213,"Payments from the General Fund for Administrative Cost for Extended Unemployment Benefit, Unemployment Trust Fund",N
+0,00,16-804214,"CMIA Interest, Unemployment Trust Fund",N
+0,00,16-804220,"Unemployment Trust Fund, Interest and Profits on Investments in Public Debt Securities",N
+0,00,16-804230,"Unemployment Trust Fund, State Accounts, Deposits by States",N
+0,00,16-804240,"Interest on Unemployment Insurance Loans to States, Federal Unemployment Account, Unemployment Trust Fund",N
+0,00,16-804250,"Unemployment Trust Fund, Deposits by Railroad Retirement Board",N
+0,00,16-813010,"Longshoremen's and Harbor Workers Compensation Act, Receipts, Special Workers'",N
+0,00,16-813410,"Workmen's Compensation Act within District of Columbia, Receipts, Special Workers'",N
+0,00,16-814410,"Transfer from General Fund, Black Lung Benefits Revenue Act Taxes",N
+0,00,16-814440,"Miscellaneous Interest, Black Lung Disability Trust Fund",N
+0,00,16-977120,"Interest, Special Worker's Compensation Expenses",N
+0,00,20-804215,Recovery of Beneficiary Overpayment from the UI Program,N
+0,00,20-814480,"Payment from the General Fund for Prepayment Premium, Black Lung Disabilait Trust Fund",N
+0,05,16-0174,Training and Employment Services,N
+0,05,16-0188,Dislocated Worker Program,N
+0,05,16-0181,Office of Job Corps,N
+0,05,16-0175,Community Service Employment for Older Americans,N
+0,05,16-0187,TAA Community College and Career Training Grant Fund,N
+0,05,16-0326,Federal Unemployment Benefits and Allowances,N
+0,05,16-0179,State Unemployment Insurance and Employment Service Operations,N
+0,05,16-0171,American Jobs Act,N
+0,05,16-0178,Payments to the Unemployment Trust Fund,N
+0,05,16-1800,"Federal Additional Unemployment Compensation Program, Recovery",N
+0,05,16-0327,Advances to the Unemployment Trust Fund and Other Funds,N
+0,05,16-0172,Program Administration,N
+0,05,16-0170,Workers Compensation Programs,N
+0,05,16-0185,States Paid Leave Fund,N
+0,05,16-5507,Foreign Labor Certification Processing,N
+0,05,16-8042,Unemployment Trust Fund,N
+0,11,16-1700,Salaries and Expenses,N
+0,12,16-4204,Pension Benefit Guaranty Corporation Fund,N
+0,17,16-0105,Salaries and Expenses,N
+0,15,16-0163,Salaries and Expenses,N
+0,15,16-1521,Special Benefits,N
+0,15,16-1523,Energy Employees Occupational Illness Compensation Fund,N
+0,15,16-1524,"Administrative Expenses, Energy Employees Occupational Illness Compensation Fund",N
+0,15,16-0169,Special Benefits for Disabled Coal Miners,N
+0,15,16-5155,Panama Canal Commission Compensation Fund,N
+0,15,16-8144,Black Lung Disability Trust Fund,N
+0,15,16-9971,Special Workers' Compensation Expenses,N
+0,16,16-0143,Salaries and Expenses,N
+0,16,16-0142,Wage and Hour Division H-2B,N
+0,16,16-5393,H-1 B and L Fraud Prevention and Detection,N
+0,22,16-0148,Salaries and Expenses,N
+0,23,16-0150,Salaries and Expenses,N
+0,18,16-0400,Salaries and Expenses,N
+0,18,,Allocations Received from Other Accounts,N
+0,19,16-1200,Salaries and Expenses,N
+0,20,16-0200,Salaries and Expenses,N
+0,25,16-0165,Salaries and Expenses,N
+0,25,16-0166,Office of Disability Employment Policy,N
+0,25,16-0106,Office of the Inspector General,N
+0,25,16-0164,Veterans Employment and Training,N
+0,25,16-0162,Information Technology Modernization,N
+0,25,16-4601,Working Capital Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS,N
+0,SP,,TITLE V—GENERAL PROVISIONS,N
+0,00,19-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,19-277630,"Repatriation Loans, Downward Reestimate of Subsidies",N
+0,00,19-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,19-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,19-515110,"International Center, Washington, D.C., Sale and Rent of Real Property",N
+0,00,19-517710,International Litigation Fund,N
+0,00,19-549710,"Employing Agency Contributions, Foreign Service National Defined Contributions Retirement Fund",N
+0,00,19-549720,"Interest on Investments, Foreign Service National Defined Contributions Retirement Fund",N
+0,00,20-083000,"Immigration, Passport, and Consular Fees",N
+0,00,19-816720,"Contributions, Educational and Cultural Exchange, USIA",N
+0,00,19-818610,"Deductions from Employees Salaries, Foreign Service Retirement and Disability Fund",N
+0,00,19-818620,"Interest on Investments, Foreign Service Retirement and Disability Fund",N
+0,00,19-818640,"Employing Agency Contributions, Foreign Service Retirement and Disability Fund",N
+0,00,19-818650,"Receipts from Civil Service Retirement and Disability Fund, Foreign Service Retirement and Disability Fund",N
+0,00,19-818680,"Federal Contributions, Foreign Service Retirement and Disability Fund",N
+0,00,19-834010,Foreign Service National Separation Liability Trust Fund,N
+0,00,19-881310,"Payments from Federal Funds, International Center for Middle Eastern-Western Dialogue Trust Fund",N
+0,00,19-881320,"Earnings on Investments, International Center for Middle Eastern-Western Dialogue Trust Fund",N
+0,00,19-882110,Unconditional Gift Fund,N
+0,00,19-882120,"Earnings on Investments, Unconditional Gift Fund",N
+0,00,19-882210,"Deposits, Conditional Gift Fund",N
+0,00,19-977120,"Interest, Miscellaneous Trust Funds, USIA",N
+0,00,95-827620,Earnings on Investments,N
+0,05,19-0113,Diplomatic and Consular Programs,N
+0,05,19-0201,International Information Programs,N
+0,05,19-0121,Conflict Stabilization Operations,N
+0,05,19-0120,Capital Investment Fund,N
+0,05,19-0529,Office of the Inspector General,N
+0,05,19-0209,Educational and Cultural Exchange Programs,N
+0,05,19-0535,"Embassy Security, Construction, and Maintenance",N
+0,05,19-0545,Representation Allowances,N
+0,05,19-0520,Protection of Foreign Missions and Officials,N
+0,05,19-0522,Emergencies in the Diplomatic and Consular Service,N
+0,05,19-0524,Buying Power Maintenance,N
+0,05,19-0523,Payment to the American Institute in Taiwan,N
+0,05,19-0540,Payment to Foreign Service Retirement and Disability Fund,N
+0,05,19-5497,Foreign Service National Defined Contributions Retirement Fund,N
+0,05,19-4519,Working Capital Fund,N
+0,05,19-0601,Repatriation Loans Program Account,N
+0,05,19-4107,Repatriation Loans Financing Account,N
+0,05,19-8186,Foreign Service Retirement and Disability Fund,N
+0,05,19-8340,Foreign Service National Separation Liability Trust Fund,N
+0,05,19-9971,Miscellaneous Trust Funds,N
+0,10,19-1126,Contributions to International Organizations,N
+0,10,19-1124,Contributions for International Peacekeeping Activities,N
+0,15,19-1069,"Salaries and Expenses, IBWC",N
+0,15,19-1078,"Construction, IBWC",N
+0,15,19-1082,"American Sections, International Commissions",N
+0,15,19-1087,International Fisheries Commissions,N
+0,25,19-1030,Global HIV/AIDs Initiative,N
+0,25,19-1031,Global Health Programs,N
+0,25,19-1143,Migration and Refugee Assistance,N
+0,25,19-1155,Payment to International Center for Middle Eastern-Western Dialogue Trust Fund,N
+0,25,11-0040,United States Emergency Refugee and Migration Assistance Fund,N
+0,25,72-1015,Complex Crises Fund,N
+0,25,19-1022,International Narcotics Control and Law Enforcement,N
+0,25,19-1154,Andean Counterdrug Programs,N
+0,25,19-1121,Democracy Fund,N
+0,25,19-0525,Payment to the Asia Foundation,N
+0,25,19-0210,National Endowment for Democracy,N
+0,25,19-0202,East-West Center,N
+0,25,19-5177,International Litigation Fund,N
+0,25,19-5151,"International Center, Washington, D.C.",N
+0,25,19-5116,Fishermen's Protective Fund,N
+0,25,19-5121,Fishermen's Guaranty Fund,N
+0,25,95-8276,Israeli Arab and Eisenhower Exchange Fellowship Programs,N
+0,25,19-8813,Center for Middle Eastern-Western Dialogue Trust Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,11-267130,"New Arrangements to Borrow (IMF), Downward Reestimates of Subsidies",N
+0,00,11-267230,"International Monetary Fund Quota, Downward Reestimates of Subsidies",N
+0,03,95-322077,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,03,95-388577,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,03,95-2750,Millennium Challenge Corporation,N
+0,05,11-272430,"Foreign Military Financing, Downward Reestimates of Subsidies",N
+0,05,72-1037,Economic Support Fund,N
+0,05,72-1096,Central America and Caribbean Emergency Disaster Recovery Fund,N
+0,05,11-1082,Foreign Military Financing Program,N
+0,05,11-1083,Pakistan Counterinsurgency Capability Fund,N
+0,05,11-1081,International Military Education and Training,N
+0,05,72-1032,Peacekeeping Operations,N
+0,05,11-2300,Conflict Response Fund,N
+0,05,11-1075,"Nonproliferation, Antiterrorism, Demining, and Related Programs",N
+0,05,11-1071,Nonproliferation and Disarmament Fund,N
+0,05,11-1085,Foreign Military Financing Loan Program Account,N
+0,05,11-4122,Foreign Military Financing Direct Loan Financing Account,N
+0,05,11-4121,Foreign Military Loan Liquidating Account,N
+0,05,11-4174,Military Debt Reduction Financing Account,N
+0,10,11-272330,"Debt Restructuring, Downward Reestimates of Subsidies",N
+0,10,11-0080,Clean Technology Fund,N
+0,10,11-1475,Global Food Security Fund,N
+0,10,11-0077,Contribution to the International Bank for Reconstruction and Development,N
+0,10,11-0073,Contribution to the International Development Association,N
+0,10,11-0084,Contribution to Multilateral Investment Guarantee Agency,N
+0,10,11-0072,Contribution to the Inter-American Development Bank,N
+0,10,11-0076,Contribution to the Asian Development Bank,N
+0,10,11-0079,Contribution to the African Development Bank,N
+0,10,11-0088,Contribution to the European Bank for Reconstruction and Development,N
+0,10,11-1008,North American Development Bank,N
+0,10,11-0089,Contribution to Enterprise for the Americas Multilateral Investment Fund,N
+0,10,11-1039,Contributions to the International Fund for Agricultural Development,N
+0,10,11-1045,International Affairs Technical Assistance Program,N
+0,10,72-1028,"Global Fund to Fight AIDS, Tuberculosis and Malaria",N
+0,10,72-1005,International Organizations and Programs,N
+0,10,11-0091,Debt Restructuring,N
+0,15,72-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,15,72-272530,"Loan Guarantees to Israel, Downward Reestimates of Subsidies",N
+0,15,72-273030,"Microenterprise and Small Enterprise Development, Downward Reestimates of Subsidies",N
+0,15,72-274430,"Urban and Environmental Credit Program, Downward Reestimates of Subsidies",N
+0,15,72-275230,"Development Credit Authority Program Account, Downward Reestimates of Loan Guarantees",N
+0,15,72-278530,"Loan Guarantees to Egypt, Downward Reestimates of Subsidies",N
+0,15,72-294100,"Dollar Repayments of Loans, Agency for International Development",N
+0,15,72-304200,Recoveries from various enterprise funds,N
+0,15,72-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,15,72-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,15,72-1021,Development Assistance Program,N
+0,15,72-1095,Child Survival and Health Programs,N
+0,15,72-1033,HIV/AIDS Working Capital Fund,N
+0,15,72-1014,Development Fund for Africa,N
+0,15,72-0306,"Assistance for Europe, Eurasia and Central Asia",N
+0,15,72-1010,Assistance for Eastern Europe and the Baltic States,N
+0,15,72-1093,Assistance for the Independent States of the Former Soviet Union,N
+0,15,72-1035,International Disaster Assistance,N
+0,15,72-1000,Operating Expenses of the Agency for International Development,N
+0,15,72-0300,Capital Investment Fund of the United States Agency for International Development.,N
+0,15,72-1027,Transition Initiatives,N
+0,15,72-1036,Payment to the Foreign Service Retirement and Disability Fund,N
+0,15,72-0305,Conflict Stabilization Operations,N
+0,15,72-1007,"Operating Expenses, Office of Inspector General",N
+0,15,72-4175,Property Management Fund,N
+0,15,72-4513,Working Capital Fund,N
+0,15,72-4137,Debt Reduction Financing Account,N
+0,15,72-0301,Loan Guarantees to Israel Program Account,N
+0,15,72-4119,Loan Guarantees to Israel Financing Account,N
+0,15,72-0304,Loan Guarantees to Egypt Program Account,N
+0,15,72-4491,Loan Guarantees to Egypt Financing Account,N
+0,15,72-0409,Tunisia Loan Guarantee Program Account,N
+0,15,72-0401,Urban and Environmental Credit Program Account,N
+0,15,72-4344,Urban and Environmental Credit Guaranteed Loan Financing Account,N
+0,15,72-4340,Housing and Other Credit Guaranty Programs Liquidating Account,N
+0,15,72-0400,Microenterprise and Small Enterprise Development Program Account,N
+0,15,72-4343,Microenterprise and Small Enterprise Development Guaranteed Loan Financing Account,N
+0,15,72-4341,Private Sector Revolving Fund Liquidating Account,N
+0,15,72-1264,Development Credit Authority Program Account,N
+0,15,72-4266,Development Credit Authority Guaranteed Loan Financing Account,N
+0,15,72-4492,Development Credit Authority Direct Loan Financing Account,N
+0,15,72-4103,Economic Assistance Loans Liquidating Account,N
+0,15,72-834210,Foreign Service National Separation Liability Trust Fund,N
+0,15,72-882410,"Gifts and Donations, Agency for International Development",N
+0,15,72-8342,Foreign Service National Separation Liability Trust Fund,N
+0,15,72-9971,"Miscellaneous Trust Funds, AID",N
+0,20,71-274910,"Overseas Private Investment Corporation Loans, Negative Subsidies",N
+0,20,71-274930,"Overseas Private Investment Corporation Loans, Downward Reestimates of Subsidy",N
+0,20,71-4184,Overseas Private Investment Corporation Noncredit Account,N
+0,20,71-0100,Overseas Private Investment Corporation Program Account,N
+0,20,71-4074,Overseas Private Investment Corporation Direct Loan Financing Account,N
+0,20,71-4075,Overseas Private Investment Corporation Guaranteed Loan Financing Account,N
+0,20,71-4030,Overseas Private Investment Corporation Liquidating Account,N
+0,25,11-1001,Trade and Development Agency,N
+0,35,11-388044,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,35,11-539510,"Agency Contributions, Host Country Resident Contractors Separation Liability Fund",N
+0,35,11-0100,Peace Corps,N
+0,35,11-0101,Foreign Currency Fluctuations,N
+0,35,11-5395,Host Country Resident Contractors Separation Liability Fund,N
+0,35,11-997200,"Miscellaneous Trust Funds, Peace Corps",N
+0,35,11-9972,Peace Corps Miscellaneous Trust Fund,N
+0,40,11-3100,Inter-American Foundation,N
+0,50,11-0700,African Development Foundation,N
+0,50,11-823910,"Gifts and Donations, African Development Foundation",N
+0,50,11-8239,"Gifts and Donations, African Development Foundation",N
+0,60,11-0003,"United States Quota, International Monetary Fund",N
+0,60,11-0006,United States Quota IMF Direct Loan Program Account,N
+0,60,11-4383,"United States IMF Quota, Direct Loan Financing Account",N
+0,60,11-0074,Loans to International Monetary Fund,N
+0,60,11-0085,Loans to the IMF Direct Loan Program Account,N
+0,60,11-4384,Loans to IMF Direct Loan Financing Account,N
+0,70,11-4116,Special Defense Acquisition Fund,N
+0,70,11-824210,"Deposits, Advances, Foreign Military Sales Trust Fund",N
+0,70,11-8242,Foreign Military Sales Trust Fund,N
+0,75,72-1029,Tsunami Recovery and Reconstruction Fund,N
+0,75,72-1038,Central American Reconciliation Assistance,N
+0,95,95-9500,Out-year Foreign Assistance Initiatives,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS,N
+0,00,69-085500,"Hazardous Materials Transportation Registration, Filing, and Permit Fees, Administrative Costs",N
+0,00,69-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,69-272830,"Maritime (title XI) Loan Program, Downward Reestimates of Subsidies",N
+0,00,69-273930,"Minority Business Resource Center Loans, Downward Reestimates of Subsidies",N
+0,00,69-276010,"Railroad Rehabilitation and Improvement Financing, Negative Subsidies",N
+0,00,69-276030,"Downward Reestimates, Railroad Rehabilitation and Improvement Program",N
+0,00,69-276830,"Transportation Infrastructure Finance and Innovation Program, Interest on Downward Reestimates",N
+0,00,69-309900,"Miscellaneous Recoveries and Refunds, not Otherwise Classified",N
+0,00,69-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,69-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,69-517200,Pipeline Safety Fund,N
+0,00,69-517210,Pipeline Safety Design Review Fund,N
+0,00,69-517220,Pipeline Safety Special Permit Fund,N
+0,00,69-517230,Hazardous Materials Approvals and Permits Fund,N
+0,00,69-528210,"Hazardous Materials Transportation Registration, Filing, and Permit Fees, Emergency Preparedness Grants",N
+0,00,69-542240,"Aviation User Fees, Overflight Fees",N
+0,00,69-556010,"Agency Contributions, Port of Guam Improvement Enterprise Fund",N
+0,00,69-0160,Immediate Transportation Investments,N
+0,00,69-805410,"Advances from State Cooperating Agencies and Foreign Governments, FHA Miscellaneous Trust",N
+0,00,69-805420,"Advances from Other Federal Agencies, FHA Miscellaneous Trust",N
+0,00,69-810210,"Transportation Trust Fund, Deposits (highway Account)",N
+0,00,69-810211,"Transportation Trust Fund, Deposits (Mass Transit Account)",N
+0,00,69-810213,"Payment from the General Fund, Transportation Trust Fund (Mass Transit)",N
+0,00,69-810214,"CMIA Interest, Highway Trust Fund (highway Account)",N
+0,00,69-810215,"CMIA Interest, Highway Trust Fund (mass Transit Account)",N
+0,00,69-810220,"Earnings on Investments, Transportation Trust Fund",N
+0,00,69-810226,"Transportation Infrastructure Finance and Innovation Program, Downward Reestimates of Subsidies (FHWA)",N
+0,00,69-810234,"Payment from the General Fund, Transportation Trust  Fund (Highway)",N
+0,00,69-810235,"Payment from the General Fund, Transportation Trust Fund (multimodal Account)",N
+0,00,69-810310,"Excise Taxes, Airport and Airway Trust Fund",N
+0,00,69-810320,"Interest, Airport and Airway Trust Fund",N
+0,00,69-810350,"Refunds from Federal Fund Payments, Airport and Airway Trust Fund",N
+0,00,69-810370,Airport and Airway Trust Fund - Air Traffic Service Fee Receipts,N
+0,00,69-810810,"Royalties, Research, Engineering, and Development (Airport and Airway Trust Fund)",N
+0,00,69-826410,"Advances for Highway Research Program, Miscellaneous Trust",N
+0,00,69-826510,"Contributions from States, Etc., Cooperative Work, Forest Highways, FHA, Miscellaneous Trust",N
+0,00,69-837110,"Deposits for Cooperative Work, International Highway Transportation Outreach Program",N
+0,00,69-850310,"Gifts and Bequests, Maritime Administration, Transportation",N
+0,00,69-854710,"Special Studies, Services and Projects, Maritime Administration, Transportation",N
+0,00,69-977110,"Proprietary Receipts, Miscellaneous Trust Funds",N
+0,04,69-1730,Research and Development,N
+0,04,69-0102,Salaries and Expenses,N
+0,04,69-0143,National Infrastructure Investments,N
+0,04,69-4522,"Working Capital Fund, Volpe National Transportation Systems Center",N
+0,04,69-0106,"Supplemental Discretionary Grants for a National Surface Transportation System, Recovery Act",N
+0,04,69-0118,Office of Civil Rights,N
+0,04,69-0119,Minority Business Outreach,N
+0,04,69-0147,New Headquarters Building,N
+0,04,69-0111,Compensation for Air Carriers,N
+0,04,69-0156,Compensation for General Aviation Operations,N
+0,04,69-0142,"Transportation Planning, Research, and Development",N
+0,04,69-5423,Essential Air Service and Rural Airport Improvement Fund,N
+0,04,69-4520,Working Capital Fund,N
+0,04,69-0155,Minority Business Resource Center Program,N
+0,04,69-4186,Minority Business Resource Center Direct Loan Financing Account,N
+0,04,69-4082,Minority Business Resource Center Guaranteed Loan Financing Account,N
+0,04,69-8372,National Infrastructure Investments (Transportation Trust Fund),N
+0,04,69-8304,Payments to Air Carriers,N
+0,04,,ADMINISTRATIVE PROVISIONS,N
+0,12,69-1301,Operations,N
+0,12,69-1304,"Facilities and Equipment, Recovery Act",N
+0,12,69-1306,"Grants-in-aid for Airports, Recovery Act",N
+0,12,69-5422,Aviation User Fees,N
+0,12,69-4120,Aviation Insurance Revolving Fund,N
+0,12,69-4562,Administrative Services Franchise Fund,N
+0,12,69-8103,Airport and Airway Trust Fund,N
+0,12,69-8106,Grants-in-aid for Airports (Airport and Airway Trust Fund),N
+0,12,69-8107,Facilities and Equipment (Airport and Airway Trust Fund),N
+0,12,69-8108,"Research, Engineering and Development (Airport and Airway Trust Fund)",N
+0,12,69-8104,Trust Fund Share of FAA Activities (Airport and Airway Trust Fund),N
+0,12,,ADMINISTRATIVE PROVISIONS,N
+0,15,69-9911,Miscellaneous Appropriations,N
+0,15,69-0500,Emergency Relief Program,N
+0,15,69-0640,Appalachian Development Highway System,N
+0,15,69-0549,State Infrastructure Banks,N
+0,15,69-0504,"Highway Infrastructure Investment, Recovery Act",N
+0,15,69-0534,Payment to the Transportation Trust Fund,N
+0,15,69-4123,Transportation Infrastructure Finance and Innovation Program Direct Loan Financing Account,N
+0,15,69-4145,Transportation Infrastructure Finance and Innovation Program Loan Guarantee Financing Account,N
+0,15,69-4173,Transportation Infrastructure Finance and Innovation Program Line of Credit Financing Account,N
+0,15,69-0542,"TIFIA General Fund Program Account, Federal Highway Administration, Transportation",N
+0,15,69-4348,"TIFIA General Fund Direct Loan Financing Account, Federal Highway Administration, Transportation",N
+0,15,69-4347,"Tiger TIFIA Direct Loan Financing Account, Recovery Act",N
+0,15,69-0548,Highway Infrastructure Programs,N
+0,15,69-8402,Right-of-way Revolving Fund Liquidating Account,N
+0,15,69-8102,Transportation Trust Fund,N
+0,15,69-8083,Federal-aid Highways,N
+0,15,69-8072,Appalachian Development Highway System (Transportation Trust Fund),N
+0,15,69-9971,Miscellaneous Trust Funds,N
+0,15,69-9972,Miscellaneous Transportation Trust Funds,N
+0,15,,ADMINISTRATIVE PROVISIONS,N
+0,17,69-8055,Motor Carrier Safety,N
+0,17,69-8048,National Motor Carrier Safety Program,N
+0,17,69-8158,Motor Carrier Safety Grants,N
+0,17,69-8159,Motor Carrier Safety Operations and Programs,N
+0,17,,ADMINISTRATIVE PROVISIONS,N
+0,18,69-0654,Consumer Assistance to Recycle and Save Program,N
+0,18,69-0650,Operations and Research,N
+0,18,69-0660,National Driver Register Modernization,N
+0,18,69-8352,"Operations and Research, Vehicle Safety",N
+0,18,69-8016,Operations and Research (Transportation Trust Fund),N
+0,18,69-8020,Highway Traffic Safety Grants,N
+0,18,,ADMINISTRATIVE PROVISIONS,N
+0,27,69-0700,Safety and Operations,N
+0,27,69-0745,Railroad Research and Development,N
+0,27,69-0723,Pennsylvania Station Redevelopment Project,N
+0,27,69-0730,Alaska Railroad Rehabilitation,N
+0,27,69-0704,Grants to the National Railroad Passenger Corporation,N
+0,27,69-0121,Operating Subsidy Grants to the National Railroad Passenger Corporation,N
+0,27,69-0125,Capital and Debt Service Grants to the National Railroad Passenger Corporation,N
+0,27,69-0124,Emergency Railroad Rehabilitation and Repair,N
+0,27,69-0120,Efficiency Incentive Grants to the National Railroad Passenger Corporation,N
+0,27,69-0715,Intercity Passenger Rail Grant Program,N
+0,27,69-0719,Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service,N
+0,27,69-0722,Next Generation High-speed Rail,N
+0,27,69-0123,Northeast Corridor Improvement Program,N
+0,27,69-0716,Rail Line Relocation and Improvement Program,N
+0,27,69-0701,Railroad Safety Technology Program,N
+0,27,69-0750,Railroad Rehabilitation and Improvement Program,N
+0,27,69-4288,RRIF Guaranteed Loan Financing Account,N
+0,27,69-4420,Railroad Rehabilitation and Improvement Direct Loan Financing Account,N
+0,27,69-4411,Railroad Rehabilitation and Improvement Liquidating Account,N
+0,27,,ADMINISTRATIVE PROVISIONS,N
+0,36,69-1130,"Formula and Bus Grants, General Fund Share",N
+0,36,69-1120,Administrative Expenses,N
+0,36,69-1129,Formula Grants,N
+0,36,69-1136,University Transportation Research,N
+0,36,69-2807,Technical Assistance and Workforce Development,N
+0,36,69-2808,Rail Transit Safety Oversight Program,N
+0,36,69-1137,Research and University Research Centers,N
+0,36,69-1125,Job Access and Reverse Commute Grants,N
+0,36,69-1134,Capital Investment Grants,N
+0,36,69-1131,Grants for Energy Efficiency and Greenhouse Gas Reductions,N
+0,36,69-1102,"Fixed Guideway Infrastructure Investment, Recovery Act",N
+0,36,69-1101,"Transit Capital Assistance, Recovery Act",N
+0,36,69-1121,"Research, Training, and Human Resources",N
+0,36,69-1127,Interstate Transfer Grants-transit,N
+0,36,69-1128,Washington Metropolitan Area Transit Authority,N
+0,36,69-1122,Miscellaneous Expired Accounts,N
+0,36,69-8191,"Discretionary Grants (Transportation Trust Fund, Mass Transit Account)",N
+0,36,69-8543,Transit Expansion and Livable Communities Programs,N
+0,36,69-8544,Bus and Rail State of Good Repair,N
+0,36,69-8545,"Transit Challenge Grants, Trust Fund",N
+0,36,69-8542,Research and Technology Deployment,N
+0,36,69-8540,Operations and Safety,N
+0,36,69-8301,Greenhouse Gas and Energy Reduction,N
+0,36,69-8350,Transit Formula Grants,N
+0,36,,ADMINISTRATIVE PROVISIONS,N
+0,40,69-4089,Saint Lawrence Seaway Development Corporation,N
+0,40,69-8003,Operations and Maintenance,N
+0,50,69-0104,Research and Special Programs,N
+0,50,69-1401,Hazardous Materials Safety,N
+0,50,69-1400,Operational Expenses,N
+0,50,69-5172,Pipeline Safety,N
+0,50,69-5282,Emergency Preparedness Grants,N
+0,50,69-8121,Trust Fund Share of Pipeline Safety,N
+0,50,,ADMINISTRATIVE PROVISIONS,N
+0,56,69-0130,Salaries and Expenses,N
+0,61,69-0301,Salaries and Expenses,N
+0,70,69-1750,Operations and Training,N
+0,70,69-1770,Assistance to Small Shipyards,N
+0,70,69-1768,Ship Disposal,N
+0,70,69-1711,Maritime Security Program,N
+0,70,69-1769,National Defense Tank Vessel Construction Program,N
+0,70,69-1708,Ship Construction,N
+0,70,69-1709,Operating-differential Subsidies,N
+0,70,69-1751,Ocean Freight Differential,N
+0,70,69-1710,Ready Reserve Force,N
+0,70,69-4303,Vessel Operations Revolving Fund,N
+0,70,69-4302,War Risk Insurance Revolving Fund,N
+0,70,69-5560,Port of Guam Improvement Enterprise Fund,N
+0,70,69-4301,Federal Ship Financing Fund Liquidating Account,N
+0,70,69-1752,Maritime Guaranteed Loan (title XI) Program Account,N
+0,70,69-4304,Maritime Guaranteed Loan (title XI) Financing Account,N
+0,70,69-8547,"Miscellaneous Trust Funds, Maritime Administration",N
+0,70,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,GENERAL PROVISIONS—DEPARTMENT OF TRANSPORTATION,N
+0,SP,,GENERAL PROVISIONS—THIS ACT,N
+0,00,10-086400,"Filing Fees, P.L. 109–171, Title X",N
+0,00,13-141000,"Interest on Investment, Economic Development Revolving Fund",N
+0,00,14-142400,"Interest on Investment, Colorado River Projects",N
+0,00,14-142700,"Interest on Advances to Colorado River Dam Fund, Boulder Canyon Project",N
+0,00,20-040100,"Proceeds from Exercise of Warrants, Air Transportation Stabilization Board",N
+0,00,20-065000,"Deposit of Earnings, Federal Reserve System",N
+0,00,20-085000,"Registration, Filing, and Transaction Fees",N
+0,00,20-086100,"Charges for Expenses, Settlement of International Claims",N
+0,00,20-086900,"Fees for Legal and Judicial Services, not Otherwise Classified",N
+0,00,20-089100,"Miscellaneous Fees for Regulatory and Judicial Services, not Otherwise Classified",N
+0,00,20-101000,"Fines, Penalties, and Forfeitures, Agricultural Laws",N
+0,00,20-102000,"Fines, Penalties, and Forfeitures, Economic Stabilization Laws",N
+0,00,20-103000,"Fines, Penalties, and Forfeitures, Immigration and Labor Laws",N
+0,00,20-104000,"Fines, Penalties, and Forfeitures, Customs, Commerce, and Antitrust Laws",N
+0,00,20-105000,"Fines, Penalties, and Forfeitures, Narcotic Prohibition and Alcohol Laws",N
+0,00,20-106000,Forfeitures of Unclaimed Money and Property,N
+0,00,20-108000,"Fines, Penalties, and Forfeitures, Federal Coal Mine Health and Safety Laws",N
+0,00,20-109600,Penalties on Employers Who Do not Offer Health Coverage or Delay Eligibility for New Employees,N
+0,00,20-109700,Penalties on Individuals Who Do not Have Health Coverage,N
+0,00,20-113000,Unclaimed Assets Recovery Account,N
+0,00,20-129900,"Gifts to the United States, not Otherwise Classified",N
+0,00,20-133700,"Interest on Loans to the Helium Fund, Department of Interior",N
+0,00,20-133800,Interest on Loans to the Presidio,N
+0,00,20-135000,"Interest on Loans to the Secretary of Transportation, Ocean Freight Differential",N
+0,00,20-135100,Interest on Loans to BPA,N
+0,00,20-136300,"Interest on Loans for College Housing and Academic Facilities Loans, Education",N
+0,00,20-140100,Interest on Loans to Commodity Credit Corporation,N
+0,00,20-141300,"Interest on Loans to Temporary Corporate Credit Union Stabilization Fund, NCUA",N
+0,00,20-141500,Interest on Loans to Federal Deposit Insurance Corporation,N
+0,00,20-141800,Interest on Loans to Federal Financing Bank,N
+0,00,20-142500,Interest on Loans to Rural Development Insurance Fund,N
+0,00,20-143300,"Interest on Loans to National Flood Insurance Fund, DHS",N
+0,00,20-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,20-145000,"Interest Payments from States, Cash Management Improvement",N
+0,00,20-146310,Interest on Quota in International Monetary Fund,N
+0,00,20-146320,Interest on Loans to International Monetary Fund,N
+0,00,20-146400,Interest Received on Loans and Credits to Foreign Nations,N
+0,00,20-148400,Interest on Deposits in Tax and Loan Accounts,N
+0,00,20-149500,Interest Payments on Repayable Advances to the Black Lung Disability Trust Fund,N
+0,00,20-149700,Payment of Interest on Advances to the Railroad Retirement Board,N
+0,00,20-149900,Interest Received from Credit Financing Accounts,N
+0,00,20-150110,Interest on Loans or Advances to the Extended Unemployment Compensation Account,N
+0,00,20-150120,Interest on Loans and Repayable Advances to the Federal Unemployment Account,N
+0,00,20-168200,Gain by Exchange on Foreign Currency Denominated Public Debt Securities,N
+0,00,20-241100,User Fees for IRS,N
+0,00,20-241600,Charges for Administrative Expenses of Social Security Act As Amended,N
+0,00,20-248500,GSE Fees Pursuant to P.L. 112–78 Sec. 401,N
+0,00,20-249200,"Premiums, Terrorism Risk Insurance Program",N
+0,00,20-261400,Proceeds from Sale of Securities from the AIG Credit Facility Trust,N
+0,00,20-276330,"Community Development Financial Institutions Fund, Downward Re-estimate of Subsidies",N
+0,00,20-276610,"Air Transportation Safety and System Stabilization Act, Negative Subsidies",N
+0,00,20-277130,"Air Transportation Stabilization Guaranteed Loan, Downward Reestimates of Subsidies",N
+0,00,20-278430,"Small Business Lending Fund Direct Loans, Downward Reestimates of  Subsidies",N
+0,00,20-279010,"GSE Mortgage-Backed Securities Direct Loans, Negative Subsidies",N
+0,00,20-279030,"GSE Mortgage-Backed Securities Direct Loans, Downward Reestimates of Subsidies",N
+0,00,20-279110,"Government Sponsored Enterprise Credit Facility, Negative Subsidies",N
+0,00,20-279210,"Troubled Asset Relief Program, Negative Subsidies",N
+0,00,20-279230,"Troubled Asset Relief Program, Downward Reestimates of Subsidies",N
+0,00,20-286800,Dollar Conversion of Foreign Currency Loan Repayments,N
+0,00,20-289400,"Proceeds, GSE Equity Related Transactions",N
+0,00,20-289500,"Proceeds, TARP Equity Related Transactions",N
+0,00,20-289600,Excess of Proceeds from Debt Obligations Issued by the Black Lung Disability Trust Fund and the Market Value of Outstanding Repayable Advances,N
+0,00,20-309200,Recovery from Highway Trust Fund for Refunds of Taxes,N
+0,00,20-309400,Recovery from Airport and Airway Trust Fund for Refunds of Taxes,N
+0,00,20-309500,"Recovery from Leaking Underground Storage Tank Trust Fund for Refunds of Taxes, EPA",N
+0,00,20-309990,Refunds of Moneys Erroneously Received and Recovered (20X1807),N
+0,00,20-310100,Recoveries from Federal Agencies for Settlement of Claims for Contract Disuptes,N
+0,00,20-311200,Reimbursement from Federal Agencies for Payments Made As a Result of Discriminatory Conduct,N
+0,00,20-322000,All Other General Fund Proprietary Receipts,N
+0,00,20-387500,Budget Clearing Account (suspense),N
+0,00,20-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,20-500530,"Land and Water Conservation Fund, Motorboat Fuels Tax",N
+0,00,20-508010,Gifts to the United States for Reduction of the Public Debt,N
+0,00,20-543210,"New Installment Agreements, IRS Miscellaneous Retained Fees",N
+0,00,20-543230,"Restructured Installment Agreements, IRS Miscellaneous Retained Fees",N
+0,00,20-543240,"Enrolled Agent Fee Increase, IRS Miscellaneous Retained Fees",N
+0,00,20-543250,"General User Fees, IRS Miscellaneous Retained Fees",N
+0,00,20-543260,"Tax Preparer Registration Fees, IRS Miscellaneous Retained Fees",N
+0,00,20-543270,"Photopying Fees, IRS Miscellaneous Retained Fees",N
+0,00,20-543310,Underpayment and Fraud Collection,N
+0,00,20-544510,Debt Collection,N
+0,00,20-551010,Private Collection Agent Program,N
+0,00,20-559010,"Fees and Assessments, Financial Research Fund",N
+0,00,20-559020,"Interest, Financial Research Fund",N
+0,00,20-559030,"Transfer from the Federal Reserve, Financial Research Fund",N
+0,00,20-568810,"Antidumping and Countervailing Duties, Continued Dumping and Subsidy Offset",N
+0,00,20-569710,"Forfeited Cash and Proceeds from Sale of Forfeited Property, Treasury Forfeiture Fund",N
+0,00,20-569720,"Earnings on Investments, Treasury Forfeiture Fund",N
+0,00,20-573710,"Deposits, Internal Revenue Collections for Puerto Rico",N
+0,00,73-142800,Interest on Advances to Small Business Administration,N
+0,00,86-289100,"Proceeds, Grants for Emergency Mortgage Relief Derived from Emergency Homeowners' Relief Fund",N
+0,00,91-142200,"Interest on Loans, Higher Education Facilities Loan Fund",N
+0,00,95-085015,"Registration, Filing, and Transaction Fees, SEC",N
+0,00,95-109900,"Fines, Penalties, and Forfeitures, not Otherwise Classified",N
+0,00,20-820710,"General Fund Payments, Lower Brule Sioux Tribe Terrestrial Wildlife Habitat Restoration Trust Fund",N
+0,00,20-820720,"Earnings on Investments, Lower Brule Sioux Tribe Terrestrial Wildlife Habitat Restoration Trust Fund",N
+0,00,20-820910,"General Fund Payments, Cheyenne River Sioux Tribe Terrestrial Wildlife Habitat Restoration Trust Fund",N
+0,00,20-820920,"Earnings on Investments, Cheyenne River Sioux Tribe Terrestrial Wildlife Habitat Restoration Trust Fund",N
+0,00,20-852420,"Federal Payment, Capital Magnet Fund",N
+0,00,20-852430,Payment from the Community Development Financial Institutions Fund,N
+0,00,20-879010,"Gifts and Bequests, Office of the Secretary",N
+0,00,20-977920,"Interest, Miscellaneous Trust Funds, Government-wide",N
+0,05,20-0101,Salaries and Expenses,N
+0,05,20-0115,Department-wide Systems and Capital Investments Programs,N
+0,05,20-0106,Office of Inspector General,N
+0,05,20-0119,Treasury Inspector General for Tax Administration,N
+0,05,20-0108,Treasury Building and Annex Repair and Restoration,N
+0,05,20-0121,Expanded Access to Financial Services,N
+0,05,20-0117,Counterterrorism Fund,N
+0,05,20-0123,Terrorism Insurance Program,N
+0,05,20-5697,Treasury Forfeiture Fund,N
+0,05,20-5590,Financial Research Fund,N
+0,05,20-5081,Presidential Election Campaign Fund,N
+0,05,20-5407,Sallie Mae Assessments,N
+0,05,20-4444,Exchange Stabilization Fund,N
+0,05,20-4501,Working Capital Fund,N
+0,05,20-4560,Treasury Franchise Fund,N
+0,05,20-0129,"Administrative Expenses, Recovery Act",N
+0,05,20-0140,"Grants for Specified Energy Property in Lieu of Tax Credits, Recovery Act",N
+0,05,20-0139,Grants to States for Low-Income Housing Projects in Lieu of Low-Income Housing Credit Allocations,N
+0,05,20-1881,Community Development Financial Institutions Fund Program Account,N
+0,05,20-4088,Community Development Financial Institutions Fund Direct Loan Financing Account,N
+0,05,20-8526,Violent Crime Reduction Program,N
+0,05,20-0128,Office of Financial Stability,N
+0,05,20-0132,Troubled Asset Relief Program Account,N
+0,05,20-4277,Troubled Asset Relief Program Direct Loan Financing Account,N
+0,05,20-4276,Troubled Assets Insurance Financing Fund Guaranteed Loan Financing Account,N
+0,05,20-0134,Troubled Asset Relief Program Equity Purchase Program,N
+0,05,20-4278,Troubled Asset Relief Program Equity Purchase Financing Account,N
+0,05,20-0136,"Troubled Asset Relief Program, Housing Programs",N
+0,05,20-4329,"Troubled Asset Relief Program, Home Affordable Modification Program, Letter of Credit Financing Account",N
+0,05,20-0133,Special Inspector General for the Troubled Asset Relief Program,N
+0,05,20-0141,Small Business Lending Fund Program Account,N
+0,05,20-4349,Small Business Lending Fund Financing Account,N
+0,05,20-0142,State Small Business Credit Initiative,N
+0,05,20-0125,GSE Preferred Stock Purchase Agreements,N
+0,05,20-0126,GSE Mortgage-Backed Securities Purchase Program Account,N
+0,05,20-4272,GSE Mortgage-Backed Securities Purchase Direct Loan Financing Account,N
+0,05,20-4298,State HFA Direct Loan Financing Account,N
+0,05,20-4273,Government Sponsored Enterprise Credit Facility Direct Loan Financing Account,N
+0,05,20-8524,"Capital Magnet Fund, Community Develpment Financial Institutions",N
+0,05,20-8790,Gifts and Bequests,N
+0,04,20-0173,Salaries and Expenses,N
+0,09,20-1501,Interagency Crime and Drug Enforcement,N
+0,12,20-0520,"Salaries and Expenses, Fiscal Service",N
+0,12,20-0177,"Payment to Justice, FIRREA Related Claims",N
+0,12,20-0562,Reimbursements to Federal Reserve Banks,N
+0,12,20-0504,"Restoration of Lost Interest, Medicare Trust Funds",N
+0,12,20-1851,Payment to the Resolution Funding Corporation,N
+0,12,20-5582,Hope Bond Payment Fund,N
+0,12,20-1805,Payment to the Cheyenne River Sioux Tribal Recovery Trust Fund,N
+0,12,20-5535,Federal Reserve Bank Reimbursement,N
+0,12,20-0510,Gifts to the United States for Reduction of the Public Debt,N
+0,12,20-1884,Federal Reserve Bank Reimbursement Fund,N
+0,12,20-1710,Payment of Government Losses in Shipment,N
+0,12,20-1802,Financial Agent Services,N
+0,12,20-1803,Temporary State Fiscal Assistance Fund,N
+0,12,,Payment to terrestrial wildlife habitat restoration trust fund,N
+0,12,20-1860,Interest on Uninvested Funds,N
+0,12,20-1877,Federal Interest Liabilities to States,N
+0,12,20-1880,Interest Paid to Credit Financing Accounts,N
+0,12,20-1895,"Claims, Judgments, and Relief Acts",N
+0,12,20-1875,Restitution of Forgone Interest,N
+0,12,20-1825,Payment to FRA for AMTRAK Debt Restructuring,N
+0,12,20-0114,Biomass Energy Development,N
+0,12,20-5816,Confiscated and Vested Iraqi Property and Assets,N
+0,12,20-5688,Continued Dumping and Subsidy Offset,N
+0,12,20-4109,Check Forgery Insurance Fund,N
+0,12,20-8209,Cheyenne River Sioux Tribe Terrestrial Wildlife Habitat Restoration Trust Fund,N
+0,11,20-4521,Federal Financing Bank,N
+0,13,20-1008,Salaries and Expenses,N
+0,13,20-5737,Internal Revenue Collections for Puerto Rico,N
+0,20,20-4502,Bureau of Engraving and Printing Fund,N
+0,25,20-4159,United States Mint Public Enterprise Fund,N
+0,45,20-0912,Taxpayer Services,N
+0,45,20-0913,Enforcement,N
+0,45,20-0928,Health Insurance Tax Credit Administration,N
+0,45,20-0919,Operations Support,N
+0,45,20-0921,Business Systems Modernization,N
+0,45,20-0935,"Build America Bond Payments, Recovery Act",N
+0,45,20-0906,Payment Where Earned Income Credit Exceeds Liability for Tax,N
+0,45,20-0922,Payment Where Child Tax Credit Exceeds Liability for Tax,N
+0,45,20-0923,Payment Where Health Coverage Tax Credit Exceeds Liability for Tax,N
+0,45,20-0936,Payment Where COBRA Credit Exceeds Liability for Tax,N
+0,45,20-0951,Payment Where Small Business Health Insurance Tax Credit Exceeds Liability for Tax,N
+0,45,20-0929,Payment Where Alternative Minimum Tax Credit Exceeds Liability for Tax,N
+0,45,20-0930,Payment Where Tax Credit to Aid First-Time Homebuyers Exceeds Liability for Tax,N
+0,45,20-0931,Payment Where Certain Tax Credits Exceed Liability for Corporate Tax,N
+0,45,20-0942,Payment Where Tax Credit for Certain Government Retirees Exceeds Liability for Tax,N
+0,45,20-0948,Payment to Issuer of Qualified Energy Conservation Bonds,N
+0,45,20-0947,Payment to Issuer of New Clean Renewable Energy Bonds,N
+0,45,20-0946,Payment to Issuer of Qualified School Construction Bonds,N
+0,45,20-0945,Payment to Issuer of Qualified Zone Academy Bonds,N
+0,45,20-0950,Payment Where Adoption Credit Exceeds Liability for Tax,N
+0,45,20-0952,Therapeutic Discovery Program Grants and Administration,N
+0,45,20-0904,"Refunding Internal Revenue Collections, Interest",N
+0,45,20-0949,Refundable Premium Assistance Tax Credit,N
+0,45,20-5432,IRS Miscellaneous Retained Fees,N
+0,45,20-5080,Gifts to the United States for Reduction of the Public Debt,N
+0,45,20-5510,Private Collection Agent Program,N
+0,45,20-5433,Informant Payments,N
+0,45,20-4413,Federal Tax Lien Revolving Fund,N
+0,45,,Internal Revenue Service Oversight Board,N
+0,45,,ADMINISTRATIVE PROVISIONS—INTERNAL REVENUE SERVICE,N
+0,57,20-4264,"Public Enterprise Fund, Comptroller of the Currency",N
+0,57,20-8413,Assessment Funds,N
+0,58,20-4108,Office of Thrift Supervision,N
+0,60,20-0555,Interest Paid to Trust Fund Receipt Accounts - Shadow Account,N
+0,60,20-0556,Interest Paid to Expenditure Accounts - Shadow Account,N
+0,60,20-0557,Interest Paid to Federal Fund Receipt Accounts - Shadow Account,N
+0,60,20-0550,Interest on Treasury Debt Securities (gross),N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,ADMINISTRATIVE PROVISIONS—DEPARTMENT OF THE TREASURY,N
+0,SP,,TITLE VI—GENERAL PROVISIONS—THIS ACT,N
+0,00,20-015800,Transportation Fuels Tax,N
+0,00,20-508110,Presidential Election Campaign Fund,N
+0,00,99-011050,Individual Income Taxes,N
+0,00,99-011100,Corporation Income and Excess Profits Taxes,N
+0,00,99-015250,Other Federal Fund Excise Taxes,N
+0,00,99-015300,Estate and Gift Taxes,N
+0,00,99-015500,Tobacco Excise Tax,N
+0,00,99-015600,Alcohol Excise Tax,N
+0,00,99-015700,Telephone Excise Tax,N
+0,00,99-015911,Excise Tax on High Cost Employer-Sponsored Plans,N
+0,00,99-015912,Taxes on Failures by Hospitals,N
+0,00,99-015913,Fee on Health Insurance Providers,N
+0,00,99-015914,Tax on Indoor Tanning Services,N
+0,00,99-015915,Excise Tax on Medical Device Manufacturers,N
+0,00,99-031050,Other Federal Fund Customs Duties,N
+0,00,99-089400,Ozone Depleting Chemicals Tax,N
+0,00,99-705000,Net Cap and Trade Auction Receipts,N
+0,00,36-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,36-246800,"Pharmaceutical Copayments, Increase from PL 7/8",N
+0,00,36-247300,"Contributions from Military Personnel, Veteran's Educational Assistance Act of 1984",N
+0,00,36-247600,Enrollment Fee for PL 7/8,N
+0,00,36-247700,Eliminate Third Party Offset,N
+0,00,36-273330,Housing Downward Reestimates,N
+0,00,36-275110,"Native American Veteran Housing Loans, Negative Subsidies",N
+0,00,36-275130,"Native American Direct Loans, Downward Reestimate of Subsidies",N
+0,00,36-275510,Housing Negative Subsidies,N
+0,00,36-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,36-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,36-528710,"Pharmaceutical Co-payments, MCCF",N
+0,00,36-528711,"Medical Care Collections Fund, Third Party Prescription Claims",N
+0,00,36-528712,"Enhanced-use Lease Proceeds, MCCF",N
+0,00,36-528713,Fee Basis 3rd Party MCCF,N
+0,00,36-528730,"First Party Collections, MCCF",N
+0,00,36-528740,"Third Party Collections, MCCF",N
+0,00,36-528750,"MCCF, Asset Sales",N
+0,00,36-528760,"Parking Fees, MCCF",N
+0,00,36-528770,"Compensated Work Therapy, MCCF",N
+0,00,36-528780,"Payments from Compensation and Pension, MCCF",N
+0,00,36-528790,"MCCF, Long-term Care Copayments",N
+0,00,36-535830,"Enhanced-use Lease Proceeds, Veterans Health Services Improvement Fund",N
+0,00,36-537310,"Enrollment Fee, MCCF",N
+0,00,36-813210,"NSLI Fund, Premium and Other Receipts",N
+0,00,36-813220,"NSLI Fund, Interest",N
+0,00,36-813310,"Deductions from Military Pay, Post-Vietnam Era Veterans Education Account",N
+0,00,36-813320,"Contributions, Post-Vietnam Era Veterans Education Account",N
+0,00,36-815020,"Interest and Profits on Investments in Public Debt Securities, USGLI",N
+0,00,36-818010,"General Post Fund, National Homes, Deposits",N
+0,00,36-818020,"General Post Fund, National Homes, Interest on Investments",N
+0,15,36-0160,Medical Services,N
+0,15,36-0152,Medical Support and Compliance,N
+0,15,36-0165,DOD-VA Health Care Sharing Incentive Fund,N
+0,15,36-0162,Medical Facilities,N
+0,15,36-0161,Medical and Prosthetic Research,N
+0,15,36-0169,Joint Department of Defense-Department of Veterans Affairs Medical Facility Demonstration Fund,N
+0,15,36-5287,Medical Care Collections Fund,N
+0,15,36-4014,Canteen Service Revolving Fund,N
+0,15,36-4026,Medical Center Research Organizations,N
+0,15,36-8180,"General Post Fund, National Homes",N
+0,25,36-0102,Compensation and Pensions,N
+0,25,36-0137,Readjustment Benefits,N
+0,25,36-0120,Veterans Insurance and Indemnities,N
+0,25,36-1121,Filipino Veterans Equity Compensation Fund,N
+0,25,36-4012,Service-disabled Veterans Insurance Fund,N
+0,25,36-4010,Veterans Reopened Insurance Fund,N
+0,25,36-4009,Servicemembers' Group Life Insurance Fund,N
+0,25,36-1119,Veterans Housing Benefit Program Fund,N
+0,25,36-4127,Housing Direct Loan Financing Account,N
+0,25,36-4129,Housing Guaranteed Loan Financing Account,N
+0,25,36-4025,Housing Liquidating Account,N
+0,25,36-1120,Native American Veteran Housing Loan Program Account,N
+0,25,36-4130,Native American Direct Loan Financing Account,N
+0,25,36-4258,Transitional Housing Direct Loan Financing Account,N
+0,25,36-4112,Vocational Rehabilitation Direct Loan Financing Account,N
+0,25,36-8133,Post-Vietnam Era Veterans Education Account,N
+0,25,36-8132,National Service Life Insurance Fund,N
+0,25,36-8150,United States Government Life Insurance Fund,N
+0,25,36-8455,Veterans Special Life Insurance Fund,N
+0,40,36-0110,"Construction, Major Projects",N
+0,40,36-0111,"Construction, Minor Projects",N
+0,40,36-0181,Grants for Construction of State Extended Care Facilities,N
+0,40,36-0183,Grants for Construction of Veterans Cemeteries,N
+0,40,36-0142,General Administration,N
+0,40,36-0170,Office of Inspector General,N
+0,40,36-0167,Information Technology Systems,N
+0,40,36-0129,National Cemetery Administration,N
+0,40,36-4537,Supply Fund,N
+0,40,36-4539,Franchise Fund,N
+0,40,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,TITLE V—GENERAL PROVISIONS,N
+0,00,96-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,96-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,96-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,96-500700,"Special Recreation Use Fees, Corps of Engineers",N
+0,00,96-509000,"Receipts from Leases of Lands Acquired for Flood Control, Navigation, and Allied Purposes",N
+0,00,96-512500,"Licenses under Federal Power Act, Improvements of Navigable Waters, Maintenance and Operation of Dams, Etc.",N
+0,00,96-549310,"User Fees, Fund for Non-Federal Use of Disposal Facilities",N
+0,00,96-3132,Office of the Assistant Secretary of the Army for Civil Works,N
+0,00,96-3122,Construction,N
+0,00,96-3123,Operation and Maintenance,N
+0,00,96-5383,Special Recreation User Fee,N
+0,00,96-3112,Mississippi River and Tributaries,N
+0,00,96-3125,Flood Control and Coastal Emergencies,N
+0,00,96-3121,Investigations,N
+0,00,96-3126,Regulatory Program,N
+0,00,96-3130,Formerly Utilized Sites Remedial Action Program,N
+0,00,96-3124,Expenses,N
+0,00,96-3128,Washington Aqueduct,N
+0,00,96-9921,Permanent Appropriations,N
+0,00,96-4902,Revolving Fund,N
+0,00,20-886130,"Users Fees, Inland Waterways Trust Fund",N
+0,00,96-821720,"Earnings on Investments, South Dakota Terrestrial Wildlife Habitat Restoration Trust Fund",N
+0,00,96-886110,"Transfer from General Fund, Inland Waterways Revenue Act Taxes",N
+0,00,96-886120,"Interest and Profits on Investments in Public Debt Securities, Inland Waterways Trust Fund",N
+0,00,96-886210,"Contributions, Rivers and Harbors, Other Than Port and Harbor User Fees",N
+0,00,96-886310,"User Fees, Harbor Maintenance Trust Fund",N
+0,00,96-886320,"Earnings on Investments, Harbor Maintenance Trust Fund",N
+0,00,96-8863,Harbor Maintenance Trust Fund,N
+0,00,96-8861,Inland Waterways Trust Fund,N
+0,00,96-8862,Rivers and Harbors Contributed Funds,N
+0,00,96-8333,Coastal Wetlands Restoration Trust Fund,N
+0,00,96-8217,South Dakota Terrestrial Wildlife Habitat Restoration Trust Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,Allocations Received from Other Accounts,N
+0,SP,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL PROVISIONS—CORPS OF ENGINEERS—CIVIL,N
+0,SP,,TITLE III—GENERAL PROVISION,N
+0,05,97-0040,Payment to Military Retirement Fund,N
+0,05,97-809710,"Employing Agency Contributions, Military Retirement Fund",N
+0,05,97-809720,"Earnings on Investments, Military Retirement Fund",N
+0,05,97-809730,"Federal Contributions, Military Retirement Fund",N
+0,05,97-809740,"Federal Contributions (concurrent Receipt Accruals), Military Retirement Fund",N
+0,05,97-8097,Military Retirement Fund,N
+0,07,97-547210,"Non-DoD Employing Agency Contributions, DoD Medicare-Eligible Retiree Health Care Fund",N
+0,07,97-547220,"Earnings on Investments, DoD Medicare-Eligible Retiree Health Care Fund",N
+0,07,97-547230,"Federal Contributions, DoD Medicare-Eligible Retiree Health Care Fund",N
+0,07,97-547250,"Department of Defense Contributions, DoD Medicare-Eligible Retiree Health Care Fund",N
+0,07,97-0850,Payment to Department of Defense Medicare-Eligible Retiree Health Care Fund,N
+0,07,97-5472,Department of Defense Medicare-Eligible Retiree Health Care Fund,N
+0,10,97-809810,"Employing Agency Contributions, Education Benefits Fund",N
+0,10,97-809820,"Interest on Investments, Education Benefits Fund",N
+0,10,97-8098,Education Benefits Fund,N
+0,15,74-0100,Salaries and Expenses,N
+0,15,74-0101,Foreign Currency Fluctuations Account,N
+0,15,74-856910,"Contributions, American Battle Monuments Commission",N
+0,15,74-856920,"Earnings on Investments, American Battle Monuments Commission",N
+0,15,74-8569,Contributions,N
+0,20,84-0100,"General Fund Payment, Armed Forces Retirement Home",N
+0,20,84-852230,"Fines and Forfeitures, Armed Forces Retirement Home",N
+0,20,84-852240,"Other Receipts, Armed Forces Retirement Home",N
+0,20,84-852250,"Gifts, Armed Forces Retirement Home",N
+0,20,84-852260,"Property Sales/Leases, Armed Forces Retirement Home",N
+0,20,84-852280,General Fund Payment to the Armed Forces Retirement Home,N
+0,20,97-852210,"Deductions, Armed Forces Retirement Home",N
+0,20,97-852220,"Interest from Investments, Armed Forces Retirement Home",N
+0,20,84-8522,Armed Forces Retirement Home,N
+0,25,21-1805,Salaries and Expenses,N
+0,30,97-509500,"Sales of Hunting and Fishing Permits, Military Reservations",N
+0,30,97-5095,Wildlife Conservation,N
+0,45,90-0400,Salaries and Expenses,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,20-529500,Environmental Services,N
+0,00,68-089300,"User Fees, Hazardous Waste Electronic Manifest",N
+0,00,68-089500,"Registration, PMN, Other Services",N
+0,00,68-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,68-275330,"Downward Reestimates of Subsidies, Abatement, Control and Compliance Loans",N
+0,00,68-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,68-322900,"Cellulosic Biofuel Waiver Credits, Renewal Fuel Program",N
+0,00,68-323100,Special and Trust Fund Gov Receipts Returned to the General Fund,N
+0,00,68-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,68-537410,"Registration Service Fees, Pesticide Registration Fund",N
+0,00,68-537420,"Interest on Investments, Pesticide Registration Fund",N
+0,00,68-552410,"User Fees, Registration Review",N
+0,00,68-552610,"User Fees, Pesticide Tolerance",N
+0,00,68-552710,"User Fees, Pre-manufacture Notice",N
+0,00,68-0200,Program and Research Operations,N
+0,00,68-0112,Office of Inspector General,N
+0,00,68-0107,Science and Technology,N
+0,00,68-0108,Environmental Programs and Management,N
+0,00,68-0110,Buildings and Facilities,N
+0,00,68-0103,State and Tribal Assistance Grants,N
+0,00,68-0250,Payment to the Hazardous Substance Superfund,N
+0,00,68-5295,Environmental Services,N
+0,00,68-5374,Pesticide Registration Fund,N
+0,00,68-4310,Reregistration and Expedited Processing Revolving Fund,N
+0,00,68-4565,Working Capital Fund,N
+0,00,68-4322,"Abatement, Control, and Compliance Direct Loan Financing Account",N
+0,00,20-814516,"Payment from the General Fund, Hazardous Substance Superfund, Recovery Act",N
+0,00,20-815340,"Payment from the General Fund, Leaking Underground Storage Tank Trust Fund",N
+0,00,68-814510,"Excise Taxes, Hazardous Substance Superfund",N
+0,00,68-814515,"Corporation Income Taxes, Hazardous Substance Superfund",N
+0,00,68-814520,"Interest and Profits on Investments, Hazardous Substance Superfund",N
+0,00,68-814530,"Fines and Penalties, and Miscellaneous, Hazardous Substance Superfund",N
+0,00,68-814540,"Recoveries, Hazardous Substance Superfund",N
+0,00,68-814550,"Interfund Transactions, Hazardous Substance Superfund",N
+0,00,68-815310,"Transfer from the General Fund Amounts Equivalent to Taxes, Leaking Underground Storage Tank Trust Fund",N
+0,00,68-815320,"Earnings on Investments, Leaking Underground Storage Tank Trust Fund",N
+0,00,68-815330,"Recoveries, Leaking Underground Storage Tank Trust Fund",N
+0,00,68-8145,Hazardous Substance Superfund,N
+0,00,68-8153,Leaking Underground Storage Tank Trust Fund,N
+0,00,68-8221,Inland Oil Spill Programs,N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,11-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,11-388517,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,11-551210,Spectrum Relocation Receipts,N
+0,00,,Privacy and Civil Liberties Oversight Board,N
+0,05,11-0209,The White House,N
+0,05,11-1073,Armstrong Resolution Account,N
+0,10,11-0210,Operating Expenses,N
+0,10,11-0109,White House Repair and Restoration,N
+0,15,11-1454,Special Assistance to the President and the Official Residence of the Vice President,N
+0,20,11-1900,Salaries and Expenses,N
+0,25,11-1453,Council on Environmental Quality and Office of Environmental Quality,N
+0,25,11-3963,"Management Fund, Office of Environmental Quality",N
+0,35,11-2000,Salaries and Expenses,N
+0,50,11-0038,Salaries and Expenses,N
+0,55,11-0300,Office of Management and Budget,N
+0,60,11-1457,Office of National Drug Control Policy,N
+0,65,11-2600,Office of Science and Technology Policy,N
+0,70,11-0400,Office of the United States Trade Representative,N
+0,95,11-0037,Unanticipated Needs,N
+0,95,11-0035,Partnership Fund for Program Integrity Innovation,N
+0,95,11-0034,Emergency Response Fund,N
+0,95,11-0033,Unanticipated Needs for Natural Disasters,N
+0,95,11-5512,Spectrum Relocation Fund,N
+0,95,11-1096,Iraq Relief and Reconstruction Fund,N
+0,95,11-1097,Operating Expenses of the Coalition Provisional Authority,N
+0,SP,,ADMINISTRATIVE PROVISIONS,N
+0,00,47-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,47-262300,Sale of Transportation Assets,N
+0,00,47-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,47-384000,"Real Property Disposal, GSA",N
+0,00,47-384200,"Broker Rebates, GSA",N
+0,00,47-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,47-500520,"Land and Water Conservation Fund, Surplus Property Sales",N
+0,00,47-525000,Recoveries of Transportation Charges,N
+0,00,47-525410,"Receipts of Rent, Leases and Lease Payments for Government Owned Real Property",N
+0,00,47-525420,"Other Receipts, Surplus Real and Related Personal Property",N
+0,00,47-525430,Transfers of Surplus Real and Related Personal Property Receipts,N
+0,00,47-538110,Acquisition Workforce Training Fund,N
+0,00,47-819810,"Unconditional Gifts of Real, Personal, or Other Property",N
+0,05,47-4542,Federal Buildings Fund,N
+0,05,47-4543,"Federal Buildings Fund, Recovery Act",N
+0,05,47-0535,Real Property Relocation,N
+0,05,47-5254,Disposal of Surplus Real and Related Personal Property,N
+0,10,47-5250,Expenses of Transportation Audit Contracts and Contract Administration,N
+0,10,47-4534,Acquisition Services Fund,N
+0,10,47-0505,"Energy-Efficient Federal Motor Vehicle Fleet Procurement, Recovery Act",N
+0,30,47-0401,Government-wide Policy,N
+0,30,47-0110,Operating Expenses,N
+0,30,47-0108,Office of Inspector General,N
+0,30,47-0600,Electronic Government (E-GOV) Fund,N
+0,30,47-0105,Allowances and Office Staff for Former Presidents,N
+0,30,47-0107,"Expenses, Presidential Transition",N
+0,30,47-5381,Acquisition Workforce Training Fund,N
+0,30,47-4549,Federal Citizen Services Fund,N
+0,30,47-4540,Working Capital Fund,N
+0,SP,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,80-143500,"General Fund Proprietary Interest Receipts, not Otherwise Classified",N
+0,00,80-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,80-388500,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,80-0128,Education,N
+0,00,80-0130,"Construction, Environmental Compliance, and Remediation",N
+0,00,80-0115,Space Operations,N
+0,00,80-0109,Office of Inspector General,N
+0,00,80-0114,"Science, Aeronautics, and Exploration",N
+0,00,80-0111,Human Space Flight,N
+0,00,80-0110,"Science, Aeronautics and Technology",N
+0,00,80-0112,Mission Support,N
+0,00,80-4546,Working Capital Fund,N
+0,00,80-897820,"Earnings on Investments, Science, Space and Technology Education Trust Fund",N
+0,00,80-8978,"Science, Space, and Technology Education Trust Fund",N
+0,00,80-8977,National Space Grant Program,N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNT,N
+0,00,49-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,49-0100,Research and Related Activities,N
+0,00,49-0551,Major Research Equipment and Facilities Construction,N
+0,00,49-0180,Agency Operations and Award Management,N
+0,00,49-0350,Office of the National Science Board,N
+0,00,49-0300,Office of the Inspector General,N
+0,00,49-0106,Education and Human Resources,N
+0,00,49-896010,"Donations, National Science Foundation",N
+0,00,49-8960,Donations,N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNT,N
+0,00,24-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,24-539110,"Postal Service Contributions for Current Workers, Postal Service Retiree Health Benefits Fund",N
+0,00,24-539120,"Earnings on Investments, Postal Service Retiree Health Benefits Fund",N
+0,00,24-539130,"Postal Service Contributions for Benefits Paid to Retirees, Postal Service Retiree Health Benefits Fund",N
+0,00,24-539150,"Postal Service Contributions from Escrow Account, Postal Service Retiree Health Benefits Fund",N
+0,00,24-0100,Salaries and Expenses,N
+0,00,24-0400,Office of Inspector General,N
+0,00,24-0206,"Government Payment for Annuitants, Employees Health Benefits",N
+0,00,24-0500,"Government Payment for Annuitants, Employee Life Insurance",N
+0,00,24-0200,Payment to Civil Service Retirement and Disability Fund,N
+0,00,24-0800,Flexible Benefits Plan Reserve,N
+0,00,24-5391,Postal Service Retiree Health Benefits Fund,N
+0,00,24-4571,Revolving Fund,N
+0,00,24-813510,"Employee Contributions, Civil Service Retirement and Disability Fund",N
+0,00,24-813520,"Agency Contributions, Civil Service Retirement and Disability Fund",N
+0,00,24-813521,"District of Columbia Contributions, Civil Service Retirement and Disability Fund",N
+0,00,24-813522,"Postal Service Agency Contributions, Civil Service Retirement and Disability Fund",N
+0,00,24-813523,"Postal Service Supplemental Contributions, Civil Service Retirement and Disability Fund",N
+0,00,24-813525,"FFB, TVA, and USPS Interest, Civil Service Retirement and Disability Fund",N
+0,00,24-813530,"Employee Deposits, Redeposits and Other Contributions, Civil Service Retirement and Disability Fund",N
+0,00,24-813540,"Treasury Interest, Civil Service Retirement and Disability Fund",N
+0,00,24-813550,General Fund Payment to the Civil Service Retirement and Disability Fund,N
+0,00,24-813570,"Re-employed Annuitants Salary Offset, Civil Service Retirement and Disability Fund",N
+0,00,24-8135,Civil Service Retirement and Disability Fund,N
+0,00,24-8424,Employees Life Insurance Fund,N
+0,00,24-9981,Employees and Retired Employees Health Benefits Funds,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNT,N
+0,00,73-272130,"Disaster Loan Program, Downward Reestimates of Subsidies",N
+0,00,73-272210,"Business Loan Program, Negative Subsidies",N
+0,00,73-272230,"Business Loan Program, Downward Reestimates of Subsidies",N
+0,00,73-320000,Undistributed Intragovernmental Payments and Receivables from Cancelled Accounts,N
+0,00,73-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,73-0100,Salaries and Expenses,N
+0,00,73-0200,Office of Inspector General,N
+0,00,73-0300,Office of Advocacy,N
+0,00,73-4156,Surety Bond Guarantees Revolving Fund,N
+0,00,73-1154,Business Loans Program Account,N
+0,00,73-4148,Business Direct Loan Financing Account,N
+0,00,73-4149,Business Guaranteed Loan Financing Account,N
+0,00,73-4154,Business Loan Fund Liquidating Account,N
+0,00,73-1152,Disaster Loans Program Account,N
+0,00,73-4150,Disaster Direct Loan Financing Account,N
+0,00,73-4293,Disaster Loans Guaranteed Loan Financing Account,N
+0,00,73-4153,Disaster Loan Fund Liquidating Account,N
+0,00,73-4147,Pollution Control Equipment Fund Liquidating Account,N
+0,00,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,00,28-241700,"SSI, Attorney Fees",N
+0,00,28-310510,"Quinquennial Adjustment for Pre-1957 Military Service Credits, FOASI",N
+0,00,28-310520,"Quinquennial Adjustment for Pre-1957 Military Service Credits, FDI",N
+0,00,28-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,28-541910,"State Supplemental Fees, SSI",N
+0,00,28-555510,"Administration Fees, Special Benefits for Certain World War II Veterans",N
+0,00,75-241800,Receipts from SSI Administrative Fee,N
+0,00,75-309600,Recovery of Beneficiary Overpayments from SSI Program,N
+0,00,28-0404,Payments to Social Security Trust Funds,N
+0,00,28-0415,"Administrative Costs, The Medicare Improvements for Patients and Providers Act",N
+0,00,28-0416,"Administrative Expenses, Children's Health Insurance Program",N
+0,00,28-0406,Supplemental Security Income Program,N
+0,00,28-0401,Special Benefits for Certain World War II Veterans,N
+0,00,28-0400,Office of the Inspector General,N
+0,00,28-0418,Economic Recovery Payments,N
+0,00,28-0417,"Administrative Expenses, Recovery Act",N
+0,00,28-0423,Economic Recovery Administrative Expenses,N
+0,00,28-5419,State Supplemental Fees,N
+0,00,20-800615,"FOASI, Refunds",N
+0,00,20-800713,"FDI, Transfers from OASI for DIB/DAC Payments",N
+0,00,20-800715,"FDI, Refunds",N
+0,00,20-800717,"FDI, Payments for Pre-1957 Military Service (quinquennial Adjustment)",N
+0,00,28-800610,"FOASI, Transfers from General Fund (FICA Taxes)",N
+0,00,28-800611,"FOASI, Transfers from General Fund (SECA Taxes)",N
+0,00,28-800612,"FOASI, Federal Employer Contributions (FICA Taxes)",N
+0,00,28-800618,"FOASI, General Fund Payments for Payroll Tax Holiday (PL 111–312)",N
+0,00,28-800620,"FOASI, Interest Received by Trust Funds",N
+0,00,28-800624,"FOASI, Refunds for Voluntary Income Tax Withholding, Principal",N
+0,00,28-800625,"FOASI, Refunds for Voluntary Income Tax Withholding, Interest",N
+0,00,28-800628,"FOASI, Non-Attorney Fees",N
+0,00,28-800631,"FOASI, Attorney Fees",N
+0,00,28-800660,"FOASI, Federal Payments to the FOASI Trust Fund",N
+0,00,28-800690,"FOASI, Tax Refund Offset",N
+0,00,28-800701,"FDI, Transfers from General Fund (FICA Taxes)",N
+0,00,28-800711,"FDI, Transfers from General Fund (SECA Taxes)",N
+0,00,28-800712,"FDI, Federal Employer Contributions (FICA Taxes)",N
+0,00,28-800714,"CMIA Interest, Federal Disability Insurance Trust Fund",N
+0,00,28-800718,"FDI, General Fund Payments for Payroll Tax Holiday (PL 111–312)",N
+0,00,28-800720,"FDI, Interest Received by Trust Funds",N
+0,00,28-800724,"FDI, Refunds for Voluntary Income Tax Withholding, Principal",N
+0,00,28-800725,"FDI, Refunds for Voluntary Income Tax Withholding, Interest",N
+0,00,28-800731,"Attorney Fees, Federal Disability Insurance Trust Fund",N
+0,00,28-800760,"FDI, Federal Payments to the FDI Trust Fund",N
+0,00,28-800765,"FDI, Payments for Post-1956 Military Service Credits",N
+0,00,28-800790,"FDI, Tax Refund Offset",N
+0,00,28-8006,Federal Old-age and Survivors Insurance Trust Fund,N
+0,00,28-8007,Federal Disability Insurance Trust Fund,N
+0,00,28-8704,Limitation on Administrative Expenses,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,Commissioner's Budget,N
+0,00,95-3200,Salaries and Expenses,N
+0,00,95-1700,Salaries and Expenses,N
+0,00,95-2300,Salaries and Expenses,N
+0,00,95-552810,"Contributions, Federal Home Loan Banks, Affordable Housing Program",N
+0,00,95-5528,Affordable Housing Program,N
+0,00,46-0200,Appalachian Regional Commission,N
+0,00,46-809010,"General Fund Contributions, Appalachian Regional Commission",N
+0,00,46-809030,"Fees for Services, Appalachian Regional Commission",N
+0,00,46-9971,Miscellaneous Trust Funds,N
+0,00,95-828120,"Interest on Investments, Barry Goldwater Scholarship and Excellence in Education Foundation",N
+0,00,95-828130,"Gift and Donations, the Barry Goldwater Scholarship and Excellence in Education Fund",N
+0,00,95-8281,Barry Goldwater Scholarship and Excellence in Education Foundation,N
+0,00,95-322068,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,95-0206,International Broadcasting Operations,N
+0,00,95-0204,Broadcasting Capital Improvements,N
+0,00,95-0208,Broadcasting to Cuba,N
+0,00,95-1147,Buying Power Maintenance,N
+0,00,95-8285,Foreign Service National Separation Liability Trust Fund,N
+0,00,95-557710,"Transfers from the Federal Reserve Board, Bureau of Consumer Financial Protection Fund",N
+0,00,95-557720,"Earnings on Investments, Bureau of Consumer Financial Protection Fund",N
+0,00,95-557730,Interstate Land Sales,N
+0,00,95-557810,"Penalties and Fines, Consumer Financial Protection",N
+0,00,95-5577,Bureau of Consumer Financial Protection Fund,N
+0,00,95-5578,Consumer Financial Civil Penalty Fund,N
+0,00,56-3400,Central Intelligence Agency Retirement and Disability System Fund,N
+0,00,95-3850,Chemical Safety and Hazard Investigation Board,N
+0,00,76-0100,Payment to the Christopher Columbus Fellowship Foundation,N
+0,00,76-818730,"Gifts and Donations, Christopher Columbus Fellowship Foundation",N
+0,00,76-8187,Christopher Columbus Fellowship Foundation,N
+0,00,95-263900,Asset Sale Proceeds,N
+0,00,95-4350,Asset Proceeds and Space Management Fund,N
+0,00,95-2600,Salaries and Expenses,N
+0,00,95-2602,National Capital Arts and Cultural Affairs,N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,00,95-1900,Salaries and Expenses,N
+0,00,95-2000,Salaries and Expenses,N
+0,00,95-1400,Commodity Futures Trading Commission,N
+0,00,95-4334,Customer Protection Fund,N
+0,00,61-143500,"General Fund Proprietary Interest, not Otherwise Classified",N
+0,00,61-0100,Salaries and Expenses,N
+0,00,95-322055,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,95-2728,Operating Expenses,N
+0,00,95-2720,"National and Community Service Programs, Operating Expenses",N
+0,00,95-2726,Payment to National Service Trust Fund,N
+0,00,95-0103,"Domestic Volunteer Service Programs, Operating Expenses",N
+0,00,95-2721,Inspector General,N
+0,00,95-2722,Salaries and Expenses,N
+0,00,95-2723,VISTA Advance Payments Revolving Fund,N
+0,00,95-826720,"Interest on Investment, National Service Trust Fund",N
+0,00,95-826730,"Payment from the General Fund, National Service Trust Fund",N
+0,00,95-826740,"Payment from the General Fund, National Service Trust Fund, Recovery Act",N
+0,00,95-898110,Gifts and Contributions,N
+0,00,95-9972,Gifts and Contributions,N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,00,20-0151,Corporation for Public Broadcasting,N
+0,00,95-5585,Travel Promotion Fund,N
+0,00,95-558510,"Fees, Travel Promotion Fund",N
+0,00,95-4592,Inspectors General Council Fund,N
+0,00,95-1734,Federal Payment to Court Services and Offender Supervision Agency for the District of Columbia,N
+0,00,95-1733,Public Defender Service for the District of Columbia,N
+0,00,95-3900,Salaries and Expenses,N
+0,00,95-0750,Delta Regional Authority,N
+0,00,95-322067,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,95-1200,Denali Commission,N
+0,00,95-8056,Denali Commission Trust Fund,N
+0,10,95-322070,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,10,95-1712,Federal Payment to the District of Columbia Courts,N
+0,10,95-1736,Defender Services in District of Columbia Courts,N
+0,10,20-1759,Crime Victims Compensation Fund,N
+0,10,20-1713,Federal Payment to the District of Columbia Judicial Retirement and Survivors Annuity Fund,N
+0,10,20-821210,"Deductions from Employees Salaries, District of Columbia Judicial Retirement and Survivors Annuity Fund",N
+0,10,20-821220,"Earnings on Investments, District of Columbia Judicial Retirement and Survivors Annuity Fund",N
+0,10,20-821230,"Federal Payments, D.C. Judicial Retirement and Survivors Annuity",N
+0,10,20-8212,District of Columbia Judicial Retirement and Survivors Annuity Fund,N
+0,30,20-551110,"Federal Contribution, DC Federal Pension Fund",N
+0,30,20-551120,"Earnings on Investments, DC Federal Pension Fund",N
+0,30,20-1736,Federal Payment for Resident Tuition Support,N
+0,30,20-1737,Federal Payment to Jump Start Public School Reform,N
+0,30,20-1817,Federal Payment for School Improvement,N
+0,30,20-1707,Federal Support for Economic Development and Management Reforms in the District,N
+0,30,20-1771,Federal Payment for Emergency Planning and Security Cost in the District of Columbia,N
+0,30,20-1714,Federal Payment to the District of Columbia Pension Fund,N
+0,30,20-5500,Federal Supplemental District of Columbia Pension Fund,N
+0,30,20-5511,District of Columbia Federal Pension Fund,N
+0,30,20-4446,Federal Payment for Water and Sewer Services,N
+0,30,20-8230,District of Columbia Federal Pension Liability Trust Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,SP,,TITLE VIII—GENERAL PROVISIONS—DISTRICT OF COLUMBIA,N
+0,00,95-1650,Salaries and Expenses,N
+0,00,95-1651,Election Reform Programs,N
+0,00,95-1652,Election Data Collection Grants,N
+0,00,95-552210,"Fees, Electric Reliability Organization",N
+0,00,95-5522,Electric Reliability Organization,N
+0,00,45-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,45-0100,Salaries and Expenses,N
+0,00,45-4019,"EEOC Education, Technical Assistance, and Training Revolving Fund",N
+0,00,83-272710,"Export-Import Bank Loans, Negative Subsidies",N
+0,00,83-272730,"Export-Import Bank Loans, Downward Reestimates of Subsidies",N
+0,00,83-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,83-0105,Inspector General of the Export-Import Bank,N
+0,00,83-0100,Export-Import Bank Loans Program Account,N
+0,00,83-4028,Debt Reduction Financing Account,N
+0,00,83-4161,Export-Import Bank Direct Loan Financing Account,N
+0,00,83-4162,Export-Import Bank Guaranteed Loan Financing Account,N
+0,00,83-4027,Export-Import Bank of the United States Liquidating Account,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,78-4131,Limitation on Administrative Expenses,N
+0,00,78-4136,Farm Credit System Insurance Fund,N
+0,00,27-089600,Spectrum License User Fees,N
+0,00,27-242900,Fees for Services,N
+0,00,27-247400,Auction Receipts,N
+0,00,27-273630,"Spectrum Auction Direct Loan, Downward Reestimates of Subsidies",N
+0,00,27-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,27-518310,Universal Service Fund,N
+0,00,27-518320,"Earnings on Federal Investments, Universal Service Fund",N
+0,00,27-518330,Universal Service Fund,N
+0,00,27-518350,"Return of Capital from Sale of Non-Federal Investments, Universal Service Fund",N
+0,00,27-0100,Salaries and Expenses,N
+0,00,27-5183,Universal Service Fund,N
+0,00,27-0500,National Wireless Initiative,N
+0,00,27-5444,Analog Spectrum Lease Fee,N
+0,00,27-0300,Spectrum Auction Program Account,N
+0,00,27-4133,Spectrum Auction Direct Loan Financing Account,N
+0,00,27-0400,"Digital-to-Analog Converter Box Program, Recovery Act",N
+0,00,27-0200,"Broadband Technology Opportunities Program, Recovery Act",N
+0,00,,Spectrum License User Fee,N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,51-558610,"Risk-Based Assessments, Orderly Liquidation Fund",N
+0,00,51-558620,"Interest, Orderly Liquidation Fund",N
+0,20,51-4596,Deposit Insurance Fund,N
+0,20,51-4458,Non-Interest Bearing Transaction Account Guarantee,N
+0,20,51-4457,Senior Unsecured Debt Guarantee,N
+0,30,51-4065,FSLIC Resolution Fund,N
+0,35,51-5586,Orderly Liquidation Fund,N
+0,40,51-4595,Office of Inspector General,N
+0,00,11-1070,High-intensity Drug Trafficking Areas Program,N
+0,00,11-1460,Other Federal Drug Control Programs,N
+0,00,11-1461,Counterdrug Technology Assessment Center,N
+0,00,95-1600,Salaries and Expenses,N
+0,00,95-502600,"Registry Fees, Appraisal Subcommittee, Federal Institution Examination Council",N
+0,00,95-502620,"Incremental Registry Fees (Dodd-Frank Act), Appraisal Subcommittee, FFIEC",N
+0,10,95-5547,Federal Financial Institutions Examination Council Activities,N
+0,20,95-5026,Registry Fees,N
+0,00,95-0207,Federal Housing Enterprise Regulator,N
+0,00,95-109980,"Fines, Penalties, and Forfeitures, Not Otherwise Classified",N
+0,00,95-322080,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,95-553210,"FHFA, Fees on GSEs for Administrative Expenses",N
+0,00,95-553220,"Interest Earnings on Investments In Treasury Securities, FHFA",N
+0,00,95-556410,"Fees on GSEs for Administrative Expenses, Federal Housing Finance Agency Office of the Inspector General",N
+0,00,95-5532,"Federal Housing Finance Agency, Administrative Expenses",N
+0,00,95-5564,Office of Inspector General,N
+0,00,95-4039,Federal Housing Finance Board,N
+0,00,54-143500,"General Fund Proprietary Interest, Not Otherwise Classified",N
+0,00,54-0100,Salaries and Expenses,N
+0,00,65-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,65-0100,Salaries and Expenses,N
+0,00,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,93-0100,Salaries and Expenses,N
+0,00,95-2800,Salaries and Expenses,N
+0,00,26-529000,"Reimbursement for Program Expenses, Federal Retirement Thrift Investment Board",N
+0,00,26-5290,Program Expenses,N
+0,00,,Information Schedules for the Thrift Savings Fund,N
+0,00,29-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,29-0100,Salaries and Expenses,N
+0,00,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,95-0950,Payment to the Harry S. Truman Scholarship Memorial Trust Fund,N
+0,00,95-829620,"Interest on Investments, Harry S. Truman Memorial Scholarship Trust Fund",N
+0,00,95-829630,"General Fund Payment, Harry S Truman Scholarship Trust Fun",N
+0,00,95-8296,Harry S Truman Memorial Scholarship Trust Fund,N
+0,00,95-3746,Independent Payment Advisory Board,N
+0,00,48-2971,Indian Law and Order Commission,N
+0,00,95-2900,Payment to the Institute,N
+0,00,95-0401,Intelligence Community Management Account,N
+0,00,34-0100,Salaries and Expenses,N
+0,00,95-828220,"Earnings on Investments, James Madison Memorial Fellowship Foundation",N
+0,00,95-8282,James Madison Memorial Fellowship Trust Fund,N
+0,00,95-802520,"Interest on Investment in Public Debt Securities, Japan-United States Friendship Commission",N
+0,00,95-8025,Japan-United States Friendship Trust Fund,N
+0,00,20-0501,Payment to Legal Services Corporation,N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,00,95-2200,Salaries and Expenses,N
+0,00,41-0100,Salaries and Expenses,N
+0,00,95-541510,"Fees for Services, Environmental Dispute Resolution Fund",N
+0,00,95-0900,Federal Payment to Morris K. Udall and Stewart L. Udall Foundation Trust Fund,N
+0,00,95-5415,Environmental Dispute Resolution Fund,N
+0,00,95-861510,"General Fund Payments, Morris K. Udall Scholarship Fund",N
+0,00,95-861520,"Interest on Investments, Morris K. Udall Scholarship Fund",N
+0,00,95-8615,Morris K. Udall and Stewart L. Udall Foundation,N
+0,00,88-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,88-0300,Operating Expenses,N
+0,00,88-0305,Office of the Inspector General - National Archives and Records Adminsitration,N
+0,00,88-0303,Electronic Record Archives,N
+0,00,88-0302,Repairs and Restoration,N
+0,00,88-0301,National Historical Publications and Records Commission,N
+0,00,88-4578,Records Center Revolving Fund,N
+0,00,88-812710,"Gifts and Bequests, National Archives Gift Fund",N
+0,00,88-812720,"Earnings on Investments in Federal Securities, National Archives Gift Fund",N
+0,00,88-812730,"Interest and Dividends on Non-Federal Securities, National Archives Gift Fund",N
+0,00,88-812740,"Realized Gains on Non-Federal Securities, National Archives Gift Fund",N
+0,00,88-812750,"Proceeds from Non-Federal Securities not Immediately Reinvested, National Archives Gift Fund",N
+0,00,88-8127,National Archives Gift Fund,N
+0,00,88-8436,National Archives Trust Fund,N
+0,00,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,95-2500,Salaries and Expenses,N
+0,00,95-2700,Salaries and Expenses,N
+0,00,95-3500,Salaries and Expenses,N
+0,00,25-4056,Operating Fund,N
+0,00,25-4468,Credit Union Share Insurance Fund,N
+0,00,25-4477,Temporary Corporate Credit Union Stabilization Fund,N
+0,00,25-4470,Central Liquidity Facility,N
+0,00,25-4474,Credit Union System Investment Program,N
+0,00,25-4473,Credit Union Homeowners Affordability Relief Program,N
+0,00,25-4472,Community Development Credit Union Revolving Loan Fund,N
+0,00,59-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,59-0100,National Endowment for the Arts: Grants and Administration,N
+0,00,59-804010,"Gifts and Donations, National Endowment for the Arts",N
+0,00,59-8040,"Gifts and Donations, National Endowment for the Arts",N
+0,00,59-0200,National Endowment for the Humanities: Grants and Administration,N
+0,00,59-805010,"Gifts and Donations, National Endowment for the Humanities",N
+0,00,59-8050,"Gifts and Donations, National Endowment for the Humanities",N
+0,00,,ADMINISTRATIVE PROVISIONS,N
+0,00,95-8266,Gifts and Donations,N
+0,00,95-826610,"Gifts and Donations, National Foundation on Fitness, Sports, and Nutrition",N
+0,00,59-0300,Office of Museum and Library Services: Grants and Administration,N
+0,00,59-808010,"Gifts and Donations, Institute of Museum Services",N
+0,00,63-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,63-0100,Salaries and Expenses,N
+0,00,,ADMINISTRATIVE PROVISION,N
+0,00,95-2400,Salaries and Expenses,N
+0,00,48-2996,Salaries and Expenses,N
+0,00,95-0310,Salaries and Expenses,N
+0,00,95-0311,Emergency Fund,N
+0,00,82-1300,Payment to Neighborhood Reinvestment Corporation,N
+0,00,95-3742,Northern Border Regional Commission,N
+0,00,31-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,31-528010,"Nuclear Facility Fees, Nuclear Regulatory Commission",N
+0,00,31-0200,Salaries and Expenses,N
+0,00,31-0300,Office of Inspector General,N
+0,00,,GENERAL PROVISIONS—INDEPENDENT AGENCIES,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,48-0500,Salaries and Expenses,N
+0,00,95-2100,Salaries and Expenses,N
+0,00,95-1100,Salaries and Expenses,N
+0,00,48-1100,Salaries and Expenses,N
+0,00,62-0100,Salaries and Expenses,N
+0,00,95-554810,"Fees, Charges, and Commissions",N
+0,00,95-2850,Office of the Federal Coordinator for Alaska Natural Gas Transportation,N
+0,00,95-972110,"Fees and Penalties, Miscellaneous Special Funds, Independent Agencies",N
+0,00,95-9911,Other Commissions and Boards,N
+0,00,10-812310,"Gifts and Donations, Federal Judicial Center Foundation",N
+0,00,95-977110,"Miscellaneous Deposits, Miscellaneous Trust Funds, Independent Agencies",N
+0,00,95-977120,"Interest, Miscellaneous Trust Funds, Independent Agencies",N
+0,00,95-1299,Payment to the Patient-Centered Outcomes Research Trust Fund,N
+0,00,95-829910,"Fees on Health Insurance and Self-insured Health Plans, PCORTF",N
+0,00,95-829920,"Interest Received by Trust Funds, PCORTF",N
+0,00,95-829930,"Payment from the General Fund, Patient-Centered Outcomes Research Trust Fund",N
+0,00,95-829940,"Transfers from FHI Trust Fund, PCORTF",N
+0,00,95-829950,"Transfers from FSMI Trust Fund, PCORTF",N
+0,00,95-8299,Patient-Centered Outcomes Research Trust Fund,N
+0,00,18-1001,Payment to Postal Service Fund,N
+0,00,18-4020,Postal Service Fund,N
+0,00,18-9017,Unspecified Adjustments to Operations,N
+0,00,18-0100,Office of Inspector General of the United States Postal Service,N
+0,00,18-0200,Postal Regulatory Commission,N
+0,00,95-4331,Presidio Trust,N
+0,00,95-4332,Presidio Trust Guaranteed Loan Financing Account,N
+0,00,95-2724,Salaries and Expenses,N
+0,00,60-0111,Dual Benefits Payments Account,N
+0,00,60-0113,Federal Payments to the Railroad Retirement Accounts,N
+0,00,60-0118,"Administrative Expenses, Railroad Unemployment Insurance Extended Benefit Payments",N
+0,00,60-0116,"Administrative Expenses, Recovery Act",N
+0,00,60-0115,Economic Recovery Payments,N
+0,00,60-0117,Railroad Unemployment Insurance Extended Benefit Payments,N
+0,00,60-0114,"Railroad Unemployment Insurance Extended Benefit Payments, Recovery Act",N
+0,00,60-801010,"Railroad Social Security Equivalent Benefit Account, Interest and Profits on Investments in Public Debt Securities",N
+0,00,60-801012,"Railroad Social Security Equivalent Benefit Account, Income Tax Credits",N
+0,00,60-801015,"Refunds, Railroad Social Security Equivalent Benefit Account",N
+0,00,60-801018,"Railroad Social Security Equivalent Benefit Account, Interest Transferred to Federal Hospital Insurance Trust Fund",N
+0,00,60-801020,"Railroad Social Security Equivalent Benefit Account, Taxes",N
+0,00,60-801021,"Railroad Social Security Equivalent Benefit Account, Receipts Transferred to Federal Hospital Insurance Trust Fund",N
+0,00,60-801031,"Railroad Social Security Equivalent Benefit Account, Receipts from Federal Old-age Survivors Ins. Trust Fund",N
+0,00,60-801032,"Railroad Social Security Equivalent Benefit Account, Receipts from Federal Disability Insurance Trust Fund",N
+0,00,60-801033,"Railroad Social Security Equivalent Benefit Account, General Fund Payment for Payroll Tax Holiday (PL 111–312)",N
+0,00,60-801110,"Interest and Profits on Investments in Public Debt Securities, Rail Industry Pension Fund",N
+0,00,60-801115,"Refunds, Rail Industry Pension Fund",N
+0,00,60-801116,"Payment from the National Railroad Retirement Investment Trust, Rail Industry Pension Fund",N
+0,00,60-801120,"Taxes, Rail Industry Pension Fund",N
+0,00,60-801150,"Interest on Advances to Railroad Unemployment Insurance Account, Rail Industry Pension Fund",N
+0,00,60-801170,"Federal Payments to Railroad Retirement Trust Funds, Rail Industry Pension Fund",N
+0,00,60-811810,"Gains and Losses on Non-Federal Securities, National Railroad Retirement Investment Trust",N
+0,00,60-811820,"Earnings on Investments in Federal Securities, National Railroad Retirement Investment Trust",N
+0,00,60-811830,"Interest and Dividends on Non-Federal Securities, National Railroad Retirement Investment Trust",N
+0,00,60-811840,"Payment from the Rail Industry Pension Fund, National Railroad Retirement Investment Trust",N
+0,00,60-8051,Railroad Unemployment Insurance Trust Fund,N
+0,00,60-8011,Rail Industry Pension Fund,N
+0,00,60-8237,Limitation on Administration,N
+0,00,60-8118,National Railroad Retirement Investment Trust,N
+0,00,60-8262,"Limitation on Administration, Recovery Act",N
+0,00,60-8018,Limitation on the Office of Inspector General,N
+0,00,60-8010,Railroad Social Security Equivalent Benefit Account,N
+0,00,95-3725,"Recovery Act Accountability and Transparency Board, Recovery Act",N
+0,00,50-085100,"Registration and Filing Fees, SEC",N
+0,00,50-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,50-556610,"Registration Fees, Securities and Exchange Commission Reserve Fund",N
+0,00,50-556710,"Monetary Sanctions, Investor Protection Fund",N
+0,00,50-556720,"Interest, Investor Protection Fund",N
+0,00,50-0100,Salaries and Expenses,N
+0,00,50-5566,Securities and Exchange Commission Reserve Fund,N
+0,00,50-5567,Investor Protection Fund,N
+0,00,50-4068,Investment in Securities Investor Protection Corporation,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,95-537610,"Accounting Support Fees, Public Company Accounting Oversight Board",N
+0,00,95-537620,Interest on Investments,N
+0,00,95-5376,Public Company Accounting Oversight Board,N
+0,00,95-537710,"Accounting Support Fees, Standard Setting Body",N
+0,00,95-537720,Interest on Investments,N
+0,00,95-5377,Payment to Standard Setting Body,N
+0,00,95-5600,Securities Investor Protection Corporation,N
+0,00,95-560010,"Assessments, SIPC",N
+0,00,95-560020,"Earnings on Investments, SIPC",N
+0,00,33-322000,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,33-0100,Salaries and Expenses,N
+0,00,33-0103,Facilities Capital,N
+0,00,33-0104,Legacy Fund,N
+0,00,33-0302,"Operations and Maintenance, JFK Center for the Performing Arts",N
+0,00,33-0303,"Capital Repair and Restoration, JFK Center for the Performing Arts",N
+0,00,33-0200,"Salaries and Expenses, National Gallery of Art",N
+0,00,33-0201,"Repair, Restoration, and Renovation of Buildings, National Gallery of Art",N
+0,00,33-0400,"Salaries and Expenses, Woodrow Wilson International Center for Scholars",N
+0,00,48-0052,State Justice Institute: Salaries and Expenses,N
+0,00,95-538810,"Interest on Investments, Telecommunications Development Fund",N
+0,00,95-5388,Telecommunications Development Fund,N
+0,00,64-4110,Tennessee Valley Authority Fund,N
+0,00,64-4192,Tennessee Valley Authority Office of the Inspector General,N
+0,00,95-829510,"Premiums, Combined Fund and 1992 Plan, UMWA",N
+0,00,95-829530,Transfers from Abandoned Mine Reclamation Fund,N
+0,00,95-829540,Federal Payment to United Mine Workers of America Combined Benefit Fund,N
+0,00,95-8295,United Mine Workers of America Combined Benefit Fund,N
+0,00,95-8260,United Mine Workers of America 1992 Benefit Plan,N
+0,00,95-8535,United Mine Workers of America 1993 Benefit Plan,N
+0,00,95-0300,Salaries and Expenses,N
+0,00,95-829020,"Earnings on Investment, Court of Veterans Appeals Retirement Fund, LVE",N
+0,00,95-829030,"Employing Agency Contributions, Court of Appeals for Veterans Claims Retirement Fund",N
+0,00,95-8290,Court of Appeals for Veterans Claims Retirement Fund,N
+0,00,95-4054,United States Enrichment Corporation Fund,N
+0,00,95-3300,Holocaust Memorial Museum,N
+0,00,95-1300,Operating Expenses,N
+0,00,48-1300,United States Interagency Council on the Homelessness,N
+0,00,95-322076,All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,N
+0,00,95-536510,"Transfers from Liquidating Accounts, Vietnam Debt Repayment Fund",N
+0,00,95-5365,Vietnam Debt Repayment Fund,N
+0,SP,,GENERAL FUND RECEIPT ACCOUNTS,N
+0,00,99-901000,Miscellaneous Unconverted Offsetting Receipts,N
+0,00,75-800560,"FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",N
+0,38,75-0580,Payments to Health Care Trust Funds,N
+0,38,75-0511,Program Management,N
+0,38,75-8005,Federal Hospital Insurance Trust Fund,N
+0,38,75-8393,Health Care Fraud and Abuse Control Account,N
+0,92,75-0128,Office of the Inspector General,N
+0,05,15-0128,"Salaries and Expenses, General Legal Activities",N
+0,05,15-0322,"Salaries and Expenses, United States Attorneys",N
+0,10,15-0200,Salaries and Expenses,N
+0,00,28-0406,Supplemental Security Income Program,N
+0,00,28-8007,Federal Disability Insurance Trust Fund,N
+0,00,28-8704,Limitation on Administrative Expenses,N
+0,00,,Amendments to and Revisions in Budget Authority,N
+0,00,,ADVANCE APPROPRIATIONS,N
+0,00,99-4033,Financing Corporation,N
+0,00,99-4029,Resolution Funding Corporation,N
+0,00,99-4450,Board of Governors of the Federal Reserve System,N
+0,00,99-2500,Portfolio Programs,N
+0,00,99-2501,Mortgage-backed Securities,N
+0,00,99-4420,Portfolio Programs,N
+0,00,99-4440,Mortgage-backed Securities,N
+0,00,99-4200,Federal Home Loan Banks,N
+0,00,99-4130,Agricultural Credit Bank,N
+0,00,99-4160,Farm Credit Banks,N
+0,00,99-4180,Federal Agricultural Mortgage Corporation,N

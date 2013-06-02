@@ -1,0 +1,153 @@
+agency-seq,agency-code,agency-name
+1,998,Detailed Budget Estimates
+2,991,General Provisions Government-Wide
+3,001,Legislative Branch
+4,002,Judicial Branch
+5,005,Department of Agriculture
+6,006,Department of Commerce
+7,007,Department of Defense—Military Programs
+8,007,Department of Defense—Military Programs
+9,014,Department of State
+10,184,International Assistance Programs
+11,514,Broadcasting Board of Governors
+12,458,United States Institute of Peace
+13,018,Department of Education
+14,019,Department of Energy
+15,009,Department of Health and Human Services
+16,024,Department of Homeland Security
+17,025,Department of Housing and Urban Development
+18,010,Department of the Interior
+19,011,Department of Justice
+20,012,Department of Labor
+21,014,Department of State
+22,184,International Assistance Programs
+23,021,Department of Transportation
+24,015,Department of the Treasury
+25,901,Governmental Receipts
+26,029,Department of Veterans Affairs
+27,202,Corps of Engineers—Civil Works
+28,200,Other Defense Civil Programs
+29,020,Environmental Protection Agency
+30,100,Executive Office of the President
+31,023,General Services Administration
+32,026,National Aeronautics and Space Administration
+33,422,National Science Foundation
+34,027,Office of Personnel Management
+35,028,Small Business Administration
+36,016,Social Security Administration
+37,310,Access Board
+38,302,Administrative Conference of the United States
+39,306,Advisory Council on Historic Preservation
+40,530,Affordable Housing Program
+41,309,Appalachian Regional Commission
+42,313,Barry Goldwater Scholarship and Excellence in Education Foundation
+43,514,Broadcasting Board of Governors
+44,581,Bureau of Consumer Financial Protection
+45,316,Central Intelligence Agency
+46,510,Chemical Safety and Hazard Investigation Board
+47,465,Christopher Columbus Fellowship Foundation
+48,582,Civilian Property Realignment Board
+49,323,Commission of Fine Arts
+50,326,Commission on Civil Rights
+51,338,Committee for Purchase from People Who Are Blind or Severely Disabled
+52,339,Commodity Futures Trading Commission
+53,343,Consumer Product Safety Commission
+54,485,Corporation for National and Community Service
+55,344,Corporation for Public Broadcasting
+56,580,Corporation for Travel Promotion
+57,542,Council of the Inspectors General on Integrity and Efficiency
+58,511,Court Services and Offender Supervision Agency for the District of Columbia
+59,347,Defense Nuclear Facilities Safety Board
+60,517,Delta Regional Authority
+61,513,Denali Commission
+62,349,District of Columbia
+63,525,Election Assistance Commission
+64,531,Electric Reliability Organization
+65,350,Equal Employment Opportunity Commission
+66,351,Export-Import Bank of the United States
+67,352,Farm Credit Administration
+68,355,Farm Credit System Insurance Corporation
+69,356,Federal Communications Commission
+70,357,Federal Deposit Insurance Corporation
+71,154,Federal Drug Control Programs
+72,360,Federal Election Commission
+73,362,Federal Financial Institutions Examination Council
+74,532,Federal Housing Enterprise Regulator
+75,537,Federal Housing Finance Agency
+76,364,Federal Housing Finance Board
+77,365,Federal Labor Relations Authority
+78,366,Federal Maritime Commission
+79,367,Federal Mediation and Conciliation Service
+80,368,Federal Mine Safety and Health Review Commission
+81,369,Federal Retirement Thrift Investment Board
+82,370,Federal Trade Commission
+83,372,Harry S Truman Scholarship Foundation
+84,578,Independent Payment Advisory Board
+85,584,Indian Law and Order Commission
+86,373,Institute of American Indian and Alaska Native Culture and Arts Development
+87,467,Intelligence Community Management Account
+88,378,International Trade Commission
+89,381,James Madison Memorial Fellowship Foundation
+90,382,Japan-United States Friendship Commission
+91,385,Legal Services Corporation
+92,387,Marine Mammal Commission
+93,389,Merit Systems Protection Board
+94,487,Morris K. Udall and Stewart L. Udall Foundation
+95,393,National Archives and Records Administration
+96,394,National Capital Planning Commission
+97,400,National Commission on Libraries and Information Science
+98,413,National Council on Disability
+99,415,National Credit Union Administration
+100,417,National Endowment for the Arts
+101,418,National Endowment for the Humanities
+102,583,"National Foundation on Fitness, Sports, and Nutrition"
+103,538,National Infrastructure Bank
+104,474,Institute of Museum and Library Services
+105,420,National Labor Relations Board
+106,421,National Mediation Board
+107,575,National Railroad Passenger Corporation Office of Inspector General
+108,424,National Transportation Safety Board
+109,428,Neighborhood Reinvestment Corporation
+110,573,Northern Border Regional Commission
+111,429,Nuclear Regulatory Commission
+112,431,Nuclear Waste Technical Review Board
+113,432,Occupational Safety and Health Review Commission
+114,434,Office of Government Ethics
+115,435,Office of Navajo and Hopi Indian Relocation
+116,436,Office of Special Counsel
+117,534,Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects
+118,505,Other Commissions and Boards
+119,579,Patient-Centered Outcomes Research Trust Fund
+120,440,Postal Service
+121,512,Presidio Trust
+122,535,Privacy and Civil Liberties Oversight Board
+123,585,Public Safety Broadband Corporation
+124,446,Railroad Retirement Board
+125,539,Recovery Accountability and Transparency Board
+126,449,Securities and Exchange Commission
+127,526,Public Company Accounting Oversight Board
+128,527,Standard Setting Body
+129,576,Securities Investor Protection Corporation
+130,452,Smithsonian Institution
+131,453,State Justice Institute
+132,528,Telecommunications Development Fund
+133,455,Tennessee Valley Authority
+134,476,United Mine Workers of America Benefit Funds
+135,345,United States Court of Appeals for Veterans Claims
+136,486,United States Enrichment Corporation Fund
+137,456,United States Holocaust Memorial Museum
+138,458,United States Institute of Peace
+139,376,United States Interagency Council on Homelessness
+140,519,Vietnam Education Foundation
+141,930,Miscellaneous Receipts Below the Reporting Threshold
+142,009,Department of Health and Human Services
+143,011,Department of Justice
+144,016,Social Security Administration
+145,996,Amendments to and Revisions in Budget Authority
+146,997,Advance Appropriations
+147,920,Financing Vehicles and the Board of Governors of the Federal Reserve
+148,910,Government-Sponsored Enterprises
+149,915,Federal National Mortgage Association
+150,914,Federal Home Loan Mortgage Corporation
+151,913,Federal Home Loan Bank System
+152,912,Farm Credit System
