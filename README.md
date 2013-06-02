@@ -46,3 +46,6 @@ data from the Budget Appendix into a CSV file.  The columns are:
 `extractdata` also has a `--db` option which will also generate a set of
 normalized csv files that can be uploaded into an sql database.  In these files
 the accounts and schedules are given sequential id numbers to allow linking.
+The file `sqlite-load.sql` can be used to load the files into sqlite:
+
+    sqlite3 test.db <sqlite-load.sql
