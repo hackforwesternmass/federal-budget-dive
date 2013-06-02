@@ -42,3 +42,7 @@ data from the Budget Appendix into a CSV file.  The columns are:
     col3            Generally the 2011 actual data.
     col4            Generally the 2013 CR data.
     col5            Generally the 2014 estimated data.
+
+`extractdata` also has a `--db` option which will also generate a set of
+normalized csv files that can be uploaded into an sql database.  In these files
+the accounts and schedules are given sequential id numbers to allow linking.
